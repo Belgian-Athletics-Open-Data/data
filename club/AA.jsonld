@@ -1,0 +1,27 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/AA.jsonld",
+    "@type" : "Club",
+    "identifier": "AA",
+    "name": "ANTWERP ATHLETICS",
+    "alternateName": "AA",
+    "url": "https://www.antwerpathletics.be/",
+    "image": "https://www.atletiek.be/cache/images3796271.aa-0x0q_resize1344x576.jpg",
+    "logo": "http://antwerpathletics.be/wpss/wp-content/uploads/2016/01/AAT-Optimized300-4.gif",
+    "telephone": "+32 (0)8 695 38 60",
+    "email": "aa@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Sportpark Ruggeveld",
+            "streetAddress": "Ruggeveldlaan 480",
+            "addressLocality": "Deurne",
+            "postalCode": "2100",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
