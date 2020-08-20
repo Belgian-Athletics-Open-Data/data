@@ -1,0 +1,27 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/ZWAT.jsonld",
+    "@type" : "Club",
+    "identifier": "ZWAT",
+    "name": "ZWIJNDRECHT ATLETIEK TEAM",
+    "alternateName": "ZWAT",
+    "url": "https://www.zwat.be",
+    "image": "https://www.atletiek.be/cache/images2296e1b.zwat1-0x0q_resize1344x576.jpg",
+    "logo": "http://zwat.be/wp-content/uploads/2017/09/logo-300x151.png",
+    "telephone": "+32 (0)7 631 61 01",
+    "email": "zwat@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "De Wallen",
+            "streetAddress": "JHeirbaan 78",
+            "addressLocality": "Burcht",
+            "postalCode": "2070",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
