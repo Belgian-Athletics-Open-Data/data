@@ -16,6 +16,7 @@
         "addressCountry": "countrycode:BE"
     },
     "member": [
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld" }
+        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld" },
+        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACME.jsonld" }
     ]
 }
