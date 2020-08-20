@@ -1,0 +1,27 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/ABES.jsonld",
+    "@type" : "Club",
+    "identifier": "ABES",
+    "name": "ATL.BELG.EDEGEM",
+    "alternateName": "ABES",
+    "url": "https://www.abes-edegem.be",
+    "image": "https://www.atletiek.be/cache/cache/cache/images34ba981.abes-0x0q_resize1344x576.jpg",
+    "logo": "http://www.abes-edegem.be/wp-content/uploads/2019/07/logo-e1566202717310.png",
+    "telephone": "+32 (0)7 656 89 22",
+    "email": "abes@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Vic Coveliers",
+            "streetAddress": "Jan verbertlei",
+            "addressLocality": "Edegem",
+            "postalCode": "2650",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
