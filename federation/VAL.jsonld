@@ -1,0 +1,21 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld",
+    "@type": "Federation",
+    "name": "Vlaamse Atletiek Liga",
+    "alternateName": "VAL",
+    "email": "info@atletiek.be",
+    "url": "https://www.atletiek.be/",
+    "telephone": "+32 (0)2 474 72 20",
+    "address": {
+        "@type": "PostalAddress",
+        "name": "Huis van de Atletiek",
+        "streetAddress": "Marathonlaan 119 c",
+        "addressLocality": "Brussel",
+        "postalCode": "1020",
+        "addressCountry": "countrycode:BE"
+    },
+    "member": [
+        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld" }
+    ]
+}
