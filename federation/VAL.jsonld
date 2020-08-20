@@ -22,6 +22,7 @@
         { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACA.jsonld" },
         { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACME.jsonld" },
         { "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld" },
+        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ZA.jsonld" },
         { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ZWAT.jsonld" }      
     ]
 }
