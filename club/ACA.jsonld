@@ -1,0 +1,27 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACA.jsonld",
+    "@type" : "Club",
+    "identifier": "ACA",
+    "name": "AC ALKEN",
+    "alternateName": "ACA",
+    "url": "www.acalken.be",
+    "image": "https://www.atletiek.be/cache/images3f1d986.aca-0x0q_resize1344x576.jpg",
+    "logo": "https://www.atletiek.be/cache/images336f888.aca1-0x0q_resize300x200.jpg",
+    "telephone": "+32 (0)9 403 41 44",
+    "email": "aca@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Atletiekpiste De Alk",
+            "streetAddress": "Koutermanstraat",
+            "addressLocality": "Alken",
+            "postalCode": "3570",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
