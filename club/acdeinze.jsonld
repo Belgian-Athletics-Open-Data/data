@@ -1,0 +1,20 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "http://w3c.github.io/data/club/DEIN.jsonld",
+    "@type" : "Club",
+    "identifier": "DEIN",
+    "name": "AC DEINZE",
+    "alternateName": "DEIN",
+    "url": "https://www.acdeinze.be",
+    "image": "https://www.atletiek.be/cache/images7cc7bdc.dein1-0x0q_resize1344x576.jpg",
+    "logo": "http://www.acdeinze.be/joomla/templates/jp_lifestyle/styles/white_pink/images/logoacd.png",
+    "telephone": "(+32)4 9469 2931",
+    "email": "dein@atletiek.be",
+    "address": {
+        "name": "ATLETIEKSTADION DE BRIELMEERSEN",
+        "streetAddress": "Stadionlaan",
+        "addressLocality": "Deinze",
+        "postalCode": "9870",
+        "addressCountry": "countrycode:BE"
+    }
+}
