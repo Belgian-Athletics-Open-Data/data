@@ -1,0 +1,25 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/WIBO.jsonld",
+    "@type" : "Club",
+    "identifier": "WIBO",
+    "name": "WILLEBROEK-BOOM",
+    "alternateName": "WIBO",
+    "url": "https://www.wibo.be",
+    "logo": "https://static.wixstatic.com/media/6855ea_bed5c0b36f544c91ab8c72a689dd4f51.png",
+    "email": "wibo@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Piste Boom",
+            "streetAddress": "Beukenlaan",
+            "addressLocality": "Boom",
+            "postalCode": "2850",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
