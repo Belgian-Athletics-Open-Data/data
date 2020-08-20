@@ -1,6 +1,6 @@
 {
     "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
-    "@id" : "http://https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld",
     "@type" : "Club",
     "identifier": "DEIN",
     "name": "AC DEINZE",
