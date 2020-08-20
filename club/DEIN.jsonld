@@ -16,5 +16,7 @@
         "addressLocality": "Deinze",
         "postalCode": "9870",
         "addressCountry": "countrycode:BE"
-    }
+    },
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }
+    
 }
