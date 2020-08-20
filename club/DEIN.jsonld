@@ -20,6 +20,5 @@
     "athlete": [
         { "@id" : "https://belgian-athletics-open-data.github.io/data/athlete/001Zutterman_Kasper.jsonld" }
     ],
-    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }
-    
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
 }
