@@ -1,0 +1,20 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/athlete/001Zutterman_Kasper.jsonld",
+    "@type" : "Athlete",
+    "name" : "Kasper Zutterman",
+    "familyName" : "Kasper",
+    "givenName" : "Zutterman",
+    "gender" : "Male" ,
+    "nationality" : "countrycode:BE",
+    "email" : "kasperzutterman1999@gmail.com",
+    "birthDate" : "1999-10-04",
+    "coach" : {
+        "@type" : "Person",
+        "name" : "Veronique Storme"
+    },
+    "affiliation" : 
+        [
+            { "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld" }
+        ]
+}
