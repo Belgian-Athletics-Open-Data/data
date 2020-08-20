@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/ZA.jsonld",
+    "@type" : "Club",
+    "identifier": "ZA",
+    "name": "AC ZOTTEGEM",
+    "alternateName": "ZA",
+    "url": "https://www.zottegem-atletiek.be",
+    "image": "https://www.atletiek.be/cache/imagescb8e326.za1-0x0q_resize1344x576.jpg",
+    "telephone": "09 360 78 09",
+    "email": "za@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Stedelijk Sportstadion Zottegem",
+            "streetAddress": "Kastanjelaan 85",
+            "addressLocality": "Zottegem",
+            "postalCode": "9620",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
