@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACME.jsonld",
+    "@type" : "Club",
+    "identifier": "ACME",
+    "name": "AC MEETJESLAND",
+    "alternateName": "ACME",
+    "url": "https://www.acmeetjesland.be",
+    "image": "https://www.atletiek.be/cache/imagesc9b0bc9.acme-0x0q_resize1344x576.jpg",
+    "logo": "http://acmeetjesland.be/wp-content/uploads/2017/06/Logo_ACME.png",
+    "email": "acme@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Maurits De Waele Stadion",
+            "streetAddress": "Bloemestraat 36D1",
+            "addressLocality": "Maldegem",
+            "postalCode": "9990",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Werpterreinen Eeklo",
+            "streetAddress": "Sportlaan 28a",
+            "addressLocality": "Eeklo",
+            "postalCode": "9900",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
