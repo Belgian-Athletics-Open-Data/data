@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id" : "https://belgian-athletics-open-data.github.io/data/club/ABAV.jsonld",
+    "@type" : "Club",
+    "identifier": "ABAV",
+    "name": "ALG.BRUGSE AV",
+    "alternateName": "ABAV",
+    "url": "https://www.abavbrugge.be",
+    "image": "https://www.atletiek.be/cache/cache/images127b08d.abav-0x0q_resize1344x576.jpg",
+    "telephone": "050 315460",
+    "email": "abav@atletiek.be",
+    "address": 
+    [
+        {
+            "name": "Sport Vlaanderen Brugge Julien Saelens",
+            "streetAddress": "Nijverheidsstraat 112",
+            "addressLocality": "Assebroek",
+            "postalCode": "8310",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [
+        
+    ],
+    "memberOf" : { "@id" : "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld" }    
+}
