@@ -1,0 +1,22 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/federation/LBFA.jsonld",
+    "@type": "Federation",
+    "name": "Ligue Belge Francophone d’Athlétisme",
+    "alternateName": "LBFA",
+    "email": "info@lbfa.be",
+    "url": "https://www.lbfa.be/",
+    "telephone": "02 474 72 04",
+    "fax": "02 474 72 09",
+    "address": {
+        "@type": "PostalAddress",
+        "name": "Huis van de Atletiek",
+        "streetAddress": "Marathonlaan 119 D",
+        "addressLocality": "Brussel",
+        "postalCode": "1020",
+        "addressCountry": "countrycode:BE"
+    },
+    "member": [
+        
+    ]
+}
