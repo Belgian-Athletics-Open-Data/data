@@ -16,6 +16,7 @@
         "postalCode": "1020",
         "addressCountry": "countrycode:BE"
     },
+    "memberOf": "https://belgian-athletics-open-data.github.io/data/federation/BEL.jsonld",
     "member": [
         
     ]
