@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Baise_Cataline.jsonld",
+    "@type": "Athlete",
+    "name": "Baise Cataline",
+    "familyName": "Baise",
+    "givenName": "Cataline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3801"
+    },
+    "birthDate": "2009-10-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACTE.jsonld"
+        }
+    ]
+}

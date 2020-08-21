@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cariere_Julia.jsonld",
+    "@type": "Athlete",
+    "name": "Cariere Julia",
+    "familyName": "Cariere",
+    "givenName": "Julia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7753"
+    },
+    "birthDate": "2007-04-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

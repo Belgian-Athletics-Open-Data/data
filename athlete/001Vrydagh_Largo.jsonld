@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vrydagh_Largo.jsonld",
+    "@type": "Athlete",
+    "name": "Vrydagh Largo",
+    "familyName": "Vrydagh",
+    "givenName": "Largo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0111"
+    },
+    "birthDate": "2005-06-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

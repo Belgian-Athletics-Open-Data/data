@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Honore_Francois.jsonld",
+    "@type": "Athlete",
+    "name": "Honore Francois",
+    "familyName": "Honore",
+    "givenName": "Francois",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4772"
+    },
+    "birthDate": "1978-10-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

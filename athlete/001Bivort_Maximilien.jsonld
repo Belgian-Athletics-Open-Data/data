@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bivort_Maximilien.jsonld",
+    "@type": "Athlete",
+    "name": "Bivort Maximilien",
+    "familyName": "Bivort",
+    "givenName": "Maximilien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6865"
+    },
+    "birthDate": "2007-04-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

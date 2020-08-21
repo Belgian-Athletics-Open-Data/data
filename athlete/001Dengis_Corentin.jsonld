@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dengis_Corentin.jsonld",
+    "@type": "Athlete",
+    "name": "Dengis Corentin",
+    "familyName": "Dengis",
+    "givenName": "Corentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2684"
+    },
+    "birthDate": "2008-04-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bacart_Georges.jsonld",
+    "@type": "Athlete",
+    "name": "Bacart Georges",
+    "familyName": "Bacart",
+    "givenName": "Georges",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5045"
+    },
+    "birthDate": "1962-05-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

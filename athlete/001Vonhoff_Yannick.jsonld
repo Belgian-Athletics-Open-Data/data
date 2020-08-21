@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vonhoff_Yannick.jsonld",
+    "@type": "Athlete",
+    "name": "Vonhoff Yannick",
+    "familyName": "Vonhoff",
+    "givenName": "Yannick",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3659"
+    },
+    "birthDate": "1994-07-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

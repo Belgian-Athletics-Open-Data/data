@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wegnez_Maelle.jsonld",
+    "@type": "Athlete",
+    "name": "Wegnez Maelle",
+    "familyName": "Wegnez",
+    "givenName": "Maelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3614"
+    },
+    "birthDate": "2008-06-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

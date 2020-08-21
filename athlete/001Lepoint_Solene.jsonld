@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lepoint_Solene.jsonld",
+    "@type": "Athlete",
+    "name": "Lepoint Solene",
+    "familyName": "Lepoint",
+    "givenName": "Solene",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3490"
+    },
+    "birthDate": "2009-12-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

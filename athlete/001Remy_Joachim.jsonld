@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Remy_Joachim.jsonld",
+    "@type": "Athlete",
+    "name": "Remy Joachim",
+    "familyName": "Remy",
+    "givenName": "Joachim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0444"
+    },
+    "birthDate": "2005-04-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

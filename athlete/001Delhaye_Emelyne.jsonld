@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delhaye_Emelyne.jsonld",
+    "@type": "Athlete",
+    "name": "Delhaye Emelyne",
+    "familyName": "Delhaye",
+    "givenName": "Emelyne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0019"
+    },
+    "birthDate": "2000-10-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

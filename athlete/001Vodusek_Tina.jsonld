@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vodusek_Tina.jsonld",
+    "@type": "Athlete",
+    "name": "Vodusek Tina*",
+    "familyName": "Vodusek",
+    "givenName": "Tina*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "9747"
+    },
+    "birthDate": "2006-02-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

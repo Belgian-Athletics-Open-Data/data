@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Blondeau_Clemence.jsonld",
+    "@type": "Athlete",
+    "name": "Blondeau Clemence",
+    "familyName": "Blondeau",
+    "givenName": "Clemence",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "9758"
+    },
+    "birthDate": "2006-02-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

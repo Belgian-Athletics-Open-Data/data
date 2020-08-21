@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Doyen_Marie-Jeanne.jsonld",
+    "@type": "Athlete",
+    "name": "Doyen Marie-Jeanne",
+    "familyName": "Doyen",
+    "givenName": "Marie-Jeanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2728"
+    },
+    "birthDate": "1955-11-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

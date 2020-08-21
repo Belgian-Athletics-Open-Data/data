@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lete_Philoe.jsonld",
+    "@type": "Athlete",
+    "name": "Lete Philoe",
+    "familyName": "Lete",
+    "givenName": "Philoe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0310"
+    },
+    "birthDate": "2005-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

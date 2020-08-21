@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rousseau_Florine.jsonld",
+    "@type": "Athlete",
+    "name": "Rousseau Florine",
+    "familyName": "Rousseau",
+    "givenName": "Florine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7708"
+    },
+    "birthDate": "2006-10-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

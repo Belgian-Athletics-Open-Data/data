@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mauvisin_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "Mauvisin Alexandre",
+    "familyName": "Mauvisin",
+    "givenName": "Alexandre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6131"
+    },
+    "birthDate": "2006-01-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

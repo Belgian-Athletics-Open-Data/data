@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Yahni_Sayat.jsonld",
+    "@type": "Athlete",
+    "name": "Yahni Sayat",
+    "familyName": "Yahni",
+    "givenName": "Sayat",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2345"
+    },
+    "birthDate": "2002-03-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

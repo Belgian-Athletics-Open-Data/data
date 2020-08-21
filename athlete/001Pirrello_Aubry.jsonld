@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pirrello_Aubry.jsonld",
+    "@type": "Athlete",
+    "name": "Pirrello Aubry",
+    "familyName": "Pirrello",
+    "givenName": "Aubry",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0021"
+    },
+    "birthDate": "2001-10-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

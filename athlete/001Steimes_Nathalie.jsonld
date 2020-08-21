@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Steimes_Nathalie.jsonld",
+    "@type": "Athlete",
+    "name": "Steimes Nathalie",
+    "familyName": "Steimes",
+    "givenName": "Nathalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2726"
+    },
+    "birthDate": "1971-11-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Corswarem_Pierre-Henri.jsonld",
+    "@type": "Athlete",
+    "name": "Corswarem Pierre-Henri",
+    "familyName": "Corswarem",
+    "givenName": "Pierre-Henri",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1951"
+    },
+    "birthDate": "1986-06-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

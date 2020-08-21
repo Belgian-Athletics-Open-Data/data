@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sterckx_Fabrice.jsonld",
+    "@type": "Athlete",
+    "name": "Sterckx Fabrice",
+    "familyName": "Sterckx",
+    "givenName": "Fabrice",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4982"
+    },
+    "birthDate": "1971-12-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

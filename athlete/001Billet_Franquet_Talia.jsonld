@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Billet_Franquet_Talia.jsonld",
+    "@type": "Athlete",
+    "name": "Billet Franquet Talia",
+    "familyName": "Billet",
+    "givenName": "Franquet Talia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3822"
+    },
+    "birthDate": "2008-07-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

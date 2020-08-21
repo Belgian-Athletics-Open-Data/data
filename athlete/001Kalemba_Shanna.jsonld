@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kalemba_Shanna.jsonld",
+    "@type": "Athlete",
+    "name": "Kalemba Shanna",
+    "familyName": "Kalemba",
+    "givenName": "Shanna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7729"
+    },
+    "birthDate": "2007-12-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

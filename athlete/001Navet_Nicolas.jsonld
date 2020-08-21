@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Navet_Nicolas.jsonld",
+    "@type": "Athlete",
+    "name": "Navet Nicolas",
+    "familyName": "Navet",
+    "givenName": "Nicolas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1273"
+    },
+    "birthDate": "1989-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Marechal_Eliott.jsonld",
+    "@type": "Athlete",
+    "name": "Marechal Eliott",
+    "familyName": "Marechal",
+    "givenName": "Eliott",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2796"
+    },
+    "birthDate": "2009-09-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

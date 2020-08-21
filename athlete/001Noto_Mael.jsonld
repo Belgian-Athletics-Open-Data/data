@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Noto_Mael.jsonld",
+    "@type": "Athlete",
+    "name": "Noto Mael",
+    "familyName": "Noto",
+    "givenName": "Mael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6799"
+    },
+    "birthDate": "2006-10-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

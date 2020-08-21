@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Geyter_Valentin.jsonld",
+    "@type": "Athlete",
+    "name": "De Geyter Valentin",
+    "familyName": "De",
+    "givenName": "Geyter Valentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3486"
+    },
+    "birthDate": "2009-06-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

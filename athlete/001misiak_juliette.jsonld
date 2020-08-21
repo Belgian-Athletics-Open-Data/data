@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001misiak_juliette.jsonld",
+    "@type": "Athlete",
+    "name": "misiak juliette",
+    "familyName": "misiak",
+    "givenName": "juliette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7928"
+    },
+    "birthDate": "2006-01-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bral_Amandine.jsonld",
+    "@type": "Athlete",
+    "name": "Bral Amandine",
+    "familyName": "Bral",
+    "givenName": "Amandine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0471"
+    },
+    "birthDate": "2010-01-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

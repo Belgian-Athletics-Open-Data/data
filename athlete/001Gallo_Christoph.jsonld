@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gallo_Christoph.jsonld",
+    "@type": "Athlete",
+    "name": "Gallo Christoph",
+    "familyName": "Gallo",
+    "givenName": "Christoph",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1232"
+    },
+    "birthDate": "1989-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

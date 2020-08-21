@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nimmegeers_Thibaut.jsonld",
+    "@type": "Athlete",
+    "name": "Nimmegeers Thibaut",
+    "familyName": "Nimmegeers",
+    "givenName": "Thibaut",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6851"
+    },
+    "birthDate": "2007-12-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

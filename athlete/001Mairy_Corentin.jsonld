@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mairy_Corentin.jsonld",
+    "@type": "Athlete",
+    "name": "Mairy Corentin",
+    "familyName": "Mairy",
+    "givenName": "Corentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0665"
+    },
+    "birthDate": "2004-07-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

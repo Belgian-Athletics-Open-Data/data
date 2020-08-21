@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Payen_Camille.jsonld",
+    "@type": "Athlete",
+    "name": "Payen Camille",
+    "familyName": "Payen",
+    "givenName": "Camille",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2895"
+    },
+    "birthDate": "2003-10-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

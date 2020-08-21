@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kabuya_Hugues.jsonld",
+    "@type": "Athlete",
+    "name": "Kabuya Hugues",
+    "familyName": "Kabuya",
+    "givenName": "Hugues",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2015"
+    },
+    "birthDate": "1997-01-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

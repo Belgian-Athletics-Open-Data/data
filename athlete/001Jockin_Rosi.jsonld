@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jockin_Rosi.jsonld",
+    "@type": "Athlete",
+    "name": "Jockin Rosi",
+    "familyName": "Jockin",
+    "givenName": "Rosi",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7363"
+    },
+    "birthDate": "2007-10-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

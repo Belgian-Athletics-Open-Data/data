@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Andrieux_Jeremy.jsonld",
+    "@type": "Athlete",
+    "name": "Andrieux Jeremy",
+    "familyName": "Andrieux",
+    "givenName": "Jeremy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4845"
+    },
+    "birthDate": "1983-04-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

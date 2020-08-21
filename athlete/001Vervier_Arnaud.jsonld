@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vervier_Arnaud.jsonld",
+    "@type": "Athlete",
+    "name": "Vervier Arnaud",
+    "familyName": "Vervier",
+    "givenName": "Arnaud",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4778"
+    },
+    "birthDate": "1983-06-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

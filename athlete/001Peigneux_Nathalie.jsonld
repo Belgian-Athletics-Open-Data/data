@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Peigneux_Nathalie.jsonld",
+    "@type": "Athlete",
+    "name": "Peigneux Nathalie",
+    "familyName": "Peigneux",
+    "givenName": "Nathalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2710"
+    },
+    "birthDate": "1973-02-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

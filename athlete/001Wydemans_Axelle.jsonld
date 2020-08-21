@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wydemans_Axelle.jsonld",
+    "@type": "Athlete",
+    "name": "Wydemans Axelle*",
+    "familyName": "Wydemans",
+    "givenName": "Axelle*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3125"
+    },
+    "birthDate": "1982-05-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

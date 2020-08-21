@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Neles_Lalie.jsonld",
+    "@type": "Athlete",
+    "name": "Neles Lalie",
+    "familyName": "Neles",
+    "givenName": "Lalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7192"
+    },
+    "birthDate": "2007-06-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

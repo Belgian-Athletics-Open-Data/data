@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rastoll_Tobelem_Zoe.jsonld",
+    "@type": "Athlete",
+    "name": "Rastoll Tobelem Zoe",
+    "familyName": "Rastoll",
+    "givenName": "Tobelem Zoe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0717"
+    },
+    "birthDate": "2005-09-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

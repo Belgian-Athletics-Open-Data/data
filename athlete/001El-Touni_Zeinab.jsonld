@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El-Touni_Zeinab.jsonld",
+    "@type": "Athlete",
+    "name": "El-Touni Zeinab*",
+    "familyName": "El-Touni",
+    "givenName": "Zeinab*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7076"
+    },
+    "birthDate": "2006-09-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

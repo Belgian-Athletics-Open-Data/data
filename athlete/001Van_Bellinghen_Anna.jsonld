@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Bellinghen_Anna.jsonld",
+    "@type": "Athlete",
+    "name": "Van Bellinghen Anna",
+    "familyName": "Van",
+    "givenName": "Bellinghen Anna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1495"
+    },
+    "birthDate": "1994-03-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

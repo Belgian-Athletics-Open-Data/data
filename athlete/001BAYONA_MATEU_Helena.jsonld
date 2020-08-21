@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BAYONA_MATEU_Helena.jsonld",
+    "@type": "Athlete",
+    "name": "BAYONA MATEU Helena*",
+    "familyName": "BAYONA",
+    "givenName": "MATEU Helena*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1292"
+    },
+    "birthDate": "1998-02-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

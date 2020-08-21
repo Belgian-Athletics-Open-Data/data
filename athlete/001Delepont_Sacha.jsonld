@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delepont_Sacha.jsonld",
+    "@type": "Athlete",
+    "name": "Delepont Sacha",
+    "familyName": "Delepont",
+    "givenName": "Sacha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3604"
+    },
+    "birthDate": "2008-08-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

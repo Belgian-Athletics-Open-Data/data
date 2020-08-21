@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Zune_Antonin.jsonld",
+    "@type": "Athlete",
+    "name": "Zune Antonin",
+    "familyName": "Zune",
+    "givenName": "Antonin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0079"
+    },
+    "birthDate": "2000-03-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

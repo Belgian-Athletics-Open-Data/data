@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Szerman_Melvin.jsonld",
+    "@type": "Athlete",
+    "name": "Szerman Melvin",
+    "familyName": "Szerman",
+    "givenName": "Melvin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1598"
+    },
+    "birthDate": "1997-03-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

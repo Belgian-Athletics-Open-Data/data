@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tekitsa_Kenfack_Frank_Lo.jsonld",
+    "@type": "Athlete",
+    "name": "Tekitsa Kenfack Frank Lo*",
+    "familyName": "Tekitsa",
+    "givenName": "Kenfack Frank Lo*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1882"
+    },
+    "birthDate": "1998-01-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

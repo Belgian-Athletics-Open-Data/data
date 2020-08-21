@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bouvy_Naomi.jsonld",
+    "@type": "Athlete",
+    "name": "Bouvy Naomi",
+    "familyName": "Bouvy",
+    "givenName": "Naomi",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1423"
+    },
+    "birthDate": "1999-06-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Braune_Thomas.jsonld",
+    "@type": "Athlete",
+    "name": "Braune Thomas",
+    "familyName": "Braune",
+    "givenName": "Thomas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0061"
+    },
+    "birthDate": "2000-10-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACTE.jsonld"
+        }
+    ]
+}

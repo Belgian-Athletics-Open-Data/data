@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001GALVEZ_RUIZ_Michael.jsonld",
+    "@type": "Athlete",
+    "name": "GALVEZ RUIZ Michael",
+    "familyName": "GALVEZ",
+    "givenName": "RUIZ Michael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5011"
+    },
+    "birthDate": "1979-05-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

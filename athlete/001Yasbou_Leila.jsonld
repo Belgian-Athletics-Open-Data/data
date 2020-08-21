@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Yasbou_Leila.jsonld",
+    "@type": "Athlete",
+    "name": "Yasbou Leila",
+    "familyName": "Yasbou",
+    "givenName": "Leila",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3975"
+    },
+    "birthDate": "2008-09-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

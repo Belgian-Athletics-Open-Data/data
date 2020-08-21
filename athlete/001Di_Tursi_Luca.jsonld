@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Tursi_Luca.jsonld",
+    "@type": "Athlete",
+    "name": "Di Tursi Luca",
+    "familyName": "Di",
+    "givenName": "Tursi Luca",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0105"
+    },
+    "birthDate": "2000-11-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

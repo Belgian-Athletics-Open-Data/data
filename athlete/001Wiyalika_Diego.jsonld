@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wiyalika_Diego.jsonld",
+    "@type": "Athlete",
+    "name": "Wiyalika Diego",
+    "familyName": "Wiyalika",
+    "givenName": "Diego",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3504"
+    },
+    "birthDate": "2008-02-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

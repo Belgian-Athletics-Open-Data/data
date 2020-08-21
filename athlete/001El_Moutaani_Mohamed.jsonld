@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Moutaani_Mohamed.jsonld",
+    "@type": "Athlete",
+    "name": "El Moutaani Mohamed",
+    "familyName": "El",
+    "givenName": "Moutaani Mohamed",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0345"
+    },
+    "birthDate": "2000-09-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

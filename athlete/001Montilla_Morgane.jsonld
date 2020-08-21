@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Montilla_Morgane.jsonld",
+    "@type": "Athlete",
+    "name": "Montilla Morgane",
+    "familyName": "Montilla",
+    "givenName": "Morgane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1056"
+    },
+    "birthDate": "1998-01-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

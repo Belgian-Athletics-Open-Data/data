@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dotremont_Clara.jsonld",
+    "@type": "Athlete",
+    "name": "Dotremont Clara",
+    "familyName": "Dotremont",
+    "givenName": "Clara",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0401"
+    },
+    "birthDate": "2005-03-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

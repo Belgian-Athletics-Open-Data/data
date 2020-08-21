@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Thonon_Nora.jsonld",
+    "@type": "Athlete",
+    "name": "Thonon Nora",
+    "familyName": "Thonon",
+    "givenName": "Nora",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2919"
+    },
+    "birthDate": "2003-04-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

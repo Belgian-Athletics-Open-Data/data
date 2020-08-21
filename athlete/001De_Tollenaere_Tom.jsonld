@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Tollenaere_Tom.jsonld",
+    "@type": "Athlete",
+    "name": "De Tollenaere Tom",
+    "familyName": "De",
+    "givenName": "Tollenaere Tom",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2196"
+    },
+    "birthDate": "2003-05-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

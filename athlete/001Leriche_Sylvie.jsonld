@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Leriche_Sylvie.jsonld",
+    "@type": "Athlete",
+    "name": "Leriche Sylvie",
+    "familyName": "Leriche",
+    "givenName": "Sylvie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2898"
+    },
+    "birthDate": "1976-05-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

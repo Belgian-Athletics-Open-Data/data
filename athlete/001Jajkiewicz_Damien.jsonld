@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jajkiewicz_Damien.jsonld",
+    "@type": "Athlete",
+    "name": "Jajkiewicz Damien",
+    "familyName": "Jajkiewicz",
+    "givenName": "Damien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0153"
+    },
+    "birthDate": "2000-03-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

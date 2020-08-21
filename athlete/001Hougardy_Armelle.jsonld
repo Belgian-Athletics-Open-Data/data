@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hougardy_Armelle.jsonld",
+    "@type": "Athlete",
+    "name": "Hougardy Armelle",
+    "familyName": "Hougardy",
+    "givenName": "Armelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4225"
+    },
+    "birthDate": "2008-05-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

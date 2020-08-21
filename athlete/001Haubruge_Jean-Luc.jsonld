@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Haubruge_Jean-Luc.jsonld",
+    "@type": "Athlete",
+    "name": "Haubruge Jean-Luc",
+    "familyName": "Haubruge",
+    "givenName": "Jean-Luc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5223"
+    },
+    "birthDate": "1955-04-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

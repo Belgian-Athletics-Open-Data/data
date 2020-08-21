@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001D'Haeseleer_Eric.jsonld",
+    "@type": "Athlete",
+    "name": "D'Haeseleer Eric",
+    "familyName": "D'Haeseleer",
+    "givenName": "Eric",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1663"
+    },
+    "birthDate": "1988-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bilocq_Elie.jsonld",
+    "@type": "Athlete",
+    "name": "Bilocq Elie",
+    "familyName": "Bilocq",
+    "givenName": "Elie",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3301"
+    },
+    "birthDate": "2009-01-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

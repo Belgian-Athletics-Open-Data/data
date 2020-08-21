@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wittevrongel_Ulysse.jsonld",
+    "@type": "Athlete",
+    "name": "Wittevrongel Ulysse",
+    "familyName": "Wittevrongel",
+    "givenName": "Ulysse",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6520"
+    },
+    "birthDate": "2007-09-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

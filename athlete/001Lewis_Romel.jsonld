@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lewis_Romel.jsonld",
+    "@type": "Athlete",
+    "name": "Lewis Romel*",
+    "familyName": "Lewis",
+    "givenName": "Romel*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2123"
+    },
+    "birthDate": "1988-01-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

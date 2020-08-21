@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duvivier_Aurore.jsonld",
+    "@type": "Athlete",
+    "name": "Duvivier Aurore",
+    "familyName": "Duvivier",
+    "givenName": "Aurore",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0621"
+    },
+    "birthDate": "2004-06-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

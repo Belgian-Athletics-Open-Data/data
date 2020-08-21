@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Modica_Fiona.jsonld",
+    "@type": "Athlete",
+    "name": "Modica Fiona",
+    "familyName": "Modica",
+    "givenName": "Fiona",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4013"
+    },
+    "birthDate": "2009-06-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

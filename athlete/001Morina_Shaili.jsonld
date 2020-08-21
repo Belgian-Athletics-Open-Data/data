@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Morina_Shaili.jsonld",
+    "@type": "Athlete",
+    "name": "Morina Shaili",
+    "familyName": "Morina",
+    "givenName": "Shaili",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0628"
+    },
+    "birthDate": "2011-12-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

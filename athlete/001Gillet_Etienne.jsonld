@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gillet_Etienne.jsonld",
+    "@type": "Athlete",
+    "name": "Gillet Etienne",
+    "familyName": "Gillet",
+    "givenName": "Etienne",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5125"
+    },
+    "birthDate": "1962-09-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

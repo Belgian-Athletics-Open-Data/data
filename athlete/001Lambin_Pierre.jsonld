@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lambin_Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Lambin Pierre",
+    "familyName": "Lambin",
+    "givenName": "Pierre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1455"
+    },
+    "birthDate": "1991-11-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

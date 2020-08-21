@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Desmecht_Lucile.jsonld",
+    "@type": "Athlete",
+    "name": "Desmecht Lucile",
+    "familyName": "Desmecht",
+    "givenName": "Lucile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3513"
+    },
+    "birthDate": "2008-01-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

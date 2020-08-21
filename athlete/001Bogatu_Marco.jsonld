@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bogatu_Marco.jsonld",
+    "@type": "Athlete",
+    "name": "Bogatu Marco*",
+    "familyName": "Bogatu",
+    "givenName": "Marco*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0238"
+    },
+    "birthDate": "2005-02-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

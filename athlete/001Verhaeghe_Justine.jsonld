@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Verhaeghe_Justine.jsonld",
+    "@type": "Athlete",
+    "name": "Verhaeghe Justine*",
+    "familyName": "Verhaeghe",
+    "givenName": "Justine*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3532"
+    },
+    "birthDate": "2008-04-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EAH.jsonld"
+        }
+    ]
+}

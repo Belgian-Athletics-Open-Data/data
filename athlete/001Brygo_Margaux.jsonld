@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brygo_Margaux.jsonld",
+    "@type": "Athlete",
+    "name": "Brygo Margaux",
+    "familyName": "Brygo",
+    "givenName": "Margaux",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0020"
+    },
+    "birthDate": "2005-02-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

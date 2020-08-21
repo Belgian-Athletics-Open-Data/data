@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Aussems_Hanna.jsonld",
+    "@type": "Athlete",
+    "name": "Aussems Hanna",
+    "familyName": "Aussems",
+    "givenName": "Hanna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1508"
+    },
+    "birthDate": "1999-10-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LACE.jsonld"
+        }
+    ]
+}

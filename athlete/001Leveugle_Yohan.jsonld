@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Leveugle_Yohan.jsonld",
+    "@type": "Athlete",
+    "name": "Leveugle Yohan",
+    "familyName": "Leveugle",
+    "givenName": "Yohan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0350"
+    },
+    "birthDate": "2000-07-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

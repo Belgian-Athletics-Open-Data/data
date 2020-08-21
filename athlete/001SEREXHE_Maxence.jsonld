@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SEREXHE_Maxence.jsonld",
+    "@type": "Athlete",
+    "name": "SEREXHE Maxence",
+    "familyName": "SEREXHE",
+    "givenName": "Maxence",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2680"
+    },
+    "birthDate": "2009-12-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

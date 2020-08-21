@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dessy_Sebastien.jsonld",
+    "@type": "Athlete",
+    "name": "Dessy Sebastien",
+    "familyName": "Dessy",
+    "givenName": "Sebastien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4476"
+    },
+    "birthDate": "1976-09-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

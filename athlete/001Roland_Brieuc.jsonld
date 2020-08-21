@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Roland_Brieuc.jsonld",
+    "@type": "Athlete",
+    "name": "Roland Brieuc",
+    "familyName": "Roland",
+    "givenName": "Brieuc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1776"
+    },
+    "birthDate": "1997-01-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Marcoux_Benjamin.jsonld",
+    "@type": "Athlete",
+    "name": "Marcoux Benjamin",
+    "familyName": "Marcoux",
+    "givenName": "Benjamin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4231"
+    },
+    "birthDate": "1982-02-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

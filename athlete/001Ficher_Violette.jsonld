@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ficher_Violette.jsonld",
+    "@type": "Athlete",
+    "name": "Ficher Violette",
+    "familyName": "Ficher",
+    "givenName": "Violette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3849"
+    },
+    "birthDate": "2009-01-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

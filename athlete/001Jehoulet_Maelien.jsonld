@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jehoulet_Maelien.jsonld",
+    "@type": "Athlete",
+    "name": "Jehoulet Maelien",
+    "familyName": "Jehoulet",
+    "givenName": "Maelien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6170"
+    },
+    "birthDate": "2007-09-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

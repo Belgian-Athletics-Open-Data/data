@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Koumtouji_Nya_Oceane.jsonld",
+    "@type": "Athlete",
+    "name": "Koumtouji Nya Oceane",
+    "familyName": "Koumtouji",
+    "givenName": "Nya Oceane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0766"
+    },
+    "birthDate": "2005-05-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

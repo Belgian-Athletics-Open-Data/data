@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duriau_Jean-David.jsonld",
+    "@type": "Athlete",
+    "name": "Duriau Jean-David",
+    "familyName": "Duriau",
+    "givenName": "Jean-David",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4445"
+    },
+    "birthDate": "1977-12-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

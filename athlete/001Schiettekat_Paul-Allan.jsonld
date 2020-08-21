@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schiettekat_Paul-Allan.jsonld",
+    "@type": "Athlete",
+    "name": "Schiettekat Paul-Allan",
+    "familyName": "Schiettekat",
+    "givenName": "Paul-Allan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3764"
+    },
+    "birthDate": "2009-08-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

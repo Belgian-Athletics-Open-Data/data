@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_den_Abeele_Elodie.jsonld",
+    "@type": "Athlete",
+    "name": "Van den Abeele Elodie",
+    "familyName": "Van",
+    "givenName": "den Abeele Elodie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1119"
+    },
+    "birthDate": "1996-03-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

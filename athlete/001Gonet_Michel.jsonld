@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gonet_Michel.jsonld",
+    "@type": "Athlete",
+    "name": "Gonet Michel",
+    "familyName": "Gonet",
+    "givenName": "Michel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3950"
+    },
+    "birthDate": "1946-05-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

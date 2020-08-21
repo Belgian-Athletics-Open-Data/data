@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Leroy_Coralie.jsonld",
+    "@type": "Athlete",
+    "name": "Leroy Coralie",
+    "familyName": "Leroy",
+    "givenName": "Coralie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3025"
+    },
+    "birthDate": "1981-08-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

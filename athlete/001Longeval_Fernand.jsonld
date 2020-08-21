@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Longeval_Fernand.jsonld",
+    "@type": "Athlete",
+    "name": "Longeval Fernand",
+    "familyName": "Longeval",
+    "givenName": "Fernand",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5137"
+    },
+    "birthDate": "1948-05-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

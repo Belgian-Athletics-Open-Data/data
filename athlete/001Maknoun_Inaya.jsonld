@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maknoun_Inaya.jsonld",
+    "@type": "Athlete",
+    "name": "Maknoun Inaya",
+    "familyName": "Maknoun",
+    "givenName": "Inaya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3747"
+    },
+    "birthDate": "2009-10-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

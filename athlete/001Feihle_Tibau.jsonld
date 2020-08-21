@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Feihle_Tibau.jsonld",
+    "@type": "Athlete",
+    "name": "Feihle Tibau",
+    "familyName": "Feihle",
+    "givenName": "Tibau",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3366"
+    },
+    "birthDate": "2009-10-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

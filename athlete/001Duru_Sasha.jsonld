@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duru_Sasha.jsonld",
+    "@type": "Athlete",
+    "name": "Duru Sasha",
+    "familyName": "Duru",
+    "givenName": "Sasha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3303"
+    },
+    "birthDate": "2008-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

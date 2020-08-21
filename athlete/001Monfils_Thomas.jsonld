@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monfils_Thomas.jsonld",
+    "@type": "Athlete",
+    "name": "Monfils Thomas",
+    "familyName": "Monfils",
+    "givenName": "Thomas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1540"
+    },
+    "birthDate": "1992-08-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

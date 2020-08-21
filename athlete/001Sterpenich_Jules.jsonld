@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sterpenich_Jules.jsonld",
+    "@type": "Athlete",
+    "name": "Sterpenich Jules",
+    "familyName": "Sterpenich",
+    "givenName": "Jules",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2739"
+    },
+    "birthDate": "2008-10-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

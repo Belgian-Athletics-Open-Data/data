@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lard_Youri.jsonld",
+    "@type": "Athlete",
+    "name": "Lard Youri",
+    "familyName": "Lard",
+    "givenName": "Youri",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3193"
+    },
+    "birthDate": "2008-12-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Rymenant_Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Van Rymenant Marie",
+    "familyName": "Van",
+    "givenName": "Rymenant Marie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7314"
+    },
+    "birthDate": "2006-06-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

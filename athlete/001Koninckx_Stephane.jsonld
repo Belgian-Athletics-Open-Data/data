@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Koninckx_Stephane.jsonld",
+    "@type": "Athlete",
+    "name": "Koninckx Stephane",
+    "familyName": "Koninckx",
+    "givenName": "Stephane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1775"
+    },
+    "birthDate": "1991-10-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Domaniecki_Celine.jsonld",
+    "@type": "Athlete",
+    "name": "Domaniecki Celine",
+    "familyName": "Domaniecki",
+    "givenName": "Celine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1367"
+    },
+    "birthDate": "1997-03-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

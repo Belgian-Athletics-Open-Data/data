@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Couvreur_Nancy.jsonld",
+    "@type": "Athlete",
+    "name": "Couvreur Nancy",
+    "familyName": "Couvreur",
+    "givenName": "Nancy",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3230"
+    },
+    "birthDate": "1973-05-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

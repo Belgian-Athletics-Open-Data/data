@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gresse_Salome.jsonld",
+    "@type": "Athlete",
+    "name": "Gresse Salome",
+    "familyName": "Gresse",
+    "givenName": "Salome",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0296"
+    },
+    "birthDate": "2001-06-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

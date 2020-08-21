@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Raddotti_Monica.jsonld",
+    "@type": "Athlete",
+    "name": "Raddotti Monica",
+    "familyName": "Raddotti",
+    "givenName": "Monica",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0914"
+    },
+    "birthDate": "2005-09-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

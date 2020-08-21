@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kiran_Merwan.jsonld",
+    "@type": "Athlete",
+    "name": "Kiran Merwan",
+    "familyName": "Kiran",
+    "givenName": "Merwan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3250"
+    },
+    "birthDate": "2008-09-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

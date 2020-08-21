@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sandri_louis.jsonld",
+    "@type": "Athlete",
+    "name": "Sandri louis",
+    "familyName": "Sandri",
+    "givenName": "louis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3591"
+    },
+    "birthDate": "2008-06-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

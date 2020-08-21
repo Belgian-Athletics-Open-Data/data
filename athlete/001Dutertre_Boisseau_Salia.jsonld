@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dutertre_Boisseau_Salia.jsonld",
+    "@type": "Athlete",
+    "name": "Dutertre Boisseau Salia*",
+    "familyName": "Dutertre",
+    "givenName": "Boisseau Salia*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0885"
+    },
+    "birthDate": "2004-11-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

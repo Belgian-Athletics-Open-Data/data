@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Carlier_Maelle.jsonld",
+    "@type": "Athlete",
+    "name": "Carlier Maelle",
+    "familyName": "Carlier",
+    "givenName": "Maelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7425"
+    },
+    "birthDate": "2007-09-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Veriter_Vanessa.jsonld",
+    "@type": "Athlete",
+    "name": "Veriter Vanessa",
+    "familyName": "Veriter",
+    "givenName": "Vanessa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3385"
+    },
+    "birthDate": "1977-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

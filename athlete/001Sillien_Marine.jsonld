@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sillien_Marine.jsonld",
+    "@type": "Athlete",
+    "name": "Sillien Marine",
+    "familyName": "Sillien",
+    "givenName": "Marine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0196"
+    },
+    "birthDate": "2000-01-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

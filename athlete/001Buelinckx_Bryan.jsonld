@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Buelinckx_Bryan.jsonld",
+    "@type": "Athlete",
+    "name": "Buelinckx Bryan",
+    "familyName": "Buelinckx",
+    "givenName": "Bryan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2097"
+    },
+    "birthDate": "1997-11-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

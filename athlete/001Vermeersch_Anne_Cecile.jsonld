@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vermeersch_Anne_Cecile.jsonld",
+    "@type": "Athlete",
+    "name": "Vermeersch Anne Cecile",
+    "familyName": "Vermeersch",
+    "givenName": "Anne Cecile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3374"
+    },
+    "birthDate": "1971-01-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

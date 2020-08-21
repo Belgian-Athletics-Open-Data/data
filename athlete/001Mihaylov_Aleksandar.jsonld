@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mihaylov_Aleksandar.jsonld",
+    "@type": "Athlete",
+    "name": "Mihaylov Aleksandar",
+    "familyName": "Mihaylov",
+    "givenName": "Aleksandar",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0709"
+    },
+    "birthDate": "2004-02-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

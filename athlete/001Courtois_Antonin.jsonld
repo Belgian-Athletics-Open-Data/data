@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Courtois_Antonin.jsonld",
+    "@type": "Athlete",
+    "name": "Courtois Antonin",
+    "familyName": "Courtois",
+    "givenName": "Antonin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2400"
+    },
+    "birthDate": "2003-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

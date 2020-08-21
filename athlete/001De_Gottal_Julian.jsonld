@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Gottal_Julian.jsonld",
+    "@type": "Athlete",
+    "name": "De Gottal Julian",
+    "familyName": "De",
+    "givenName": "Gottal Julian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6363"
+    },
+    "birthDate": "2006-02-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

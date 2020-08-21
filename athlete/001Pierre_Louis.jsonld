@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pierre_Louis.jsonld",
+    "@type": "Athlete",
+    "name": "Pierre Louis",
+    "familyName": "Pierre",
+    "givenName": "Louis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2413"
+    },
+    "birthDate": "2003-05-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Maimouni__Said.jsonld",
+    "@type": "Athlete",
+    "name": "El Maimouni  Said",
+    "familyName": "El",
+    "givenName": "Maimouni  Said",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4285"
+    },
+    "birthDate": "1978-01-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

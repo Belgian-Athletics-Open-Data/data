@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hadj_Faraji_Ridwan.jsonld",
+    "@type": "Athlete",
+    "name": "Hadj Faraji Ridwan",
+    "familyName": "Hadj",
+    "givenName": "Faraji Ridwan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1289"
+    },
+    "birthDate": "1998-05-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

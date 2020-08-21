@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dahmoun_Caroline.jsonld",
+    "@type": "Athlete",
+    "name": "Dahmoun Caroline",
+    "familyName": "Dahmoun",
+    "givenName": "Caroline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0182"
+    },
+    "birthDate": "2001-07-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Al_Boujjoufi_Seniha.jsonld",
+    "@type": "Athlete",
+    "name": "Al Boujjoufi Seniha",
+    "familyName": "Al",
+    "givenName": "Boujjoufi Seniha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7638"
+    },
+    "birthDate": "2006-10-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

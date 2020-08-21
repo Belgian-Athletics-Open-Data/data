@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deladriere_Maxime.jsonld",
+    "@type": "Athlete",
+    "name": "Deladriere Maxime",
+    "familyName": "Deladriere",
+    "givenName": "Maxime",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2287"
+    },
+    "birthDate": "2003-08-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanoosthuyze_Elyne.jsonld",
+    "@type": "Athlete",
+    "name": "Vanoosthuyze Elyne",
+    "familyName": "Vanoosthuyze",
+    "givenName": "Elyne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7184"
+    },
+    "birthDate": "2007-03-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

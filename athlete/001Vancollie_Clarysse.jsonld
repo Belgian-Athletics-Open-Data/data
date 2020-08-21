@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vancollie_Clarysse.jsonld",
+    "@type": "Athlete",
+    "name": "Vancollie Clarysse",
+    "familyName": "Vancollie",
+    "givenName": "Clarysse",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2554"
+    },
+    "birthDate": "2002-06-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

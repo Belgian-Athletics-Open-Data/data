@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fadile-Alami_Zia.jsonld",
+    "@type": "Athlete",
+    "name": "Fadile-Alami Zia",
+    "familyName": "Fadile-Alami",
+    "givenName": "Zia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0326"
+    },
+    "birthDate": "2011-06-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Karali_Leila.jsonld",
+    "@type": "Athlete",
+    "name": "Karali Leila",
+    "familyName": "Karali",
+    "givenName": "Leila",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7467"
+    },
+    "birthDate": "2007-09-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

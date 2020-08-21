@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Stockmans_Thibaut.jsonld",
+    "@type": "Athlete",
+    "name": "Stockmans Thibaut",
+    "familyName": "Stockmans",
+    "givenName": "Thibaut",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4076"
+    },
+    "birthDate": "1978-03-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

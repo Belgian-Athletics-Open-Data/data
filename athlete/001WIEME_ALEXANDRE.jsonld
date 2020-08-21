@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001WIEME_ALEXANDRE.jsonld",
+    "@type": "Athlete",
+    "name": "WIEME ALEXANDRE",
+    "familyName": "WIEME",
+    "givenName": "ALEXANDRE",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2452"
+    },
+    "birthDate": "2003-08-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Crahay_Simon.jsonld",
+    "@type": "Athlete",
+    "name": "Crahay Simon",
+    "familyName": "Crahay",
+    "givenName": "Simon",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2370"
+    },
+    "birthDate": "2003-09-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

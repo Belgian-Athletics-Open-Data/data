@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Folli_Laurent.jsonld",
+    "@type": "Athlete",
+    "name": "Folli Laurent",
+    "familyName": "Folli",
+    "givenName": "Laurent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3652"
+    },
+    "birthDate": "1992-01-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

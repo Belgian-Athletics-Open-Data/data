@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lamotte_Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Lamotte Pierre",
+    "familyName": "Lamotte",
+    "givenName": "Pierre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5026"
+    },
+    "birthDate": "1966-06-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

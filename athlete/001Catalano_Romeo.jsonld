@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Catalano_Romeo.jsonld",
+    "@type": "Athlete",
+    "name": "Catalano Romeo",
+    "familyName": "Catalano",
+    "givenName": "Romeo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0458"
+    },
+    "birthDate": "2004-12-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

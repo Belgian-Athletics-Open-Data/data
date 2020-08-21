@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Boa_Michael.jsonld",
+    "@type": "Athlete",
+    "name": "Boa Michael",
+    "familyName": "Boa",
+    "givenName": "Michael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2024"
+    },
+    "birthDate": "1995-06-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

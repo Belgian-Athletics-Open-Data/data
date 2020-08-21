@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dujeux_Maelle.jsonld",
+    "@type": "Athlete",
+    "name": "Dujeux Maelle",
+    "familyName": "Dujeux",
+    "givenName": "Maelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3383"
+    },
+    "birthDate": "2009-09-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

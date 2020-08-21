@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dalla_Bona_Mattia.jsonld",
+    "@type": "Athlete",
+    "name": "Dalla Bona Mattia",
+    "familyName": "Dalla",
+    "givenName": "Bona Mattia",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3625"
+    },
+    "birthDate": "2009-02-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

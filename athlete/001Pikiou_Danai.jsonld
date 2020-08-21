@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pikiou_Danai.jsonld",
+    "@type": "Athlete",
+    "name": "Pikiou Danai*",
+    "familyName": "Pikiou",
+    "givenName": "Danai*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0409"
+    },
+    "birthDate": "2010-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

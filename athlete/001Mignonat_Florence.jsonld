@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mignonat_Florence.jsonld",
+    "@type": "Athlete",
+    "name": "Mignonat Florence",
+    "familyName": "Mignonat",
+    "givenName": "Florence",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2602"
+    },
+    "birthDate": "2002-05-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

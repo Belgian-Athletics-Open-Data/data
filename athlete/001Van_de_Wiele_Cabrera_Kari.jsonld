@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_de_Wiele_Cabrera_Kari.jsonld",
+    "@type": "Athlete",
+    "name": "Van de Wiele Cabrera Kari",
+    "familyName": "Van",
+    "givenName": "de Wiele Cabrera Kari",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0459"
+    },
+    "birthDate": "2004-07-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

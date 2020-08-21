@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001EL_AMRANI_Lylia.jsonld",
+    "@type": "Athlete",
+    "name": "EL AMRANI Lylia",
+    "familyName": "EL",
+    "givenName": "AMRANI Lylia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0822"
+    },
+    "birthDate": "2004-11-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

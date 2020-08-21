@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Melotte_Ugo.jsonld",
+    "@type": "Athlete",
+    "name": "Melotte Ugo",
+    "familyName": "Melotte",
+    "givenName": "Ugo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0114"
+    },
+    "birthDate": "2005-09-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

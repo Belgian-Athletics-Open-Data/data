@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Stradiot_Anne.jsonld",
+    "@type": "Athlete",
+    "name": "Stradiot Anne",
+    "familyName": "Stradiot",
+    "givenName": "Anne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3247"
+    },
+    "birthDate": "1966-08-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Marchand_Camille.jsonld",
+    "@type": "Athlete",
+    "name": "Marchand Camille",
+    "familyName": "Marchand",
+    "givenName": "Camille",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7856"
+    },
+    "birthDate": "2007-02-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

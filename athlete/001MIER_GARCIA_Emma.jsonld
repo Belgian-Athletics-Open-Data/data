@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MIER_GARCIA_Emma.jsonld",
+    "@type": "Athlete",
+    "name": "MIER GARCIA Emma",
+    "familyName": "MIER",
+    "givenName": "GARCIA Emma",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4303"
+    },
+    "birthDate": "2009-12-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

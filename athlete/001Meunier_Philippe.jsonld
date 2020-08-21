@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Meunier_Philippe.jsonld",
+    "@type": "Athlete",
+    "name": "Meunier Philippe",
+    "familyName": "Meunier",
+    "givenName": "Philippe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4525"
+    },
+    "birthDate": "1968-04-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

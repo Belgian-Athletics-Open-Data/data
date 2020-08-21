@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vigneron_Sandrine.jsonld",
+    "@type": "Athlete",
+    "name": "Vigneron Sandrine*",
+    "familyName": "Vigneron",
+    "givenName": "Sandrine*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3036"
+    },
+    "birthDate": "1975-12-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

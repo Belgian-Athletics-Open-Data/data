@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001VANDERBAUWHEDE_HILDE.jsonld",
+    "@type": "Athlete",
+    "name": "VANDERBAUWHEDE HILDE",
+    "familyName": "VANDERBAUWHEDE",
+    "givenName": "HILDE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2851"
+    },
+    "birthDate": "1960-04-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

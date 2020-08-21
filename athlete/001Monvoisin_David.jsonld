@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monvoisin_David.jsonld",
+    "@type": "Athlete",
+    "name": "Monvoisin David*",
+    "familyName": "Monvoisin",
+    "givenName": "David*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4247"
+    },
+    "birthDate": "1980-08-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

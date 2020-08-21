@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fadile-Alami_Elyas.jsonld",
+    "@type": "Athlete",
+    "name": "Fadile-Alami Elyas",
+    "familyName": "Fadile-Alami",
+    "givenName": "Elyas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3131"
+    },
+    "birthDate": "2009-03-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

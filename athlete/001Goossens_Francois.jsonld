@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Goossens_Francois.jsonld",
+    "@type": "Athlete",
+    "name": "Goossens Francois",
+    "familyName": "Goossens",
+    "givenName": "Francois",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0392"
+    },
+    "birthDate": "2000-04-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

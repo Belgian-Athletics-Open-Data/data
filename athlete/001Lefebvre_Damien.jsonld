@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefebvre_Damien.jsonld",
+    "@type": "Athlete",
+    "name": "Lefebvre Damien",
+    "familyName": "Lefebvre",
+    "givenName": "Damien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6368"
+    },
+    "birthDate": "2006-01-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

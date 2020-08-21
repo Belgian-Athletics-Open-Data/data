@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Balthazard_Johnny.jsonld",
+    "@type": "Athlete",
+    "name": "Balthazard Johnny",
+    "familyName": "Balthazard",
+    "givenName": "Johnny",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4560"
+    },
+    "birthDate": "1960-12-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

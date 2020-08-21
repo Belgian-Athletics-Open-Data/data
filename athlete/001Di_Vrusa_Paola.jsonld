@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Vrusa_Paola.jsonld",
+    "@type": "Athlete",
+    "name": "Di Vrusa Paola",
+    "familyName": "Di",
+    "givenName": "Vrusa Paola",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3180"
+    },
+    "birthDate": "1978-11-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

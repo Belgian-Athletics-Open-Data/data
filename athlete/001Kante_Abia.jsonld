@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kante_Abia.jsonld",
+    "@type": "Athlete",
+    "name": "Kante Abia",
+    "familyName": "Kante",
+    "givenName": "Abia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3179"
+    },
+    "birthDate": "2003-07-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

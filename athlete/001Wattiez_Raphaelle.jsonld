@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wattiez_Raphaelle.jsonld",
+    "@type": "Athlete",
+    "name": "Wattiez Raphaelle",
+    "familyName": "Wattiez",
+    "givenName": "Raphaelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2741"
+    },
+    "birthDate": "1963-09-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

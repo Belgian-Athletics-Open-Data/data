@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Abdellaoui_Amine.jsonld",
+    "@type": "Athlete",
+    "name": "Abdellaoui Amine",
+    "familyName": "Abdellaoui",
+    "givenName": "Amine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2785"
+    },
+    "birthDate": "2008-08-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Colquhoun_Timote.jsonld",
+    "@type": "Athlete",
+    "name": "Colquhoun Timote",
+    "familyName": "Colquhoun",
+    "givenName": "Timote",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1566"
+    },
+    "birthDate": "1997-03-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

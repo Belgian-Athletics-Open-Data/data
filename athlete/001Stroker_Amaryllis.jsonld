@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Stroker_Amaryllis.jsonld",
+    "@type": "Athlete",
+    "name": "Stroker Amaryllis",
+    "familyName": "Stroker",
+    "givenName": "Amaryllis",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2719"
+    },
+    "birthDate": "2002-02-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pacani_Sayana.jsonld",
+    "@type": "Athlete",
+    "name": "Pacani Sayana",
+    "familyName": "Pacani",
+    "givenName": "Sayana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0881"
+    },
+    "birthDate": "2010-06-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

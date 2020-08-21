@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Abdoul_Wahab_Mimoun.jsonld",
+    "@type": "Athlete",
+    "name": "Abdoul Wahab Mimoun",
+    "familyName": "Abdoul",
+    "givenName": "Wahab Mimoun",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0119"
+    },
+    "birthDate": "2004-04-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

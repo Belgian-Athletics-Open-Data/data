@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Henry_Robin.jsonld",
+    "@type": "Athlete",
+    "name": "Henry Robin",
+    "familyName": "Henry",
+    "givenName": "Robin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0036"
+    },
+    "birthDate": "2001-05-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BELINA_Jonas.jsonld",
+    "@type": "Athlete",
+    "name": "BELINA Jonas",
+    "familyName": "BELINA",
+    "givenName": "Jonas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6360"
+    },
+    "birthDate": "2007-06-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

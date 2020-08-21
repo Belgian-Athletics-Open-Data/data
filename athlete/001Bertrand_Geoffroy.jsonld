@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bertrand_Geoffroy.jsonld",
+    "@type": "Athlete",
+    "name": "Bertrand Geoffroy",
+    "familyName": "Bertrand",
+    "givenName": "Geoffroy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4298"
+    },
+    "birthDate": "1977-01-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

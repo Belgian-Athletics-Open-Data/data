@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schillewaert_Lilly.jsonld",
+    "@type": "Athlete",
+    "name": "Schillewaert Lilly",
+    "familyName": "Schillewaert",
+    "givenName": "Lilly",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3621"
+    },
+    "birthDate": "2009-12-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

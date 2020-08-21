@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ba_Mariam.jsonld",
+    "@type": "Athlete",
+    "name": "Ba Mariam",
+    "familyName": "Ba",
+    "givenName": "Mariam",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3573"
+    },
+    "birthDate": "2008-10-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maes_Jule.jsonld",
+    "@type": "Athlete",
+    "name": "Maes Jule",
+    "familyName": "Maes",
+    "givenName": "Jule",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0105"
+    },
+    "birthDate": "2004-03-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

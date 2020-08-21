@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nkuba_Innocent.jsonld",
+    "@type": "Athlete",
+    "name": "Nkuba Innocent*",
+    "familyName": "Nkuba",
+    "givenName": "Innocent*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4705"
+    },
+    "birthDate": "1980-01-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

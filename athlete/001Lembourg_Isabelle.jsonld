@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lembourg_Isabelle.jsonld",
+    "@type": "Athlete",
+    "name": "Lembourg Isabelle",
+    "familyName": "Lembourg",
+    "givenName": "Isabelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1068"
+    },
+    "birthDate": "1989-05-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

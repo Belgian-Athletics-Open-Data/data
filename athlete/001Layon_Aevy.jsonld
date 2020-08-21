@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Layon_Aevy.jsonld",
+    "@type": "Athlete",
+    "name": "Layon Aevy",
+    "familyName": "Layon",
+    "givenName": "Aevy",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7413"
+    },
+    "birthDate": "2007-02-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

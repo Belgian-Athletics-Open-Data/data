@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dierick_Tanguy.jsonld",
+    "@type": "Athlete",
+    "name": "Dierick Tanguy",
+    "familyName": "Dierick",
+    "givenName": "Tanguy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0267"
+    },
+    "birthDate": "2001-05-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

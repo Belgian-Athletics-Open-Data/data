@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Desmeytere_Yaelle.jsonld",
+    "@type": "Athlete",
+    "name": "Desmeytere Yaelle",
+    "familyName": "Desmeytere",
+    "givenName": "Yaelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0399"
+    },
+    "birthDate": "2005-04-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EAH.jsonld"
+        }
+    ]
+}

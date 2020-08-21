@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cailloux_Margaux.jsonld",
+    "@type": "Athlete",
+    "name": "Cailloux Margaux",
+    "familyName": "Cailloux",
+    "givenName": "Margaux",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0933"
+    },
+    "birthDate": "2004-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

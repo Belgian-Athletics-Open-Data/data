@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mathieu_Alexis.jsonld",
+    "@type": "Athlete",
+    "name": "Mathieu Alexis",
+    "familyName": "Mathieu",
+    "givenName": "Alexis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1839"
+    },
+    "birthDate": "1991-09-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

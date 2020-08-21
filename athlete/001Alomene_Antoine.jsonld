@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Alomene_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "Alomene Antoine",
+    "familyName": "Alomene",
+    "givenName": "Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0236"
+    },
+    "birthDate": "2001-09-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

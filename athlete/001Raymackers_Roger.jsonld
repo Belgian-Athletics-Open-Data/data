@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Raymackers_Roger.jsonld",
+    "@type": "Athlete",
+    "name": "Raymackers Roger",
+    "familyName": "Raymackers",
+    "givenName": "Roger",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1930"
+    },
+    "birthDate": "1992-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

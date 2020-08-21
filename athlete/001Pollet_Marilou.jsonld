@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pollet_Marilou.jsonld",
+    "@type": "Athlete",
+    "name": "Pollet Marilou",
+    "familyName": "Pollet",
+    "givenName": "Marilou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0167"
+    },
+    "birthDate": "2000-10-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

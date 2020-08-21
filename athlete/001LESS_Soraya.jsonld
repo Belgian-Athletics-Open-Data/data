@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LESS_Soraya.jsonld",
+    "@type": "Athlete",
+    "name": "LESS Soraya",
+    "familyName": "LESS",
+    "givenName": "Soraya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3140"
+    },
+    "birthDate": "1966-10-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

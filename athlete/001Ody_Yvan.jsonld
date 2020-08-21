@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ody_Yvan.jsonld",
+    "@type": "Athlete",
+    "name": "Ody Yvan",
+    "familyName": "Ody",
+    "givenName": "Yvan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4591"
+    },
+    "birthDate": "1943-11-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

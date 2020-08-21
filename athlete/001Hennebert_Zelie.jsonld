@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hennebert_Zelie.jsonld",
+    "@type": "Athlete",
+    "name": "Hennebert Zelie",
+    "familyName": "Hennebert",
+    "givenName": "Zelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7113"
+    },
+    "birthDate": "2007-11-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

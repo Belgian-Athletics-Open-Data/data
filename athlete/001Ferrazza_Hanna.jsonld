@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ferrazza_Hanna.jsonld",
+    "@type": "Athlete",
+    "name": "Ferrazza Hanna",
+    "familyName": "Ferrazza",
+    "givenName": "Hanna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0311"
+    },
+    "birthDate": "2004-08-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

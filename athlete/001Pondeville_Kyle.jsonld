@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pondeville_Kyle.jsonld",
+    "@type": "Athlete",
+    "name": "Pondeville Kyle",
+    "familyName": "Pondeville",
+    "givenName": "Kyle",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6167"
+    },
+    "birthDate": "2007-02-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

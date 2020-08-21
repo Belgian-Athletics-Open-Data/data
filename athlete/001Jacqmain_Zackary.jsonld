@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jacqmain_Zackary.jsonld",
+    "@type": "Athlete",
+    "name": "Jacqmain Zackary",
+    "familyName": "Jacqmain",
+    "givenName": "Zackary",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3221"
+    },
+    "birthDate": "2009-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

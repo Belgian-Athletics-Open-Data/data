@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Eeckhout_Julien.jsonld",
+    "@type": "Athlete",
+    "name": "Van Eeckhout Julien",
+    "familyName": "Van",
+    "givenName": "Eeckhout Julien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3532"
+    },
+    "birthDate": "2008-04-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

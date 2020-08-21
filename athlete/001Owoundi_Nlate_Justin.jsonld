@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Owoundi_Nlate_Justin.jsonld",
+    "@type": "Athlete",
+    "name": "Owoundi Nlate Justin",
+    "familyName": "Owoundi",
+    "givenName": "Nlate Justin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0596"
+    },
+    "birthDate": "2005-02-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

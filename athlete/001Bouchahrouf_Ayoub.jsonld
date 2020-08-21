@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bouchahrouf_Ayoub.jsonld",
+    "@type": "Athlete",
+    "name": "Bouchahrouf Ayoub",
+    "familyName": "Bouchahrouf",
+    "givenName": "Ayoub",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2626"
+    },
+    "birthDate": "2009-11-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

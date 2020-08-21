@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kitoko_Kimya_Zawiya.jsonld",
+    "@type": "Athlete",
+    "name": "Kitoko Kimya Zawiya",
+    "familyName": "Kitoko",
+    "givenName": "Kimya Zawiya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0465"
+    },
+    "birthDate": "2010-02-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

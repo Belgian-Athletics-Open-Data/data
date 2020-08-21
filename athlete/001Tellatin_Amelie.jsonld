@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tellatin_Amelie.jsonld",
+    "@type": "Athlete",
+    "name": "Tellatin Amelie",
+    "familyName": "Tellatin",
+    "givenName": "Amelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1269"
+    },
+    "birthDate": "1996-08-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

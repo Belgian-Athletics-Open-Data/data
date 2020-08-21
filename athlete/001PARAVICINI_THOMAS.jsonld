@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PARAVICINI_THOMAS.jsonld",
+    "@type": "Athlete",
+    "name": "PARAVICINI THOMAS",
+    "familyName": "PARAVICINI",
+    "givenName": "THOMAS",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0206"
+    },
+    "birthDate": "2005-04-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

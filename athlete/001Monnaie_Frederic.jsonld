@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monnaie_Frederic.jsonld",
+    "@type": "Athlete",
+    "name": "Monnaie Frederic",
+    "familyName": "Monnaie",
+    "givenName": "Frederic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2005"
+    },
+    "birthDate": "1996-09-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

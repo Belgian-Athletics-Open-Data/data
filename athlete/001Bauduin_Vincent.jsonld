@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bauduin_Vincent.jsonld",
+    "@type": "Athlete",
+    "name": "Bauduin Vincent",
+    "familyName": "Bauduin",
+    "givenName": "Vincent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4255"
+    },
+    "birthDate": "1967-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

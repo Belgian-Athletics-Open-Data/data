@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LIXON_Caroline.jsonld",
+    "@type": "Athlete",
+    "name": "LIXON Caroline",
+    "familyName": "LIXON",
+    "givenName": "Caroline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2774"
+    },
+    "birthDate": "2003-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

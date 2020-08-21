@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bodart_Robin.jsonld",
+    "@type": "Athlete",
+    "name": "Bodart Robin",
+    "familyName": "Bodart",
+    "givenName": "Robin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1265"
+    },
+    "birthDate": "1997-10-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

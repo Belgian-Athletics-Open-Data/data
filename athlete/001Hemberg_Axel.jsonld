@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hemberg_Axel.jsonld",
+    "@type": "Athlete",
+    "name": "Hemberg Axel",
+    "familyName": "Hemberg",
+    "givenName": "Axel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4743"
+    },
+    "birthDate": "1971-09-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

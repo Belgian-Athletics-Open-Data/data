@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cox_Emmanuel.jsonld",
+    "@type": "Athlete",
+    "name": "Cox Emmanuel",
+    "familyName": "Cox",
+    "givenName": "Emmanuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2725"
+    },
+    "birthDate": "2008-02-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

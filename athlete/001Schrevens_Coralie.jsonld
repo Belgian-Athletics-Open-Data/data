@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schrevens_Coralie.jsonld",
+    "@type": "Athlete",
+    "name": "Schrevens Coralie",
+    "familyName": "Schrevens",
+    "givenName": "Coralie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0339"
+    },
+    "birthDate": "2011-05-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Guennoun_Yousra.jsonld",
+    "@type": "Athlete",
+    "name": "Guennoun Yousra",
+    "familyName": "Guennoun",
+    "givenName": "Yousra",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "9769"
+    },
+    "birthDate": "2006-06-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

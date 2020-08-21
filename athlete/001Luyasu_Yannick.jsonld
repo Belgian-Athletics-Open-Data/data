@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Luyasu_Yannick.jsonld",
+    "@type": "Athlete",
+    "name": "Luyasu Yannick",
+    "familyName": "Luyasu",
+    "givenName": "Yannick",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1664"
+    },
+    "birthDate": "1996-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DAVAUX_Igor.jsonld",
+    "@type": "Athlete",
+    "name": "DAVAUX Igor",
+    "familyName": "DAVAUX",
+    "givenName": "Igor",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6818"
+    },
+    "birthDate": "2006-08-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

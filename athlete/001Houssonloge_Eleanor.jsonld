@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Houssonloge_Eleanor.jsonld",
+    "@type": "Athlete",
+    "name": "Houssonloge Eleanor",
+    "familyName": "Houssonloge",
+    "givenName": "Eleanor",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4363"
+    },
+    "birthDate": "2009-09-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

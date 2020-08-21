@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Michel_Maxime.jsonld",
+    "@type": "Athlete",
+    "name": "Michel Maxime",
+    "familyName": "Michel",
+    "givenName": "Maxime",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1636"
+    },
+    "birthDate": "1992-10-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

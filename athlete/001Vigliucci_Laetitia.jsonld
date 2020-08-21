@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vigliucci_Laetitia.jsonld",
+    "@type": "Athlete",
+    "name": "Vigliucci Laetitia",
+    "familyName": "Vigliucci",
+    "givenName": "Laetitia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1482"
+    },
+    "birthDate": "1992-06-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

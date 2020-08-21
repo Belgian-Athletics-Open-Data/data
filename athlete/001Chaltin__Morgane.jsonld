@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chaltin__Morgane.jsonld",
+    "@type": "Athlete",
+    "name": "Chaltin  Morgane",
+    "familyName": "Chaltin",
+    "givenName": " Morgane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0136"
+    },
+    "birthDate": "2004-01-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

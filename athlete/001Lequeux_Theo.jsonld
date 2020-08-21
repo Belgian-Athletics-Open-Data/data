@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lequeux_Theo.jsonld",
+    "@type": "Athlete",
+    "name": "Lequeux Theo",
+    "familyName": "Lequeux",
+    "givenName": "Theo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2944"
+    },
+    "birthDate": "2008-02-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

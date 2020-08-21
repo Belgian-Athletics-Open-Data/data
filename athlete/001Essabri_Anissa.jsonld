@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Essabri_Anissa.jsonld",
+    "@type": "Athlete",
+    "name": "Essabri Anissa",
+    "familyName": "Essabri",
+    "givenName": "Anissa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2854"
+    },
+    "birthDate": "2003-12-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

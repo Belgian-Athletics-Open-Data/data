@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Grilo_Carvalho_Thomas.jsonld",
+    "@type": "Athlete",
+    "name": "Grilo Carvalho Thomas*",
+    "familyName": "Grilo",
+    "givenName": "Carvalho Thomas*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1984"
+    },
+    "birthDate": "1990-05-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nutte_Matthias.jsonld",
+    "@type": "Athlete",
+    "name": "Nutte Matthias",
+    "familyName": "Nutte",
+    "givenName": "Matthias",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0250"
+    },
+    "birthDate": "2000-09-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

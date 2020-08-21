@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bielande_Chloe.jsonld",
+    "@type": "Athlete",
+    "name": "Bielande Chloe",
+    "familyName": "Bielande",
+    "givenName": "Chloe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3640"
+    },
+    "birthDate": "2008-11-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

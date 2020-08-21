@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Beztout_Yacine.jsonld",
+    "@type": "Athlete",
+    "name": "Beztout Yacine",
+    "familyName": "Beztout",
+    "givenName": "Yacine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0184"
+    },
+    "birthDate": "2001-03-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

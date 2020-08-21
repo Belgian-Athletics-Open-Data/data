@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Druet_Marion.jsonld",
+    "@type": "Athlete",
+    "name": "Druet Marion",
+    "familyName": "Druet",
+    "givenName": "Marion",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4176"
+    },
+    "birthDate": "2009-07-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

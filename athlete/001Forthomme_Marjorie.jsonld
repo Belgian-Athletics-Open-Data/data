@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Forthomme_Marjorie.jsonld",
+    "@type": "Athlete",
+    "name": "Forthomme Marjorie",
+    "familyName": "Forthomme",
+    "givenName": "Marjorie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1101"
+    },
+    "birthDate": "1994-08-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gauditiaubois_Rene.jsonld",
+    "@type": "Athlete",
+    "name": "Gauditiaubois Rene",
+    "familyName": "Gauditiaubois",
+    "givenName": "Rene",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3951"
+    },
+    "birthDate": "1927-03-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

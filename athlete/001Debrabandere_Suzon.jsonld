@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Debrabandere_Suzon.jsonld",
+    "@type": "Athlete",
+    "name": "Debrabandere Suzon",
+    "familyName": "Debrabandere",
+    "givenName": "Suzon",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0090"
+    },
+    "birthDate": "2010-03-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

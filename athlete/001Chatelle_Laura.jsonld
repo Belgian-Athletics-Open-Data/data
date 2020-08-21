@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chatelle_Laura.jsonld",
+    "@type": "Athlete",
+    "name": "Chatelle Laura",
+    "familyName": "Chatelle",
+    "givenName": "Laura",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0808"
+    },
+    "birthDate": "2010-01-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

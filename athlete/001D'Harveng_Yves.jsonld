@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001D'Harveng_Yves.jsonld",
+    "@type": "Athlete",
+    "name": "D'Harveng Yves",
+    "familyName": "D'Harveng",
+    "givenName": "Yves",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1781"
+    },
+    "birthDate": "1990-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

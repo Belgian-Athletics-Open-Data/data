@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mundaya-Baheta_Rabbiel-No.jsonld",
+    "@type": "Athlete",
+    "name": "Mundaya-Baheta Rabbiel-No",
+    "familyName": "Mundaya-Baheta",
+    "givenName": "Rabbiel-No",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4224"
+    },
+    "birthDate": "2009-03-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

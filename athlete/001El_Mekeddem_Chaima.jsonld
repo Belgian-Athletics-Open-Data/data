@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Mekeddem_Chaima.jsonld",
+    "@type": "Athlete",
+    "name": "El Mekeddem Chaima",
+    "familyName": "El",
+    "givenName": "Mekeddem Chaima",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0516"
+    },
+    "birthDate": "2004-01-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

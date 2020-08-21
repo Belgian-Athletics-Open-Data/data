@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mottaki_Amin.jsonld",
+    "@type": "Athlete",
+    "name": "Mottaki Amin",
+    "familyName": "Mottaki",
+    "givenName": "Amin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0686"
+    },
+    "birthDate": "2004-08-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

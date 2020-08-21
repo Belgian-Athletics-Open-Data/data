@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maton_Gerard.jsonld",
+    "@type": "Athlete",
+    "name": "Maton Gerard",
+    "familyName": "Maton",
+    "givenName": "Gerard",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1326"
+    },
+    "birthDate": "1990-10-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

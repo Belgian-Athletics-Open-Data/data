@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Leboutte_Gatien.jsonld",
+    "@type": "Athlete",
+    "name": "Leboutte Gatien",
+    "familyName": "Leboutte",
+    "givenName": "Gatien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3557"
+    },
+    "birthDate": "2008-04-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

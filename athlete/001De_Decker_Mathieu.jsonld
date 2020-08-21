@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Decker_Mathieu.jsonld",
+    "@type": "Athlete",
+    "name": "De Decker Mathieu",
+    "familyName": "De",
+    "givenName": "Decker Mathieu",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2013"
+    },
+    "birthDate": "1987-08-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

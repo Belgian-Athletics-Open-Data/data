@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CISSE_Ibrahim.jsonld",
+    "@type": "Athlete",
+    "name": "CISSE Ibrahim",
+    "familyName": "CISSE",
+    "givenName": "Ibrahim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2936"
+    },
+    "birthDate": "2008-12-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

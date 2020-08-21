@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Laurant_Perrine.jsonld",
+    "@type": "Athlete",
+    "name": "Laurant Perrine",
+    "familyName": "Laurant",
+    "givenName": "Perrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1216"
+    },
+    "birthDate": "1994-09-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

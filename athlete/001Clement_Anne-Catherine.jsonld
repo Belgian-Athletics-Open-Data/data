@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Clement_Anne-Catherine.jsonld",
+    "@type": "Athlete",
+    "name": "Clement Anne-Catherine",
+    "familyName": "Clement",
+    "givenName": "Anne-Catherine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3028"
+    },
+    "birthDate": "1975-09-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

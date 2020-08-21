@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rochet__Nathan.jsonld",
+    "@type": "Athlete",
+    "name": "Rochet  Nathan",
+    "familyName": "Rochet",
+    "givenName": " Nathan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3140"
+    },
+    "birthDate": "2009-01-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

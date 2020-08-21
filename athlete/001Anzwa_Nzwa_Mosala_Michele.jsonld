@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Anzwa_Nzwa_Mosala_Michele.jsonld",
+    "@type": "Athlete",
+    "name": "Anzwa Nzwa Mosala Michele",
+    "familyName": "Anzwa",
+    "givenName": "Nzwa Mosala Michele",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0066"
+    },
+    "birthDate": "2001-12-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

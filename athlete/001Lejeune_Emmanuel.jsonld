@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lejeune_Emmanuel.jsonld",
+    "@type": "Athlete",
+    "name": "Lejeune Emmanuel",
+    "familyName": "Lejeune",
+    "givenName": "Emmanuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2019"
+    },
+    "birthDate": "1992-06-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

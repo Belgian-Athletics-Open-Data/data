@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fickers_Elene.jsonld",
+    "@type": "Athlete",
+    "name": "Fickers Elene",
+    "familyName": "Fickers",
+    "givenName": "Elene",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0015"
+    },
+    "birthDate": "2000-05-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LACE.jsonld"
+        }
+    ]
+}

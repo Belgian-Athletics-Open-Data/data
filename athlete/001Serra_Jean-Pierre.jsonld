@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Serra_Jean-Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Serra Jean-Pierre*",
+    "familyName": "Serra",
+    "givenName": "Jean-Pierre*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3968"
+    },
+    "birthDate": "1975-05-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Compere_Bastien.jsonld",
+    "@type": "Athlete",
+    "name": "Compere Bastien",
+    "familyName": "Compere",
+    "givenName": "Bastien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2474"
+    },
+    "birthDate": "2002-08-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

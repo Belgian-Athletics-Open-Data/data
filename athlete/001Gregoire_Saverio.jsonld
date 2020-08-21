@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gregoire_Saverio.jsonld",
+    "@type": "Athlete",
+    "name": "Gregoire Saverio",
+    "familyName": "Gregoire",
+    "givenName": "Saverio",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6761"
+    },
+    "birthDate": "2006-05-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

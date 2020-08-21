@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Benioucef_Hugo.jsonld",
+    "@type": "Athlete",
+    "name": "Benioucef Hugo",
+    "familyName": "Benioucef",
+    "givenName": "Hugo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2933"
+    },
+    "birthDate": "2009-07-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

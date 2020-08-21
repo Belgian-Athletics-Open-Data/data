@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderbemden_Robin.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderbemden Robin",
+    "familyName": "Vanderbemden",
+    "givenName": "Robin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1510"
+    },
+    "birthDate": "1994-02-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

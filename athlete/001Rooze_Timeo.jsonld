@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rooze_Timeo.jsonld",
+    "@type": "Athlete",
+    "name": "Rooze Timeo",
+    "familyName": "Rooze",
+    "givenName": "Timeo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2632"
+    },
+    "birthDate": "2009-08-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

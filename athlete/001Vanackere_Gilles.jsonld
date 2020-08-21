@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanackere_Gilles.jsonld",
+    "@type": "Athlete",
+    "name": "Vanackere Gilles",
+    "familyName": "Vanackere",
+    "givenName": "Gilles",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1485"
+    },
+    "birthDate": "1993-09-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

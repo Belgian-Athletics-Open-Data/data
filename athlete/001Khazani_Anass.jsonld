@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Khazani_Anass.jsonld",
+    "@type": "Athlete",
+    "name": "Khazani Anass",
+    "familyName": "Khazani",
+    "givenName": "Anass",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0388"
+    },
+    "birthDate": "2000-12-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

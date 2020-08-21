@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tombo_Kanyama_Marie-Elise.jsonld",
+    "@type": "Athlete",
+    "name": "Tombo Kanyama Marie-Elise",
+    "familyName": "Tombo",
+    "givenName": "Kanyama Marie-Elise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0273"
+    },
+    "birthDate": "2001-05-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

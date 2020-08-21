@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Parmentier_Nicolas.jsonld",
+    "@type": "Athlete",
+    "name": "Parmentier Nicolas",
+    "familyName": "Parmentier",
+    "givenName": "Nicolas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1611"
+    },
+    "birthDate": "1989-06-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

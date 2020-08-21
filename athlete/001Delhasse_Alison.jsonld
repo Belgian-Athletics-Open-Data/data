@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delhasse_Alison.jsonld",
+    "@type": "Athlete",
+    "name": "Delhasse Alison",
+    "familyName": "Delhasse",
+    "givenName": "Alison",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1166"
+    },
+    "birthDate": "1994-08-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

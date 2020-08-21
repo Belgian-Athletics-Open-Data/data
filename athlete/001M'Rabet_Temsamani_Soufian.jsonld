@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001M'Rabet_Temsamani_Soufian.jsonld",
+    "@type": "Athlete",
+    "name": "M'Rabet Temsamani Soufian",
+    "familyName": "M'Rabet",
+    "givenName": "Temsamani Soufian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2612"
+    },
+    "birthDate": "2002-04-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

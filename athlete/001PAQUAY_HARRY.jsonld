@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PAQUAY_HARRY.jsonld",
+    "@type": "Athlete",
+    "name": "PAQUAY HARRY",
+    "familyName": "PAQUAY",
+    "givenName": "HARRY",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5859"
+    },
+    "birthDate": "2007-08-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

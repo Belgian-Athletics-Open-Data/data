@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Voropaev_Victor.jsonld",
+    "@type": "Athlete",
+    "name": "Voropaev Victor*",
+    "familyName": "Voropaev",
+    "givenName": "Victor*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6405"
+    },
+    "birthDate": "2007-10-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

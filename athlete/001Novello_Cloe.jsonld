@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Novello_Cloe.jsonld",
+    "@type": "Athlete",
+    "name": "Novello Cloe",
+    "familyName": "Novello",
+    "givenName": "Cloe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0649"
+    },
+    "birthDate": "2011-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

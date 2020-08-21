@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Veriter_Cybile.jsonld",
+    "@type": "Athlete",
+    "name": "Veriter Cybile",
+    "familyName": "Veriter",
+    "givenName": "Cybile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7019"
+    },
+    "birthDate": "2006-07-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

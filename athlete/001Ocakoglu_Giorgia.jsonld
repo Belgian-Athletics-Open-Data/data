@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ocakoglu_Giorgia.jsonld",
+    "@type": "Athlete",
+    "name": "Ocakoglu Giorgia",
+    "familyName": "Ocakoglu",
+    "givenName": "Giorgia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7532"
+    },
+    "birthDate": "2007-01-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DACM.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dormal_Brice.jsonld",
+    "@type": "Athlete",
+    "name": "Dormal Brice",
+    "familyName": "Dormal",
+    "givenName": "Brice",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0383"
+    },
+    "birthDate": "2005-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

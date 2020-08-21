@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LAGASSE_MATTHIEU.jsonld",
+    "@type": "Athlete",
+    "name": "LAGASSE MATTHIEU",
+    "familyName": "LAGASSE",
+    "givenName": "MATTHIEU",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6074"
+    },
+    "birthDate": "2006-12-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

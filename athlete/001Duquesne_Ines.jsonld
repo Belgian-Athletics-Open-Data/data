@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duquesne_Ines.jsonld",
+    "@type": "Athlete",
+    "name": "Duquesne Ines",
+    "familyName": "Duquesne",
+    "givenName": "Ines",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0012"
+    },
+    "birthDate": "2005-04-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

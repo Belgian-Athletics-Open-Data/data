@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Belleflamme_Sabine.jsonld",
+    "@type": "Athlete",
+    "name": "Belleflamme Sabine",
+    "familyName": "Belleflamme",
+    "givenName": "Sabine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2843"
+    },
+    "birthDate": "1965-05-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

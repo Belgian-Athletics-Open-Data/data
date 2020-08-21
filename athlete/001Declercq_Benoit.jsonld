@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Declercq_Benoit.jsonld",
+    "@type": "Athlete",
+    "name": "Declercq Benoit",
+    "familyName": "Declercq",
+    "givenName": "Benoit",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5050"
+    },
+    "birthDate": "1976-08-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

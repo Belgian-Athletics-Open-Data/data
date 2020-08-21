@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Desmedt_Teo.jsonld",
+    "@type": "Athlete",
+    "name": "Desmedt Teo",
+    "familyName": "Desmedt",
+    "givenName": "Teo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3575"
+    },
+    "birthDate": "2009-01-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

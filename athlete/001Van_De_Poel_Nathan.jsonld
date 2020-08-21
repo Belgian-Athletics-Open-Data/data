@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_De_Poel_Nathan.jsonld",
+    "@type": "Athlete",
+    "name": "Van De Poel Nathan",
+    "familyName": "Van",
+    "givenName": "De Poel Nathan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3066"
+    },
+    "birthDate": "2008-01-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

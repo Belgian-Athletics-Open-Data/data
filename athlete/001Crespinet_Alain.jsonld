@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Crespinet_Alain.jsonld",
+    "@type": "Athlete",
+    "name": "Crespinet Alain",
+    "familyName": "Crespinet",
+    "givenName": "Alain",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5080"
+    },
+    "birthDate": "1963-12-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

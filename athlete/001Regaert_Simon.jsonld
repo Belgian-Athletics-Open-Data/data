@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Regaert_Simon.jsonld",
+    "@type": "Athlete",
+    "name": "Regaert Simon",
+    "familyName": "Regaert",
+    "givenName": "Simon",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0010"
+    },
+    "birthDate": "2004-11-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

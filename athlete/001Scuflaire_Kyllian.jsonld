@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Scuflaire_Kyllian.jsonld",
+    "@type": "Athlete",
+    "name": "Scuflaire Kyllian",
+    "familyName": "Scuflaire",
+    "givenName": "Kyllian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1660"
+    },
+    "birthDate": "1996-01-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

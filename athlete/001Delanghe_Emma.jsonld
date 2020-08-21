@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delanghe_Emma.jsonld",
+    "@type": "Athlete",
+    "name": "Delanghe Emma*",
+    "familyName": "Delanghe",
+    "givenName": "Emma*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6920"
+    },
+    "birthDate": "2007-01-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EAH.jsonld"
+        }
+    ]
+}

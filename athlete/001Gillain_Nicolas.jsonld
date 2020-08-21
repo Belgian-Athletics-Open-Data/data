@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gillain_Nicolas.jsonld",
+    "@type": "Athlete",
+    "name": "Gillain Nicolas",
+    "familyName": "Gillain",
+    "givenName": "Nicolas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1333"
+    },
+    "birthDate": "1993-01-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

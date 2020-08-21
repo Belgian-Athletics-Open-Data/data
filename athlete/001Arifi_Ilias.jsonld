@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Arifi_Ilias.jsonld",
+    "@type": "Athlete",
+    "name": "Arifi Ilias",
+    "familyName": "Arifi",
+    "givenName": "Ilias",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0067"
+    },
+    "birthDate": "2004-12-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

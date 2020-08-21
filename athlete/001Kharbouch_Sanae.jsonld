@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kharbouch_Sanae.jsonld",
+    "@type": "Athlete",
+    "name": "Kharbouch Sanae",
+    "familyName": "Kharbouch",
+    "givenName": "Sanae",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0764"
+    },
+    "birthDate": "2005-06-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DACM.jsonld"
+        }
+    ]
+}

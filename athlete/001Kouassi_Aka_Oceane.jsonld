@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kouassi_Aka_Oceane.jsonld",
+    "@type": "Athlete",
+    "name": "Kouassi Aka Oceane",
+    "familyName": "Kouassi",
+    "givenName": "Aka Oceane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2796"
+    },
+    "birthDate": "2002-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

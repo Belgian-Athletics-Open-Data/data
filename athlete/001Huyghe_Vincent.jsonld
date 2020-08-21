@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Huyghe_Vincent.jsonld",
+    "@type": "Athlete",
+    "name": "Huyghe Vincent",
+    "familyName": "Huyghe",
+    "givenName": "Vincent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3908"
+    },
+    "birthDate": "1963-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

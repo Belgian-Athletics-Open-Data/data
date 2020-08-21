@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Squevin_Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Squevin Pierre*",
+    "familyName": "Squevin",
+    "givenName": "Pierre*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1673"
+    },
+    "birthDate": "1994-05-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

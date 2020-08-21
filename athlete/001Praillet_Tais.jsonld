@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Praillet_Tais.jsonld",
+    "@type": "Athlete",
+    "name": "Praillet Tais",
+    "familyName": "Praillet",
+    "givenName": "Tais",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0374"
+    },
+    "birthDate": "2005-05-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Blanchart_Samuel.jsonld",
+    "@type": "Athlete",
+    "name": "Blanchart Samuel",
+    "familyName": "Blanchart",
+    "givenName": "Samuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4276"
+    },
+    "birthDate": "1972-07-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

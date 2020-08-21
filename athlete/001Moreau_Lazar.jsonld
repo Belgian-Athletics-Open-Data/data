@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Moreau_Lazar.jsonld",
+    "@type": "Athlete",
+    "name": "Moreau Lazar",
+    "familyName": "Moreau",
+    "givenName": "Lazar",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3236"
+    },
+    "birthDate": "2008-06-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

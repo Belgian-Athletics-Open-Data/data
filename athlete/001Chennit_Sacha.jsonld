@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chennit_Sacha.jsonld",
+    "@type": "Athlete",
+    "name": "Chennit Sacha",
+    "familyName": "Chennit",
+    "givenName": "Sacha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3296"
+    },
+    "birthDate": "2009-08-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

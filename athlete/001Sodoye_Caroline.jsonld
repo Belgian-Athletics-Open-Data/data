@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sodoye_Caroline.jsonld",
+    "@type": "Athlete",
+    "name": "Sodoye Caroline",
+    "familyName": "Sodoye",
+    "givenName": "Caroline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3018"
+    },
+    "birthDate": "1977-05-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

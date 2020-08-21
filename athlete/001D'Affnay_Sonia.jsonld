@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001D'Affnay_Sonia.jsonld",
+    "@type": "Athlete",
+    "name": "D'Affnay Sonia",
+    "familyName": "D'Affnay",
+    "givenName": "Sonia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2978"
+    },
+    "birthDate": "1976-07-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

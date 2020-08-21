@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001NANA_NAMI_PAUL_FRANK.jsonld",
+    "@type": "Athlete",
+    "name": "NANA NAMI PAUL FRANK*",
+    "familyName": "NANA",
+    "givenName": "NAMI PAUL FRANK*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2094"
+    },
+    "birthDate": "1999-08-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

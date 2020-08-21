@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Le_Boulenge_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "Le Boulenge Antoine",
+    "familyName": "Le",
+    "givenName": "Boulenge Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3178"
+    },
+    "birthDate": "2009-10-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

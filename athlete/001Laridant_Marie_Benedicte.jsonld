@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Laridant_Marie_Benedicte.jsonld",
+    "@type": "Athlete",
+    "name": "Laridant Marie Benedicte",
+    "familyName": "Laridant",
+    "givenName": "Marie Benedicte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2800"
+    },
+    "birthDate": "1974-06-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

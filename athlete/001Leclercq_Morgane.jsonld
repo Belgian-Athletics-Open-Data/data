@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Leclercq_Morgane.jsonld",
+    "@type": "Athlete",
+    "name": "Leclercq Morgane",
+    "familyName": "Leclercq",
+    "givenName": "Morgane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3377"
+    },
+    "birthDate": "2009-12-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

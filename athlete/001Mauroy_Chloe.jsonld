@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mauroy_Chloe.jsonld",
+    "@type": "Athlete",
+    "name": "Mauroy Chloe",
+    "familyName": "Mauroy",
+    "givenName": "Chloe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1278"
+    },
+    "birthDate": "1992-07-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

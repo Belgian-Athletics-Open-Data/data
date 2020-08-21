@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Petitjean_Nais.jsonld",
+    "@type": "Athlete",
+    "name": "Petitjean Nais",
+    "familyName": "Petitjean",
+    "givenName": "Nais",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0368"
+    },
+    "birthDate": "2011-08-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ernst_Lou-Ann.jsonld",
+    "@type": "Athlete",
+    "name": "Ernst Lou-Ann",
+    "familyName": "Ernst",
+    "givenName": "Lou-Ann",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7584"
+    },
+    "birthDate": "2007-01-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Godin_Jeanne.jsonld",
+    "@type": "Athlete",
+    "name": "Godin Jeanne",
+    "familyName": "Godin",
+    "givenName": "Jeanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1390"
+    },
+    "birthDate": "1998-03-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

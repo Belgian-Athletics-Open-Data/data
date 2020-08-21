@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Warnotte_Lora.jsonld",
+    "@type": "Athlete",
+    "name": "Warnotte Lora",
+    "familyName": "Warnotte",
+    "givenName": "Lora",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4261"
+    },
+    "birthDate": "2008-04-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

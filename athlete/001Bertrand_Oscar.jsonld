@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bertrand_Oscar.jsonld",
+    "@type": "Athlete",
+    "name": "Bertrand Oscar",
+    "familyName": "Bertrand",
+    "givenName": "Oscar",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3295"
+    },
+    "birthDate": "2009-02-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

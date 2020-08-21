@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Liepin_Benedicte.jsonld",
+    "@type": "Athlete",
+    "name": "Liepin Benedicte",
+    "familyName": "Liepin",
+    "givenName": "Benedicte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2720"
+    },
+    "birthDate": "1977-01-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

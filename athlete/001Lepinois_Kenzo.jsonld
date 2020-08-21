@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lepinois_Kenzo.jsonld",
+    "@type": "Athlete",
+    "name": "Lepinois Kenzo",
+    "familyName": "Lepinois",
+    "givenName": "Kenzo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3336"
+    },
+    "birthDate": "2009-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

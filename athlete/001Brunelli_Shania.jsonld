@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brunelli_Shania.jsonld",
+    "@type": "Athlete",
+    "name": "Brunelli Shania",
+    "familyName": "Brunelli",
+    "givenName": "Shania",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3130"
+    },
+    "birthDate": "2003-05-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

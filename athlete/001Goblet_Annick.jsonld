@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Goblet_Annick.jsonld",
+    "@type": "Athlete",
+    "name": "Goblet Annick",
+    "familyName": "Goblet",
+    "givenName": "Annick",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2733"
+    },
+    "birthDate": "1963-07-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACCO.jsonld"
+        }
+    ]
+}

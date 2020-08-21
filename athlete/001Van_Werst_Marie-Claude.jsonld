@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Werst_Marie-Claude.jsonld",
+    "@type": "Athlete",
+    "name": "Van Werst Marie-Claude",
+    "familyName": "Van",
+    "givenName": "Werst Marie-Claude",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3031"
+    },
+    "birthDate": "1963-08-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

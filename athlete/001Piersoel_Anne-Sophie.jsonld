@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Piersoel_Anne-Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Piersoel Anne-Sophie",
+    "familyName": "Piersoel",
+    "givenName": "Anne-Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0668"
+    },
+    "birthDate": "2004-10-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

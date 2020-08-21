@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mbida_Nnama_Ange-Christin.jsonld",
+    "@type": "Athlete",
+    "name": "Mbida Nnama Ange-Christin",
+    "familyName": "Mbida",
+    "givenName": "Nnama Ange-Christin",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4408"
+    },
+    "birthDate": "2008-07-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

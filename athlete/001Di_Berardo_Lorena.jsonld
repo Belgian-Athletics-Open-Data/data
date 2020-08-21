@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Berardo_Lorena.jsonld",
+    "@type": "Athlete",
+    "name": "Di Berardo Lorena",
+    "familyName": "Di",
+    "givenName": "Berardo Lorena",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1144"
+    },
+    "birthDate": "1990-11-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

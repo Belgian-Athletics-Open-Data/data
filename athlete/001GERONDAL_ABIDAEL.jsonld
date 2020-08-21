@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001GERONDAL_ABIDAEL.jsonld",
+    "@type": "Athlete",
+    "name": "GERONDAL ABIDAEL",
+    "familyName": "GERONDAL",
+    "givenName": "ABIDAEL",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0728"
+    },
+    "birthDate": "2011-02-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

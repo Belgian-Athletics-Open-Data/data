@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deventer_Eloi.jsonld",
+    "@type": "Athlete",
+    "name": "Deventer Eloi",
+    "familyName": "Deventer",
+    "givenName": "Eloi",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2638"
+    },
+    "birthDate": "2009-11-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

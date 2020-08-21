@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MICHEL_Caroline.jsonld",
+    "@type": "Athlete",
+    "name": "MICHEL Caroline",
+    "familyName": "MICHEL",
+    "givenName": "Caroline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0949"
+    },
+    "birthDate": "2005-05-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vangermeersch_Olivier.jsonld",
+    "@type": "Athlete",
+    "name": "Vangermeersch Olivier",
+    "familyName": "Vangermeersch",
+    "givenName": "Olivier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5087"
+    },
+    "birthDate": "1969-03-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

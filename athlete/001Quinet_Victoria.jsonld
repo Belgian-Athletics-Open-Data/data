@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Quinet_Victoria.jsonld",
+    "@type": "Athlete",
+    "name": "Quinet Victoria",
+    "familyName": "Quinet",
+    "givenName": "Victoria",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0677"
+    },
+    "birthDate": "2004-11-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001D'Adamo_Aleandro.jsonld",
+    "@type": "Athlete",
+    "name": "D'Adamo Aleandro",
+    "familyName": "D'Adamo",
+    "givenName": "Aleandro",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6515"
+    },
+    "birthDate": "2007-03-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

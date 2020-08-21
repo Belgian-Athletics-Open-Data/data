@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bureau_Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Bureau Marie",
+    "familyName": "Bureau",
+    "givenName": "Marie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4186"
+    },
+    "birthDate": "2008-05-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

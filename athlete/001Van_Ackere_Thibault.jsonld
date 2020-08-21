@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Ackere_Thibault.jsonld",
+    "@type": "Athlete",
+    "name": "Van Ackere Thibault",
+    "familyName": "Van",
+    "givenName": "Ackere Thibault",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5891"
+    },
+    "birthDate": "2007-09-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

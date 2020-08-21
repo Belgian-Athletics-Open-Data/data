@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Brauwer_Julie.jsonld",
+    "@type": "Athlete",
+    "name": "De Brauwer Julie",
+    "familyName": "De",
+    "givenName": "Brauwer Julie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3434"
+    },
+    "birthDate": "1982-09-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

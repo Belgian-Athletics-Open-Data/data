@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tcacenco_Dumitrita.jsonld",
+    "@type": "Athlete",
+    "name": "Tcacenco Dumitrita*",
+    "familyName": "Tcacenco",
+    "givenName": "Dumitrita*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0201"
+    },
+    "birthDate": "2001-11-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

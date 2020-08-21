@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duchesne_Lucie.jsonld",
+    "@type": "Athlete",
+    "name": "Duchesne Lucie",
+    "familyName": "Duchesne",
+    "givenName": "Lucie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7862"
+    },
+    "birthDate": "2007-10-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

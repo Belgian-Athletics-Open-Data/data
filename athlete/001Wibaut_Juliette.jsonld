@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wibaut_Juliette.jsonld",
+    "@type": "Athlete",
+    "name": "Wibaut Juliette",
+    "familyName": "Wibaut",
+    "givenName": "Juliette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2953"
+    },
+    "birthDate": "2002-11-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

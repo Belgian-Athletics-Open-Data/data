@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schelkens_Quentin.jsonld",
+    "@type": "Athlete",
+    "name": "Schelkens Quentin",
+    "familyName": "Schelkens",
+    "givenName": "Quentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2318"
+    },
+    "birthDate": "2003-07-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nait_Baha_Nacim.jsonld",
+    "@type": "Athlete",
+    "name": "Nait Baha Nacim",
+    "familyName": "Nait",
+    "givenName": "Baha Nacim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2125"
+    },
+    "birthDate": "1998-10-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

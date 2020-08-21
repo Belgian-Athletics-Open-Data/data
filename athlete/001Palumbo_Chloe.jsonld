@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Palumbo_Chloe.jsonld",
+    "@type": "Athlete",
+    "name": "Palumbo Chloe",
+    "familyName": "Palumbo",
+    "givenName": "Chloe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3139"
+    },
+    "birthDate": "2002-11-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

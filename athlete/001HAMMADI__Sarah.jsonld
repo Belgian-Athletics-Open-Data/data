@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001HAMMADI__Sarah.jsonld",
+    "@type": "Athlete",
+    "name": "HAMMADI  Sarah",
+    "familyName": "HAMMADI",
+    "givenName": " Sarah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7950"
+    },
+    "birthDate": "2006-09-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

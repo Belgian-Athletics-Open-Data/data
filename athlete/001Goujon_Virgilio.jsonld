@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Goujon_Virgilio.jsonld",
+    "@type": "Athlete",
+    "name": "Goujon Virgilio*",
+    "familyName": "Goujon",
+    "givenName": "Virgilio*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1820"
+    },
+    "birthDate": "1996-08-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

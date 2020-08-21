@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderplasschen_Teo.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderplasschen Teo",
+    "familyName": "Vanderplasschen",
+    "givenName": "Teo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3566"
+    },
+    "birthDate": "2009-04-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

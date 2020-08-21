@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hoffmann_Henri.jsonld",
+    "@type": "Athlete",
+    "name": "Hoffmann Henri*",
+    "familyName": "Hoffmann",
+    "givenName": "Henri*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6387"
+    },
+    "birthDate": "2006-06-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

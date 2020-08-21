@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tshibangu_Schekina.jsonld",
+    "@type": "Athlete",
+    "name": "Tshibangu Schekina",
+    "familyName": "Tshibangu",
+    "givenName": "Schekina",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1420"
+    },
+    "birthDate": "1999-06-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

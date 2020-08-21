@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Lamotte_Constance.jsonld",
+    "@type": "Athlete",
+    "name": "De Lamotte Constance",
+    "familyName": "De",
+    "givenName": "Lamotte Constance",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7319"
+    },
+    "birthDate": "2007-07-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

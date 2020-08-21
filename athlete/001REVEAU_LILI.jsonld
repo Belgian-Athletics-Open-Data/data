@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001REVEAU_LILI.jsonld",
+    "@type": "Athlete",
+    "name": "REVEAU LILI",
+    "familyName": "REVEAU",
+    "givenName": "LILI",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0385"
+    },
+    "birthDate": "2011-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

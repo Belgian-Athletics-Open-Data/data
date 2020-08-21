@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Richard_Goessens_Marie-Lo.jsonld",
+    "@type": "Athlete",
+    "name": "Richard Goessens Marie-Lo",
+    "familyName": "Richard",
+    "givenName": "Goessens Marie-Lo",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3416"
+    },
+    "birthDate": "2009-03-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

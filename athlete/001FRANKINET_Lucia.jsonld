@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001FRANKINET_Lucia.jsonld",
+    "@type": "Athlete",
+    "name": "FRANKINET Lucia",
+    "familyName": "FRANKINET",
+    "givenName": "Lucia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0185"
+    },
+    "birthDate": "2010-11-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

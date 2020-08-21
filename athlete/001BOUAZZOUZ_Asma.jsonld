@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOUAZZOUZ_Asma.jsonld",
+    "@type": "Athlete",
+    "name": "BOUAZZOUZ Asma",
+    "familyName": "BOUAZZOUZ",
+    "givenName": "Asma",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7229"
+    },
+    "birthDate": "2006-06-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

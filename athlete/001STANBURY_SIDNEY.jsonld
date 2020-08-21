@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001STANBURY_SIDNEY.jsonld",
+    "@type": "Athlete",
+    "name": "STANBURY SIDNEY*",
+    "familyName": "STANBURY",
+    "givenName": "SIDNEY*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2376"
+    },
+    "birthDate": "2002-12-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

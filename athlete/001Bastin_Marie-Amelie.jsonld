@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bastin_Marie-Amelie.jsonld",
+    "@type": "Athlete",
+    "name": "Bastin Marie-Amelie",
+    "familyName": "Bastin",
+    "givenName": "Marie-Amelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7453"
+    },
+    "birthDate": "2007-07-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

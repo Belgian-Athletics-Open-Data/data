@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Swinnen_Cannelle.jsonld",
+    "@type": "Athlete",
+    "name": "Swinnen Cannelle",
+    "familyName": "Swinnen",
+    "givenName": "Cannelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0076"
+    },
+    "birthDate": "2011-07-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

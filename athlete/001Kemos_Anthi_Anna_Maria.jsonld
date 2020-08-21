@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kemos_Anthi_Anna_Maria.jsonld",
+    "@type": "Athlete",
+    "name": "Kemos Anthi Anna Maria*",
+    "familyName": "Kemos",
+    "givenName": "Anthi Anna Maria*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3146"
+    },
+    "birthDate": "2002-05-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

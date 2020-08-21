@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Yildiz_Ilona.jsonld",
+    "@type": "Athlete",
+    "name": "Yildiz Ilona",
+    "familyName": "Yildiz",
+    "givenName": "Ilona",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4399"
+    },
+    "birthDate": "2008-02-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

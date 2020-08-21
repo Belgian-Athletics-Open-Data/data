@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lemaire_Celeste.jsonld",
+    "@type": "Athlete",
+    "name": "Lemaire Celeste",
+    "familyName": "Lemaire",
+    "givenName": "Celeste",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7193"
+    },
+    "birthDate": "2007-04-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

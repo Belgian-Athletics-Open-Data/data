@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Latour_Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Latour Pierre",
+    "familyName": "Latour",
+    "givenName": "Pierre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1878"
+    },
+    "birthDate": "1990-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

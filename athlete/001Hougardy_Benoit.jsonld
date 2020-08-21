@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hougardy_Benoit.jsonld",
+    "@type": "Athlete",
+    "name": "Hougardy Benoit",
+    "familyName": "Hougardy",
+    "givenName": "Benoit",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4032"
+    },
+    "birthDate": "1964-02-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

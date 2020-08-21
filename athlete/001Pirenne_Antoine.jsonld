@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pirenne_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "Pirenne Antoine",
+    "familyName": "Pirenne",
+    "givenName": "Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2490"
+    },
+    "birthDate": "2002-11-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Scutenaire_Louise.jsonld",
+    "@type": "Athlete",
+    "name": "Scutenaire Louise",
+    "familyName": "Scutenaire",
+    "givenName": "Louise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3909"
+    },
+    "birthDate": "2008-06-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

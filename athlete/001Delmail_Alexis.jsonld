@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delmail_Alexis.jsonld",
+    "@type": "Athlete",
+    "name": "Delmail Alexis",
+    "familyName": "Delmail",
+    "givenName": "Alexis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3493"
+    },
+    "birthDate": "2008-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

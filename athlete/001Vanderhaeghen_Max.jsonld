@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderhaeghen_Max.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderhaeghen Max",
+    "familyName": "Vanderhaeghen",
+    "givenName": "Max",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3364"
+    },
+    "birthDate": "2008-08-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

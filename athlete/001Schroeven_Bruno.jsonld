@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schroeven_Bruno.jsonld",
+    "@type": "Athlete",
+    "name": "Schroeven Bruno",
+    "familyName": "Schroeven",
+    "givenName": "Bruno",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5211"
+    },
+    "birthDate": "1980-05-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

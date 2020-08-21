@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Callebaut_Albert.jsonld",
+    "@type": "Athlete",
+    "name": "Callebaut Albert",
+    "familyName": "Callebaut",
+    "givenName": "Albert",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4617"
+    },
+    "birthDate": "1951-12-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

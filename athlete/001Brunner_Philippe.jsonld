@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brunner_Philippe.jsonld",
+    "@type": "Athlete",
+    "name": "Brunner Philippe",
+    "familyName": "Brunner",
+    "givenName": "Philippe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4652"
+    },
+    "birthDate": "1971-04-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001ALALUF_KARIGER_Clara.jsonld",
+    "@type": "Athlete",
+    "name": "ALALUF KARIGER Clara",
+    "familyName": "ALALUF",
+    "givenName": "KARIGER Clara",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7462"
+    },
+    "birthDate": "2007-12-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

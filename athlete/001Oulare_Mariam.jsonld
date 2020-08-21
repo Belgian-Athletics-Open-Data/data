@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Oulare_Mariam.jsonld",
+    "@type": "Athlete",
+    "name": "Oulare Mariam",
+    "familyName": "Oulare",
+    "givenName": "Mariam",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2898"
+    },
+    "birthDate": "2002-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

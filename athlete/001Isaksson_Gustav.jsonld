@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Isaksson_Gustav.jsonld",
+    "@type": "Athlete",
+    "name": "Isaksson Gustav",
+    "familyName": "Isaksson",
+    "givenName": "Gustav",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3584"
+    },
+    "birthDate": "2008-09-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

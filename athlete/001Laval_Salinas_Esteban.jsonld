@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Laval_Salinas_Esteban.jsonld",
+    "@type": "Athlete",
+    "name": "Laval Salinas Esteban",
+    "familyName": "Laval",
+    "givenName": "Salinas Esteban",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0440"
+    },
+    "birthDate": "2004-07-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

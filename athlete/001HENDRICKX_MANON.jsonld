@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001HENDRICKX_MANON.jsonld",
+    "@type": "Athlete",
+    "name": "HENDRICKX MANON",
+    "familyName": "HENDRICKX",
+    "givenName": "MANON",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7460"
+    },
+    "birthDate": "2007-09-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

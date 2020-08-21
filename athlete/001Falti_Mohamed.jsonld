@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Falti_Mohamed.jsonld",
+    "@type": "Athlete",
+    "name": "Falti Mohamed",
+    "familyName": "Falti",
+    "givenName": "Mohamed",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4164"
+    },
+    "birthDate": "1956-06-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

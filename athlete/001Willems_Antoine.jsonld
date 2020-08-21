@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Willems_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "Willems Antoine",
+    "familyName": "Willems",
+    "givenName": "Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1496"
+    },
+    "birthDate": "1995-06-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

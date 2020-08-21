@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MANGEZ_Suzanne.jsonld",
+    "@type": "Athlete",
+    "name": "MANGEZ Suzanne",
+    "familyName": "MANGEZ",
+    "givenName": "Suzanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7080"
+    },
+    "birthDate": "2007-12-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

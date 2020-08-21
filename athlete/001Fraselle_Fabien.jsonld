@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fraselle_Fabien.jsonld",
+    "@type": "Athlete",
+    "name": "Fraselle Fabien",
+    "familyName": "Fraselle",
+    "givenName": "Fabien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4523"
+    },
+    "birthDate": "1981-07-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

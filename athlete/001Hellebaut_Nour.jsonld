@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hellebaut_Nour.jsonld",
+    "@type": "Athlete",
+    "name": "Hellebaut Nour",
+    "familyName": "Hellebaut",
+    "givenName": "Nour",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7695"
+    },
+    "birthDate": "2006-06-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

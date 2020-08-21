@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefebvre_Tom.jsonld",
+    "@type": "Athlete",
+    "name": "Lefebvre Tom",
+    "familyName": "Lefebvre",
+    "givenName": "Tom",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0011"
+    },
+    "birthDate": "2005-12-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

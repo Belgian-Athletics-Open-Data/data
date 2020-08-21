@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001GOFFAUX_Marie_Laure.jsonld",
+    "@type": "Athlete",
+    "name": "GOFFAUX Marie Laure",
+    "familyName": "GOFFAUX",
+    "givenName": "Marie Laure",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2813"
+    },
+    "birthDate": "1976-12-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

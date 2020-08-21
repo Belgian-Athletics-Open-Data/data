@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001D'Inverno_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "D'Inverno Antoine",
+    "familyName": "D'Inverno",
+    "givenName": "Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0295"
+    },
+    "birthDate": "2005-12-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

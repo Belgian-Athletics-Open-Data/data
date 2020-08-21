@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001FRANS_JEAN-LUC.jsonld",
+    "@type": "Athlete",
+    "name": "FRANS JEAN-LUC",
+    "familyName": "FRANS",
+    "givenName": "JEAN-LUC",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2974"
+    },
+    "birthDate": "2008-06-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

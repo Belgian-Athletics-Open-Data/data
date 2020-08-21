@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fosty_Maxime.jsonld",
+    "@type": "Athlete",
+    "name": "Fosty Maxime",
+    "familyName": "Fosty",
+    "givenName": "Maxime",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3783"
+    },
+    "birthDate": "2008-07-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

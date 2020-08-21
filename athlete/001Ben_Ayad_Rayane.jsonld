@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ben_Ayad_Rayane.jsonld",
+    "@type": "Athlete",
+    "name": "Ben Ayad Rayane",
+    "familyName": "Ben",
+    "givenName": "Ayad Rayane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6076"
+    },
+    "birthDate": "2007-10-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

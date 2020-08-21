@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jandrin_Lily.jsonld",
+    "@type": "Athlete",
+    "name": "Jandrin Lily",
+    "familyName": "Jandrin",
+    "givenName": "Lily",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0179"
+    },
+    "birthDate": "2010-08-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

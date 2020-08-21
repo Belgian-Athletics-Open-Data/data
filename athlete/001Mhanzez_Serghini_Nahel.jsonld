@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mhanzez_Serghini_Nahel.jsonld",
+    "@type": "Athlete",
+    "name": "Mhanzez Serghini Nahel",
+    "familyName": "Mhanzez",
+    "givenName": "Serghini Nahel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6237"
+    },
+    "birthDate": "2006-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cristofoli_Marco.jsonld",
+    "@type": "Athlete",
+    "name": "Cristofoli Marco",
+    "familyName": "Cristofoli",
+    "givenName": "Marco",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2044"
+    },
+    "birthDate": "1984-07-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

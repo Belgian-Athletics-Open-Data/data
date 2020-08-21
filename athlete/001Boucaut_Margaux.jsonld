@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Boucaut_Margaux.jsonld",
+    "@type": "Athlete",
+    "name": "Boucaut Margaux",
+    "familyName": "Boucaut",
+    "givenName": "Margaux",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0015"
+    },
+    "birthDate": "2010-12-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

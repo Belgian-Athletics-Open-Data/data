@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Mascio_Emma.jsonld",
+    "@type": "Athlete",
+    "name": "Di Mascio Emma*",
+    "familyName": "Di",
+    "givenName": "Mascio Emma*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7860"
+    },
+    "birthDate": "2007-07-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

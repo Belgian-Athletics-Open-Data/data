@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delhelle_Nancy.jsonld",
+    "@type": "Athlete",
+    "name": "Delhelle Nancy",
+    "familyName": "Delhelle",
+    "givenName": "Nancy",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3211"
+    },
+    "birthDate": "1971-06-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

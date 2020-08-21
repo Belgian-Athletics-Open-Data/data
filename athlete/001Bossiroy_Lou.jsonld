@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bossiroy_Lou.jsonld",
+    "@type": "Athlete",
+    "name": "Bossiroy Lou",
+    "familyName": "Bossiroy",
+    "givenName": "Lou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1344"
+    },
+    "birthDate": "1996-04-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

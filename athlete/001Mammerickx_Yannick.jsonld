@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mammerickx_Yannick.jsonld",
+    "@type": "Athlete",
+    "name": "Mammerickx Yannick",
+    "familyName": "Mammerickx",
+    "givenName": "Yannick",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1760"
+    },
+    "birthDate": "1993-12-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Turpyn_Jeanne.jsonld",
+    "@type": "Athlete",
+    "name": "Turpyn Jeanne",
+    "familyName": "Turpyn",
+    "givenName": "Jeanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0305"
+    },
+    "birthDate": "2001-12-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Der_Meulen_Alodie.jsonld",
+    "@type": "Athlete",
+    "name": "Van Der Meulen Alodie",
+    "familyName": "Van",
+    "givenName": "Der Meulen Alodie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2535"
+    },
+    "birthDate": "2003-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kools_Amber.jsonld",
+    "@type": "Athlete",
+    "name": "Kools Amber",
+    "familyName": "Kools",
+    "givenName": "Amber",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3466"
+    },
+    "birthDate": "2008-12-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

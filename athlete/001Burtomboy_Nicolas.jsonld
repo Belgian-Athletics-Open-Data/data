@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Burtomboy_Nicolas.jsonld",
+    "@type": "Athlete",
+    "name": "Burtomboy Nicolas",
+    "familyName": "Burtomboy",
+    "givenName": "Nicolas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5113"
+    },
+    "birthDate": "1980-10-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

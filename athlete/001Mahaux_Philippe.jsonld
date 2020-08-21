@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mahaux_Philippe.jsonld",
+    "@type": "Athlete",
+    "name": "Mahaux Philippe",
+    "familyName": "Mahaux",
+    "givenName": "Philippe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3880"
+    },
+    "birthDate": "1973-07-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

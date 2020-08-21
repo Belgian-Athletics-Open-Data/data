@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dessars_Leonie.jsonld",
+    "@type": "Athlete",
+    "name": "Dessars Leonie",
+    "familyName": "Dessars",
+    "givenName": "Leonie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4035"
+    },
+    "birthDate": "2009-02-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACTE.jsonld"
+        }
+    ]
+}

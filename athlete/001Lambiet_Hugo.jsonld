@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lambiet_Hugo.jsonld",
+    "@type": "Athlete",
+    "name": "Lambiet Hugo",
+    "familyName": "Lambiet",
+    "givenName": "Hugo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0451"
+    },
+    "birthDate": "2005-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

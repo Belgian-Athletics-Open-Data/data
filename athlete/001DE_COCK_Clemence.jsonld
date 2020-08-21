@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DE_COCK_Clemence.jsonld",
+    "@type": "Athlete",
+    "name": "DE COCK Clemence",
+    "familyName": "DE",
+    "givenName": "COCK Clemence",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3967"
+    },
+    "birthDate": "2009-06-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

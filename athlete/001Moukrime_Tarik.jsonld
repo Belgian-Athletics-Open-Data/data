@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Moukrime_Tarik.jsonld",
+    "@type": "Athlete",
+    "name": "Moukrime Tarik",
+    "familyName": "Moukrime",
+    "givenName": "Tarik",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1706"
+    },
+    "birthDate": "1992-03-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

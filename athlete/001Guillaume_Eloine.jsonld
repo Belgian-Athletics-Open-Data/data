@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Guillaume_Eloine.jsonld",
+    "@type": "Athlete",
+    "name": "Guillaume Eloine",
+    "familyName": "Guillaume",
+    "givenName": "Eloine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1083"
+    },
+    "birthDate": "1993-05-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

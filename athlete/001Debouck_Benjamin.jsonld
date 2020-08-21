@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Debouck_Benjamin.jsonld",
+    "@type": "Athlete",
+    "name": "Debouck Benjamin",
+    "familyName": "Debouck",
+    "givenName": "Benjamin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1277"
+    },
+    "birthDate": "1988-06-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

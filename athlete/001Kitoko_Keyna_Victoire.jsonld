@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kitoko_Keyna_Victoire.jsonld",
+    "@type": "Athlete",
+    "name": "Kitoko Keyna Victoire",
+    "familyName": "Kitoko",
+    "givenName": "Keyna Victoire",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0838"
+    },
+    "birthDate": "2010-04-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

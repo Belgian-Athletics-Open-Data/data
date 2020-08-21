@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Charlier_Guillaume.jsonld",
+    "@type": "Athlete",
+    "name": "Charlier Guillaume",
+    "familyName": "Charlier",
+    "givenName": "Guillaume",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1210"
+    },
+    "birthDate": "1985-12-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

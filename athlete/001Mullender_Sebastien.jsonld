@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mullender_Sebastien.jsonld",
+    "@type": "Athlete",
+    "name": "Mullender Sebastien",
+    "familyName": "Mullender",
+    "givenName": "Sebastien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2258"
+    },
+    "birthDate": "2002-10-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

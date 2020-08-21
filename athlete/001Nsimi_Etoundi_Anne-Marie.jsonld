@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nsimi_Etoundi_Anne-Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Nsimi Etoundi Anne-Marie",
+    "familyName": "Nsimi",
+    "givenName": "Etoundi Anne-Marie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0609"
+    },
+    "birthDate": "2004-10-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

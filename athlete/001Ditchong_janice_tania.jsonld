@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ditchong_janice_tania.jsonld",
+    "@type": "Athlete",
+    "name": "Ditchong janice tania",
+    "familyName": "Ditchong",
+    "givenName": "janice tania",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0679"
+    },
+    "birthDate": "2011-01-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

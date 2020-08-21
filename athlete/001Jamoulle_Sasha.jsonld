@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jamoulle_Sasha.jsonld",
+    "@type": "Athlete",
+    "name": "Jamoulle Sasha",
+    "familyName": "Jamoulle",
+    "givenName": "Sasha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3274"
+    },
+    "birthDate": "2009-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

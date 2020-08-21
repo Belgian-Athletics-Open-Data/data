@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lignie_Benoit.jsonld",
+    "@type": "Athlete",
+    "name": "Lignie Benoit*",
+    "familyName": "Lignie",
+    "givenName": "Benoit*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4374"
+    },
+    "birthDate": "1971-08-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EAH.jsonld"
+        }
+    ]
+}

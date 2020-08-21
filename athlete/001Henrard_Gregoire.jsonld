@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Henrard_Gregoire.jsonld",
+    "@type": "Athlete",
+    "name": "Henrard Gregoire",
+    "familyName": "Henrard",
+    "givenName": "Gregoire",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6120"
+    },
+    "birthDate": "2007-08-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Barbieux_Nicolas.jsonld",
+    "@type": "Athlete",
+    "name": "Barbieux Nicolas",
+    "familyName": "Barbieux",
+    "givenName": "Nicolas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2698"
+    },
+    "birthDate": "2002-09-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

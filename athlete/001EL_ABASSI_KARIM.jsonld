@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001EL_ABASSI_KARIM.jsonld",
+    "@type": "Athlete",
+    "name": "EL ABASSI KARIM",
+    "familyName": "EL",
+    "givenName": "ABASSI KARIM",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2118"
+    },
+    "birthDate": "1992-08-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

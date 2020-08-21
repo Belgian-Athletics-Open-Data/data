@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hovelaque_Martine.jsonld",
+    "@type": "Athlete",
+    "name": "Hovelaque Martine",
+    "familyName": "Hovelaque",
+    "givenName": "Martine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3124"
+    },
+    "birthDate": "1975-08-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

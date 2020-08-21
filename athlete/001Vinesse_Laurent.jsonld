@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vinesse_Laurent.jsonld",
+    "@type": "Athlete",
+    "name": "Vinesse Laurent",
+    "familyName": "Vinesse",
+    "givenName": "Laurent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4381"
+    },
+    "birthDate": "1967-03-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

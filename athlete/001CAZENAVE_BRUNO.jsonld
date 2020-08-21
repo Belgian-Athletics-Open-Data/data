@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CAZENAVE_BRUNO.jsonld",
+    "@type": "Athlete",
+    "name": "CAZENAVE BRUNO*",
+    "familyName": "CAZENAVE",
+    "givenName": "BRUNO*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0479"
+    },
+    "birthDate": "2004-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

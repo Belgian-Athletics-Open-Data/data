@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Raemackers_Jean.jsonld",
+    "@type": "Athlete",
+    "name": "Raemackers Jean",
+    "familyName": "Raemackers",
+    "givenName": "Jean",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3247"
+    },
+    "birthDate": "2009-02-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

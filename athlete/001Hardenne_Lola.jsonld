@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hardenne_Lola.jsonld",
+    "@type": "Athlete",
+    "name": "Hardenne Lola",
+    "familyName": "Hardenne",
+    "givenName": "Lola",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6976"
+    },
+    "birthDate": "2006-05-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

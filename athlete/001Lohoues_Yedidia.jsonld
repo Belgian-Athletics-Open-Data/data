@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lohoues_Yedidia.jsonld",
+    "@type": "Athlete",
+    "name": "Lohoues Yedidia",
+    "familyName": "Lohoues",
+    "givenName": "Yedidia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0698"
+    },
+    "birthDate": "2010-08-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

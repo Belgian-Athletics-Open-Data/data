@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delli_Russi_Arthur.jsonld",
+    "@type": "Athlete",
+    "name": "Delli Russi Arthur",
+    "familyName": "Delli",
+    "givenName": "Russi Arthur",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0048"
+    },
+    "birthDate": "2005-10-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

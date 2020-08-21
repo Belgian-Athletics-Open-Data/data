@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dury_Elisabeth.jsonld",
+    "@type": "Athlete",
+    "name": "Dury Elisabeth",
+    "familyName": "Dury",
+    "givenName": "Elisabeth",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0843"
+    },
+    "birthDate": "2010-01-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

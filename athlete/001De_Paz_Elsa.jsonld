@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Paz_Elsa.jsonld",
+    "@type": "Athlete",
+    "name": "De Paz Elsa",
+    "familyName": "De",
+    "givenName": "Paz Elsa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0769"
+    },
+    "birthDate": "2004-01-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

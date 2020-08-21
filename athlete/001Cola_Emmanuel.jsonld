@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cola_Emmanuel.jsonld",
+    "@type": "Athlete",
+    "name": "Cola Emmanuel",
+    "familyName": "Cola",
+    "givenName": "Emmanuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4515"
+    },
+    "birthDate": "1974-11-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

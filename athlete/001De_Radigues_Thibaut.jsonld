@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Radigues_Thibaut.jsonld",
+    "@type": "Athlete",
+    "name": "De Radigues Thibaut",
+    "familyName": "De",
+    "givenName": "Radigues Thibaut",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0009"
+    },
+    "birthDate": "2005-01-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

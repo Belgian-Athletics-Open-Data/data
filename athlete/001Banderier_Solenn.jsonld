@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Banderier_Solenn.jsonld",
+    "@type": "Athlete",
+    "name": "Banderier Solenn",
+    "familyName": "Banderier",
+    "givenName": "Solenn",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4000"
+    },
+    "birthDate": "2008-07-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dugast_Brieuc.jsonld",
+    "@type": "Athlete",
+    "name": "Dugast Brieuc",
+    "familyName": "Dugast",
+    "givenName": "Brieuc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3665"
+    },
+    "birthDate": "1993-05-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

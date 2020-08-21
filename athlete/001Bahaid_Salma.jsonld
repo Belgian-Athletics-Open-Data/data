@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bahaid_Salma.jsonld",
+    "@type": "Athlete",
+    "name": "Bahaid Salma",
+    "familyName": "Bahaid",
+    "givenName": "Salma",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0834"
+    },
+    "birthDate": "2005-10-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Evrard_Sasha.jsonld",
+    "@type": "Athlete",
+    "name": "Evrard Sasha",
+    "familyName": "Evrard",
+    "givenName": "Sasha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0204"
+    },
+    "birthDate": "2001-08-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

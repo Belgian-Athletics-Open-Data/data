@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanden_Broeck_Lilou.jsonld",
+    "@type": "Athlete",
+    "name": "Vanden Broeck Lilou",
+    "familyName": "Vanden",
+    "givenName": "Broeck Lilou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0002"
+    },
+    "birthDate": "2010-06-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

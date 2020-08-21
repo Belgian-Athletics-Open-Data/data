@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kadioglu_Fatih.jsonld",
+    "@type": "Athlete",
+    "name": "Kadioglu Fatih",
+    "familyName": "Kadioglu",
+    "givenName": "Fatih",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5928"
+    },
+    "birthDate": "2007-09-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

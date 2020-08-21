@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Puygrenier_Emma.jsonld",
+    "@type": "Athlete",
+    "name": "Puygrenier Emma",
+    "familyName": "Puygrenier",
+    "givenName": "Emma",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0111"
+    },
+    "birthDate": "2000-06-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

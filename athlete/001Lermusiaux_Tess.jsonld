@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lermusiaux_Tess.jsonld",
+    "@type": "Athlete",
+    "name": "Lermusiaux Tess",
+    "familyName": "Lermusiaux",
+    "givenName": "Tess",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2842"
+    },
+    "birthDate": "2002-10-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

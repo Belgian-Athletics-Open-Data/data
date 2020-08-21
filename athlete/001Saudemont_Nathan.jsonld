@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Saudemont_Nathan.jsonld",
+    "@type": "Athlete",
+    "name": "Saudemont Nathan",
+    "familyName": "Saudemont",
+    "givenName": "Nathan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2751"
+    },
+    "birthDate": "2009-09-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

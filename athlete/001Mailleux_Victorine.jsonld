@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mailleux_Victorine.jsonld",
+    "@type": "Athlete",
+    "name": "Mailleux Victorine",
+    "familyName": "Mailleux",
+    "givenName": "Victorine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7800"
+    },
+    "birthDate": "2007-07-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

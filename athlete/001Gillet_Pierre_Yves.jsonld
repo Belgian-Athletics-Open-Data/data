@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gillet_Pierre_Yves.jsonld",
+    "@type": "Athlete",
+    "name": "Gillet Pierre Yves",
+    "familyName": "Gillet",
+    "givenName": "Pierre Yves",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1531"
+    },
+    "birthDate": "1992-09-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

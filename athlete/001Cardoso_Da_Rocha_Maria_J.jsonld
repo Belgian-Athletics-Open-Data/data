@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cardoso_Da_Rocha_Maria_J.jsonld",
+    "@type": "Athlete",
+    "name": "Cardoso Da Rocha Maria J*",
+    "familyName": "Cardoso",
+    "givenName": "Da Rocha Maria J*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3070"
+    },
+    "birthDate": "1964-02-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

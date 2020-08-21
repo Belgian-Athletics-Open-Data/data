@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sirel_Liisa.jsonld",
+    "@type": "Athlete",
+    "name": "Sirel Liisa",
+    "familyName": "Sirel",
+    "givenName": "Liisa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "9753"
+    },
+    "birthDate": "2007-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

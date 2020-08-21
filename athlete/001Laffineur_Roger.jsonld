@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Laffineur_Roger.jsonld",
+    "@type": "Athlete",
+    "name": "Laffineur Roger",
+    "familyName": "Laffineur",
+    "givenName": "Roger",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4407"
+    },
+    "birthDate": "1952-10-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hennart_Sandrine.jsonld",
+    "@type": "Athlete",
+    "name": "Hennart Sandrine",
+    "familyName": "Hennart",
+    "givenName": "Sandrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3084"
+    },
+    "birthDate": "1972-12-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

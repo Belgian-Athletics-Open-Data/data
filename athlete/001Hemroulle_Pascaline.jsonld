@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hemroulle_Pascaline.jsonld",
+    "@type": "Athlete",
+    "name": "Hemroulle Pascaline",
+    "familyName": "Hemroulle",
+    "givenName": "Pascaline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1103"
+    },
+    "birthDate": "1992-05-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

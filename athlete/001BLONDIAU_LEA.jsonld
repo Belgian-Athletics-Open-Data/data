@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BLONDIAU_LEA.jsonld",
+    "@type": "Athlete",
+    "name": "BLONDIAU LEA",
+    "familyName": "BLONDIAU",
+    "givenName": "LEA",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0622"
+    },
+    "birthDate": "2010-09-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

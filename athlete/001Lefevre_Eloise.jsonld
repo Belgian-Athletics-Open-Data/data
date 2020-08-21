@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefevre_Eloise.jsonld",
+    "@type": "Athlete",
+    "name": "Lefevre Eloise",
+    "familyName": "Lefevre",
+    "givenName": "Eloise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0029"
+    },
+    "birthDate": "2004-07-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

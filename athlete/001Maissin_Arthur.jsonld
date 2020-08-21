@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maissin_Arthur.jsonld",
+    "@type": "Athlete",
+    "name": "Maissin Arthur",
+    "familyName": "Maissin",
+    "givenName": "Arthur",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6438"
+    },
+    "birthDate": "2006-07-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

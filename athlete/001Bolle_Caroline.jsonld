@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bolle_Caroline.jsonld",
+    "@type": "Athlete",
+    "name": "Bolle Caroline",
+    "familyName": "Bolle",
+    "givenName": "Caroline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3168"
+    },
+    "birthDate": "2002-08-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LACE.jsonld"
+        }
+    ]
+}

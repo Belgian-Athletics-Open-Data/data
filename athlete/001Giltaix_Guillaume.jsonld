@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Giltaix_Guillaume.jsonld",
+    "@type": "Athlete",
+    "name": "Giltaix Guillaume",
+    "familyName": "Giltaix",
+    "givenName": "Guillaume",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3361"
+    },
+    "birthDate": "2008-01-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

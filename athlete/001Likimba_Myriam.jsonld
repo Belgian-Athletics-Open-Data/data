@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Likimba_Myriam.jsonld",
+    "@type": "Athlete",
+    "name": "Likimba Myriam",
+    "familyName": "Likimba",
+    "givenName": "Myriam",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0700"
+    },
+    "birthDate": "2004-09-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

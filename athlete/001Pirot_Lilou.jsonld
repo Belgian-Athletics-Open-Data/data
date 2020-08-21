@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pirot_Lilou.jsonld",
+    "@type": "Athlete",
+    "name": "Pirot Lilou",
+    "familyName": "Pirot",
+    "givenName": "Lilou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6979"
+    },
+    "birthDate": "2007-11-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

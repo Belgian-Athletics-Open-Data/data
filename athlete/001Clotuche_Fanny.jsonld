@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Clotuche_Fanny.jsonld",
+    "@type": "Athlete",
+    "name": "Clotuche Fanny",
+    "familyName": "Clotuche",
+    "givenName": "Fanny",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4049"
+    },
+    "birthDate": "2009-07-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

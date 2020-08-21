@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Aubertin_Djibril.jsonld",
+    "@type": "Athlete",
+    "name": "Aubertin Djibril",
+    "familyName": "Aubertin",
+    "givenName": "Djibril",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6496"
+    },
+    "birthDate": "2006-05-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DACM.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderhaegen_Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderhaegen Marie",
+    "familyName": "Vanderhaegen",
+    "givenName": "Marie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3487"
+    },
+    "birthDate": "2008-01-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

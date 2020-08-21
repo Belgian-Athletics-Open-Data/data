@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Da_Re_Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Da Re Baptiste",
+    "familyName": "Da",
+    "givenName": "Re Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6284"
+    },
+    "birthDate": "2006-03-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

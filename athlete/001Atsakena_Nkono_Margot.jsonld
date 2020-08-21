@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Atsakena_Nkono_Margot.jsonld",
+    "@type": "Athlete",
+    "name": "Atsakena Nkono Margot",
+    "familyName": "Atsakena",
+    "givenName": "Nkono Margot",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7618"
+    },
+    "birthDate": "2007-03-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

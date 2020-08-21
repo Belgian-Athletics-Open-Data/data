@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hutschemackers_Bernard.jsonld",
+    "@type": "Athlete",
+    "name": "Hutschemackers Bernard",
+    "familyName": "Hutschemackers",
+    "givenName": "Bernard",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4262"
+    },
+    "birthDate": "1971-08-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

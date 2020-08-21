@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001N'Guetta_Kim_Loic.jsonld",
+    "@type": "Athlete",
+    "name": "N'Guetta Kim Loic",
+    "familyName": "N'Guetta",
+    "givenName": "Kim Loic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2693"
+    },
+    "birthDate": "2003-03-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

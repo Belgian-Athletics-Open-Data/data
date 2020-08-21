@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schuermans_Suzanne.jsonld",
+    "@type": "Athlete",
+    "name": "Schuermans Suzanne",
+    "familyName": "Schuermans",
+    "givenName": "Suzanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2927"
+    },
+    "birthDate": "1968-11-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

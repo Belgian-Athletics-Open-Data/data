@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Thimister_Bernadette.jsonld",
+    "@type": "Athlete",
+    "name": "Thimister Bernadette",
+    "familyName": "Thimister",
+    "givenName": "Bernadette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2982"
+    },
+    "birthDate": "1953-07-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

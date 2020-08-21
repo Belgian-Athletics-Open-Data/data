@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fauconnier_Sebastien.jsonld",
+    "@type": "Athlete",
+    "name": "Fauconnier Sebastien",
+    "familyName": "Fauconnier",
+    "givenName": "Sebastien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0020"
+    },
+    "birthDate": "2000-09-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

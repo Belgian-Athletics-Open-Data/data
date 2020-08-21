@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gutierrez_Raya_Erina.jsonld",
+    "@type": "Athlete",
+    "name": "Gutierrez Raya Erina",
+    "familyName": "Gutierrez",
+    "givenName": "Raya Erina",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7600"
+    },
+    "birthDate": "2007-12-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

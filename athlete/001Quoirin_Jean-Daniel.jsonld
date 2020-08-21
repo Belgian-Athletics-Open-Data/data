@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Quoirin_Jean-Daniel.jsonld",
+    "@type": "Athlete",
+    "name": "Quoirin Jean-Daniel",
+    "familyName": "Quoirin",
+    "givenName": "Jean-Daniel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0219"
+    },
+    "birthDate": "2001-04-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

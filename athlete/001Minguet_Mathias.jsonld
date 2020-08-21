@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Minguet_Mathias.jsonld",
+    "@type": "Athlete",
+    "name": "Minguet Mathias",
+    "familyName": "Minguet",
+    "givenName": "Mathias",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6881"
+    },
+    "birthDate": "2007-12-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deprez_Line.jsonld",
+    "@type": "Athlete",
+    "name": "Deprez Line",
+    "familyName": "Deprez",
+    "givenName": "Line",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0746"
+    },
+    "birthDate": "2005-12-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

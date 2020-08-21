@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Thilmany_Sylvie.jsonld",
+    "@type": "Athlete",
+    "name": "Thilmany Sylvie",
+    "familyName": "Thilmany",
+    "givenName": "Sylvie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2910"
+    },
+    "birthDate": "1979-04-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MBO_NGALA_MAKANDA_Sephor.jsonld",
+    "@type": "Athlete",
+    "name": "MBO NGALA MAKANDA Sephor*",
+    "familyName": "MBO",
+    "givenName": "NGALA MAKANDA Sephor*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3078"
+    },
+    "birthDate": "2002-04-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

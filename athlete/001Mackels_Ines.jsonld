@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mackels_Ines.jsonld",
+    "@type": "Athlete",
+    "name": "Mackels Ines",
+    "familyName": "Mackels",
+    "givenName": "Ines",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7054"
+    },
+    "birthDate": "2007-03-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

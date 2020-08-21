@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Elsuwe_Alexis.jsonld",
+    "@type": "Athlete",
+    "name": "Van Elsuwe Alexis",
+    "familyName": "Van",
+    "givenName": "Elsuwe Alexis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0528"
+    },
+    "birthDate": "2004-10-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

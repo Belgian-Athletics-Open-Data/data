@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Amorelli_Jeanne.jsonld",
+    "@type": "Athlete",
+    "name": "Amorelli Jeanne",
+    "familyName": "Amorelli",
+    "givenName": "Jeanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0375"
+    },
+    "birthDate": "2010-12-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

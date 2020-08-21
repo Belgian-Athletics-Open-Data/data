@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bartsch_Gilles.jsonld",
+    "@type": "Athlete",
+    "name": "Bartsch Gilles",
+    "familyName": "Bartsch",
+    "givenName": "Gilles",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0007"
+    },
+    "birthDate": "2001-05-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

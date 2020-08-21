@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Ruyver_Natacha.jsonld",
+    "@type": "Athlete",
+    "name": "De Ruyver Natacha",
+    "familyName": "De",
+    "givenName": "Ruyver Natacha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7312"
+    },
+    "birthDate": "2006-08-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Matougui_Lahcen.jsonld",
+    "@type": "Athlete",
+    "name": "El Matougui Lahcen*",
+    "familyName": "El",
+    "givenName": "Matougui Lahcen*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1408"
+    },
+    "birthDate": "1986-09-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

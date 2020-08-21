@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Denis_Thibaut.jsonld",
+    "@type": "Athlete",
+    "name": "Denis Thibaut",
+    "familyName": "Denis",
+    "givenName": "Thibaut",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5886"
+    },
+    "birthDate": "2007-08-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

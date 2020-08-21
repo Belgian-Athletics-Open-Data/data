@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Matondo-Lelo_Thais.jsonld",
+    "@type": "Athlete",
+    "name": "Matondo-Lelo Thais",
+    "familyName": "Matondo-Lelo",
+    "givenName": "Thais",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4440"
+    },
+    "birthDate": "2008-07-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

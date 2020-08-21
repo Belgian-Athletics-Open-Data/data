@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Henrotin_Joel.jsonld",
+    "@type": "Athlete",
+    "name": "Henrotin Joel",
+    "familyName": "Henrotin",
+    "givenName": "Joel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4667"
+    },
+    "birthDate": "1972-02-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

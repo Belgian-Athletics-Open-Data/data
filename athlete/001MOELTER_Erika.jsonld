@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MOELTER_Erika.jsonld",
+    "@type": "Athlete",
+    "name": "MOELTER Erika",
+    "familyName": "MOELTER",
+    "givenName": "Erika",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3282"
+    },
+    "birthDate": "1973-10-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

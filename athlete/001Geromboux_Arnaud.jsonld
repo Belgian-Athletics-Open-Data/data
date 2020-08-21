@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Geromboux_Arnaud.jsonld",
+    "@type": "Athlete",
+    "name": "Geromboux Arnaud",
+    "familyName": "Geromboux",
+    "givenName": "Arnaud",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1841"
+    },
+    "birthDate": "1991-02-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

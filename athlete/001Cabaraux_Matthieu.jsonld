@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cabaraux_Matthieu.jsonld",
+    "@type": "Athlete",
+    "name": "Cabaraux Matthieu",
+    "familyName": "Cabaraux",
+    "givenName": "Matthieu",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5993"
+    },
+    "birthDate": "2007-07-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

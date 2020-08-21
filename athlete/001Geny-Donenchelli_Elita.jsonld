@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Geny-Donenchelli_Elita.jsonld",
+    "@type": "Athlete",
+    "name": "Geny-Donenchelli Elita*",
+    "familyName": "Geny-Donenchelli",
+    "givenName": "Elita*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0852"
+    },
+    "birthDate": "2010-09-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

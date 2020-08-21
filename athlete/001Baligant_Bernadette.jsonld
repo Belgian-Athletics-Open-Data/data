@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Baligant_Bernadette.jsonld",
+    "@type": "Athlete",
+    "name": "Baligant Bernadette",
+    "familyName": "Baligant",
+    "givenName": "Bernadette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3162"
+    },
+    "birthDate": "1963-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

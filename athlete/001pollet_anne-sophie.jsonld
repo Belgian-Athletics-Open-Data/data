@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001pollet_anne-sophie.jsonld",
+    "@type": "Athlete",
+    "name": "pollet anne-sophie",
+    "familyName": "pollet",
+    "givenName": "anne-sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2947"
+    },
+    "birthDate": "1977-09-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

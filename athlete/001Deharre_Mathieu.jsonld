@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deharre_Mathieu.jsonld",
+    "@type": "Athlete",
+    "name": "Deharre Mathieu",
+    "familyName": "Deharre",
+    "givenName": "Mathieu",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2538"
+    },
+    "birthDate": "2002-08-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

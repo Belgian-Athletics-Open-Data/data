@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderelst_Elise.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderelst Elise",
+    "familyName": "Vanderelst",
+    "givenName": "Elise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1082"
+    },
+    "birthDate": "1998-01-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

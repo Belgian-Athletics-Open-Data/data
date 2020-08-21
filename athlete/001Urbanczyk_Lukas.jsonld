@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Urbanczyk_Lukas.jsonld",
+    "@type": "Athlete",
+    "name": "Urbanczyk Lukas",
+    "familyName": "Urbanczyk",
+    "givenName": "Lukas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0230"
+    },
+    "birthDate": "2005-06-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

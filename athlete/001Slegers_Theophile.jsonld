@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Slegers_Theophile.jsonld",
+    "@type": "Athlete",
+    "name": "Slegers Theophile",
+    "familyName": "Slegers",
+    "givenName": "Theophile",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6397"
+    },
+    "birthDate": "2007-11-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

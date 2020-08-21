@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Poucke_Lea.jsonld",
+    "@type": "Athlete",
+    "name": "Van Poucke Lea",
+    "familyName": "Van",
+    "givenName": "Poucke Lea",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3999"
+    },
+    "birthDate": "2008-07-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

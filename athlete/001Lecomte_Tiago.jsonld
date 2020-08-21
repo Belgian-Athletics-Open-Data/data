@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lecomte_Tiago.jsonld",
+    "@type": "Athlete",
+    "name": "Lecomte Tiago",
+    "familyName": "Lecomte",
+    "givenName": "Tiago",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6829"
+    },
+    "birthDate": "2007-03-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hervers_Anne-Laure.jsonld",
+    "@type": "Athlete",
+    "name": "Hervers Anne-Laure",
+    "familyName": "Hervers",
+    "givenName": "Anne-Laure",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0236"
+    },
+    "birthDate": "2005-05-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

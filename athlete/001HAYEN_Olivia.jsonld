@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001HAYEN_Olivia.jsonld",
+    "@type": "Athlete",
+    "name": "HAYEN Olivia",
+    "familyName": "HAYEN",
+    "givenName": "Olivia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0540"
+    },
+    "birthDate": "2011-12-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

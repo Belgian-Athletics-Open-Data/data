@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jonard_Claire-Anne.jsonld",
+    "@type": "Athlete",
+    "name": "Jonard Claire-Anne",
+    "familyName": "Jonard",
+    "givenName": "Claire-Anne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7347"
+    },
+    "birthDate": "2006-12-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

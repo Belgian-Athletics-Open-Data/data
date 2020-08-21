@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kepenne_Yaelle.jsonld",
+    "@type": "Athlete",
+    "name": "Kepenne Yaelle",
+    "familyName": "Kepenne",
+    "givenName": "Yaelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7099"
+    },
+    "birthDate": "2007-12-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

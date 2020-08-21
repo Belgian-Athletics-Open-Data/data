@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sterpin_Nadine.jsonld",
+    "@type": "Athlete",
+    "name": "Sterpin Nadine",
+    "familyName": "Sterpin",
+    "givenName": "Nadine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0508"
+    },
+    "birthDate": "2004-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

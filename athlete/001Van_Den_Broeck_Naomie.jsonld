@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Den_Broeck_Naomie.jsonld",
+    "@type": "Athlete",
+    "name": "Van Den Broeck Naomie",
+    "familyName": "Van",
+    "givenName": "Den Broeck Naomie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1263"
+    },
+    "birthDate": "1996-01-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

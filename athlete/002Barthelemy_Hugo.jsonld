@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/002Barthelemy_Hugo.jsonld",
+    "@type": "Athlete",
+    "name": "Barthelemy Hugo",
+    "familyName": "Barthelemy",
+    "givenName": "Hugo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6182"
+    },
+    "birthDate": "2007-04-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

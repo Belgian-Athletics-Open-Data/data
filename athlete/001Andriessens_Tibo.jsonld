@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Andriessens_Tibo.jsonld",
+    "@type": "Athlete",
+    "name": "Andriessens Tibo",
+    "familyName": "Andriessens",
+    "givenName": "Tibo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6000"
+    },
+    "birthDate": "2007-07-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

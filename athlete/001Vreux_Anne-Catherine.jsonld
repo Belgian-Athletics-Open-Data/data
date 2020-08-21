@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vreux_Anne-Catherine.jsonld",
+    "@type": "Athlete",
+    "name": "Vreux Anne-Catherine",
+    "familyName": "Vreux",
+    "givenName": "Anne-Catherine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1403"
+    },
+    "birthDate": "1987-10-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gudenkauf_Ethan.jsonld",
+    "@type": "Athlete",
+    "name": "Gudenkauf Ethan",
+    "familyName": "Gudenkauf",
+    "givenName": "Ethan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6840"
+    },
+    "birthDate": "2007-03-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LAMBERT_Donovan.jsonld",
+    "@type": "Athlete",
+    "name": "LAMBERT Donovan",
+    "familyName": "LAMBERT",
+    "givenName": "Donovan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5856"
+    },
+    "birthDate": "2007-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandenbussche_Daphnee.jsonld",
+    "@type": "Athlete",
+    "name": "Vandenbussche Daphnee",
+    "familyName": "Vandenbussche",
+    "givenName": "Daphnee",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3012"
+    },
+    "birthDate": "1973-07-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

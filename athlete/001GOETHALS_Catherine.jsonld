@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001GOETHALS_Catherine.jsonld",
+    "@type": "Athlete",
+    "name": "GOETHALS Catherine",
+    "familyName": "GOETHALS",
+    "givenName": "Catherine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3444"
+    },
+    "birthDate": "1966-07-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

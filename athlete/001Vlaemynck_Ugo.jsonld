@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vlaemynck_Ugo.jsonld",
+    "@type": "Athlete",
+    "name": "Vlaemynck Ugo",
+    "familyName": "Vlaemynck",
+    "givenName": "Ugo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3796"
+    },
+    "birthDate": "2009-07-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

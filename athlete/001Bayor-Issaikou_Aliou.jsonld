@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bayor-Issaikou_Aliou.jsonld",
+    "@type": "Athlete",
+    "name": "Bayor-Issaikou Aliou",
+    "familyName": "Bayor-Issaikou",
+    "givenName": "Aliou",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6504"
+    },
+    "birthDate": "2006-06-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Demarche_Christophe.jsonld",
+    "@type": "Athlete",
+    "name": "Demarche Christophe",
+    "familyName": "Demarche",
+    "givenName": "Christophe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4642"
+    },
+    "birthDate": "1978-07-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

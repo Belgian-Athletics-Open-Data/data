@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rodberg_Patrick.jsonld",
+    "@type": "Athlete",
+    "name": "Rodberg Patrick",
+    "familyName": "Rodberg",
+    "givenName": "Patrick",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4161"
+    },
+    "birthDate": "1972-08-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Assakrouhi_Nada.jsonld",
+    "@type": "Athlete",
+    "name": "Assakrouhi Nada",
+    "familyName": "Assakrouhi",
+    "givenName": "Nada",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7598"
+    },
+    "birthDate": "2007-02-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DACM.jsonld"
+        }
+    ]
+}

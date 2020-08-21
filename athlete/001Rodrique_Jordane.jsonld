@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rodrique_Jordane.jsonld",
+    "@type": "Athlete",
+    "name": "Rodrique Jordane",
+    "familyName": "Rodrique",
+    "givenName": "Jordane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1250"
+    },
+    "birthDate": "1990-12-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

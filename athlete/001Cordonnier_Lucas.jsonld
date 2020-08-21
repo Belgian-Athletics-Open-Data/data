@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cordonnier_Lucas.jsonld",
+    "@type": "Athlete",
+    "name": "Cordonnier Lucas",
+    "familyName": "Cordonnier",
+    "givenName": "Lucas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6717"
+    },
+    "birthDate": "2007-05-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

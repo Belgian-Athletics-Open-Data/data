@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001YOUBI_SILENOV_Valerie.jsonld",
+    "@type": "Athlete",
+    "name": "YOUBI SILENOV Valerie",
+    "familyName": "YOUBI",
+    "givenName": "SILENOV Valerie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2955"
+    },
+    "birthDate": "1981-05-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

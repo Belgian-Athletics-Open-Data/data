@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Diallo_Mamadou_Binta.jsonld",
+    "@type": "Athlete",
+    "name": "Diallo Mamadou Binta",
+    "familyName": "Diallo",
+    "givenName": "Mamadou Binta",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7921"
+    },
+    "birthDate": "2006-08-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

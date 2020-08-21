@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BACHIRI_LILA.jsonld",
+    "@type": "Athlete",
+    "name": "BACHIRI LILA",
+    "familyName": "BACHIRI",
+    "givenName": "LILA",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7191"
+    },
+    "birthDate": "2007-07-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

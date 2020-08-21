@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Neuray_Isabelle.jsonld",
+    "@type": "Athlete",
+    "name": "Neuray Isabelle",
+    "familyName": "Neuray",
+    "givenName": "Isabelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3201"
+    },
+    "birthDate": "1972-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

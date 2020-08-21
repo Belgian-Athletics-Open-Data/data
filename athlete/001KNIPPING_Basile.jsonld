@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001KNIPPING_Basile.jsonld",
+    "@type": "Athlete",
+    "name": "KNIPPING Basile",
+    "familyName": "KNIPPING",
+    "givenName": "Basile",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3428"
+    },
+    "birthDate": "2008-07-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

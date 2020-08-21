@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Debehogne_Noeline.jsonld",
+    "@type": "Athlete",
+    "name": "Debehogne Noeline",
+    "familyName": "Debehogne",
+    "givenName": "Noeline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0450"
+    },
+    "birthDate": "2010-02-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lando_Ethan_Jude.jsonld",
+    "@type": "Athlete",
+    "name": "Lando Ethan Jude",
+    "familyName": "Lando",
+    "givenName": "Ethan Jude",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3386"
+    },
+    "birthDate": "2009-03-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Meurisse_Guy.jsonld",
+    "@type": "Athlete",
+    "name": "Meurisse Guy",
+    "familyName": "Meurisse",
+    "givenName": "Guy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4250"
+    },
+    "birthDate": "1950-11-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

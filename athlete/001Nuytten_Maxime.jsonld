@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nuytten_Maxime.jsonld",
+    "@type": "Athlete",
+    "name": "Nuytten Maxime",
+    "familyName": "Nuytten",
+    "givenName": "Maxime",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2279"
+    },
+    "birthDate": "2002-01-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACCO.jsonld"
+        }
+    ]
+}

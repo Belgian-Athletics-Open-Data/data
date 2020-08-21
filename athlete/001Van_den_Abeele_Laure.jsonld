@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_den_Abeele_Laure.jsonld",
+    "@type": "Athlete",
+    "name": "Van den Abeele Laure",
+    "familyName": "Van",
+    "givenName": "den Abeele Laure",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0061"
+    },
+    "birthDate": "2000-06-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

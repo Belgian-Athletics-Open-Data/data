@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Decueper_Esteban.jsonld",
+    "@type": "Athlete",
+    "name": "Decueper Esteban",
+    "familyName": "Decueper",
+    "givenName": "Esteban",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2755"
+    },
+    "birthDate": "2008-06-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

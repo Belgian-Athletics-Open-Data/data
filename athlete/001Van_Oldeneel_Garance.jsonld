@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Oldeneel_Garance.jsonld",
+    "@type": "Athlete",
+    "name": "Van Oldeneel Garance",
+    "familyName": "Van",
+    "givenName": "Oldeneel Garance",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3015"
+    },
+    "birthDate": "2002-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

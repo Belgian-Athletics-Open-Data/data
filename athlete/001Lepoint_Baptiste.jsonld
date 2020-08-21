@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lepoint_Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Lepoint Baptiste",
+    "familyName": "Lepoint",
+    "givenName": "Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1927"
+    },
+    "birthDate": "1998-05-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

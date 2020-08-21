@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jacob_Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Jacob Baptiste",
+    "familyName": "Jacob",
+    "givenName": "Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6631"
+    },
+    "birthDate": "2006-11-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

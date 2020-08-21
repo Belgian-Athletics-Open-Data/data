@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ben_Lafkih_Lina.jsonld",
+    "@type": "Athlete",
+    "name": "Ben Lafkih Lina",
+    "familyName": "Ben",
+    "givenName": "Lafkih Lina",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0945"
+    },
+    "birthDate": "2005-02-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

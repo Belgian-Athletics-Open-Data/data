@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_De_Walle_Hugo.jsonld",
+    "@type": "Athlete",
+    "name": "Van De Walle Hugo",
+    "familyName": "Van",
+    "givenName": "De Walle Hugo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2636"
+    },
+    "birthDate": "2008-08-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Isaac_Sylvain.jsonld",
+    "@type": "Athlete",
+    "name": "Isaac Sylvain",
+    "familyName": "Isaac",
+    "givenName": "Sylvain",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3803"
+    },
+    "birthDate": "2008-06-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

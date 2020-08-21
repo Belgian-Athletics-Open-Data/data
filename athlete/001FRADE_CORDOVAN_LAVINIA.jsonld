@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001FRADE_CORDOVAN_LAVINIA.jsonld",
+    "@type": "Athlete",
+    "name": "FRADE CORDOVAN LAVINIA*",
+    "familyName": "FRADE",
+    "givenName": "CORDOVAN LAVINIA*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0868"
+    },
+    "birthDate": "2005-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Castillo_Rachel.jsonld",
+    "@type": "Athlete",
+    "name": "Castillo Rachel",
+    "familyName": "Castillo",
+    "givenName": "Rachel",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3175"
+    },
+    "birthDate": "1969-04-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

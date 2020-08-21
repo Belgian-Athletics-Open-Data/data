@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Levacq_Corentin.jsonld",
+    "@type": "Athlete",
+    "name": "Levacq Corentin",
+    "familyName": "Levacq",
+    "givenName": "Corentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4224"
+    },
+    "birthDate": "1981-06-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACCO.jsonld"
+        }
+    ]
+}

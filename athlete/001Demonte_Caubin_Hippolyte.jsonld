@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Demonte_Caubin_Hippolyte.jsonld",
+    "@type": "Athlete",
+    "name": "Demonte Caubin Hippolyte",
+    "familyName": "Demonte",
+    "givenName": "Caubin Hippolyte",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6354"
+    },
+    "birthDate": "2006-04-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

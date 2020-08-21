@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Biasi_Nicola.jsonld",
+    "@type": "Athlete",
+    "name": "Di Biasi Nicola",
+    "familyName": "Di",
+    "givenName": "Biasi Nicola",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0593"
+    },
+    "birthDate": "2005-12-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanfleteren_Adele.jsonld",
+    "@type": "Athlete",
+    "name": "Vanfleteren Adele*",
+    "familyName": "Vanfleteren",
+    "givenName": "Adele*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0884"
+    },
+    "birthDate": "2011-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

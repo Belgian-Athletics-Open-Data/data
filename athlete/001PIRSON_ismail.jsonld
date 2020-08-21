@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PIRSON_ismail.jsonld",
+    "@type": "Athlete",
+    "name": "PIRSON ismail",
+    "familyName": "PIRSON",
+    "givenName": "ismail",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3682"
+    },
+    "birthDate": "2008-07-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

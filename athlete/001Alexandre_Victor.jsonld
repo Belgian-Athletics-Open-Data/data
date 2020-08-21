@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Alexandre_Victor.jsonld",
+    "@type": "Athlete",
+    "name": "Alexandre Victor",
+    "familyName": "Alexandre",
+    "givenName": "Victor",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1734"
+    },
+    "birthDate": "1997-02-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

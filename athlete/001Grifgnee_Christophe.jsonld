@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Grifgnee_Christophe.jsonld",
+    "@type": "Athlete",
+    "name": "Grifgnee Christophe",
+    "familyName": "Grifgnee",
+    "givenName": "Christophe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1349"
+    },
+    "birthDate": "1988-09-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

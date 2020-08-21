@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Parisis_Marie-Christine.jsonld",
+    "@type": "Athlete",
+    "name": "Parisis Marie-Christine",
+    "familyName": "Parisis",
+    "givenName": "Marie-Christine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2988"
+    },
+    "birthDate": "1955-03-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

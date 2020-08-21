@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Guillemin_Adrien.jsonld",
+    "@type": "Athlete",
+    "name": "Guillemin Adrien",
+    "familyName": "Guillemin",
+    "givenName": "Adrien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6449"
+    },
+    "birthDate": "2007-03-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

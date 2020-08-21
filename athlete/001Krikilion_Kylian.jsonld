@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Krikilion_Kylian.jsonld",
+    "@type": "Athlete",
+    "name": "Krikilion Kylian",
+    "familyName": "Krikilion",
+    "givenName": "Kylian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3092"
+    },
+    "birthDate": "2008-06-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

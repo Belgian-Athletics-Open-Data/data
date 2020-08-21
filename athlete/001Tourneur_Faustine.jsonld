@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tourneur_Faustine.jsonld",
+    "@type": "Athlete",
+    "name": "Tourneur Faustine",
+    "familyName": "Tourneur",
+    "givenName": "Faustine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7070"
+    },
+    "birthDate": "2007-09-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

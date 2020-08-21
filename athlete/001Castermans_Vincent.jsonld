@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Castermans_Vincent.jsonld",
+    "@type": "Athlete",
+    "name": "Castermans Vincent",
+    "familyName": "Castermans",
+    "givenName": "Vincent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1803"
+    },
+    "birthDate": "1990-12-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

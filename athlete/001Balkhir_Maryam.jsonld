@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Balkhir_Maryam.jsonld",
+    "@type": "Athlete",
+    "name": "Balkhir Maryam",
+    "familyName": "Balkhir",
+    "givenName": "Maryam",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3671"
+    },
+    "birthDate": "2008-09-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Snyers_d'Attenhoven_Charl.jsonld",
+    "@type": "Athlete",
+    "name": "Snyers d'Attenhoven Charl",
+    "familyName": "Snyers",
+    "givenName": "d'Attenhoven Charl",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1731"
+    },
+    "birthDate": "1992-03-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

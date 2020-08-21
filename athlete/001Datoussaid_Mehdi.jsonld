@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Datoussaid_Mehdi.jsonld",
+    "@type": "Athlete",
+    "name": "Datoussaid Mehdi",
+    "familyName": "Datoussaid",
+    "givenName": "Mehdi",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1998"
+    },
+    "birthDate": "1990-07-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

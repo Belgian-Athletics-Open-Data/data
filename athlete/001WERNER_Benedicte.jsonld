@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001WERNER_Benedicte.jsonld",
+    "@type": "Athlete",
+    "name": "WERNER Benedicte",
+    "familyName": "WERNER",
+    "givenName": "Benedicte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2877"
+    },
+    "birthDate": "1970-10-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

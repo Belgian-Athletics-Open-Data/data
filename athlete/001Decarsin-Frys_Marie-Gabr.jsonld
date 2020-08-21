@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Decarsin-Frys_Marie-Gabr.jsonld",
+    "@type": "Athlete",
+    "name": "Decarsin-Frys Marie-Gabr*",
+    "familyName": "Decarsin-Frys",
+    "givenName": "Marie-Gabr*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2925"
+    },
+    "birthDate": "1962-03-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

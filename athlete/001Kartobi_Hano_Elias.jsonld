@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kartobi_Hano_Elias.jsonld",
+    "@type": "Athlete",
+    "name": "Kartobi Hano Elias*",
+    "familyName": "Kartobi",
+    "givenName": "Hano Elias*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2828"
+    },
+    "birthDate": "2008-01-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

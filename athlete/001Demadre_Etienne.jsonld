@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Demadre_Etienne.jsonld",
+    "@type": "Athlete",
+    "name": "Demadre Etienne",
+    "familyName": "Demadre",
+    "givenName": "Etienne",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4751"
+    },
+    "birthDate": "1971-04-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

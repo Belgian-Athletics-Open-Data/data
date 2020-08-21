@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Den_Brempt_Mathis.jsonld",
+    "@type": "Athlete",
+    "name": "Van Den Brempt Mathis",
+    "familyName": "Van",
+    "givenName": "Den Brempt Mathis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6811"
+    },
+    "birthDate": "2007-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

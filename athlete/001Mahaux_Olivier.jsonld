@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mahaux_Olivier.jsonld",
+    "@type": "Athlete",
+    "name": "Mahaux Olivier",
+    "familyName": "Mahaux",
+    "givenName": "Olivier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5072"
+    },
+    "birthDate": "1976-11-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

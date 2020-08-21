@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Flament_Emmanuel.jsonld",
+    "@type": "Athlete",
+    "name": "Flament Emmanuel",
+    "familyName": "Flament",
+    "givenName": "Emmanuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4861"
+    },
+    "birthDate": "1976-07-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

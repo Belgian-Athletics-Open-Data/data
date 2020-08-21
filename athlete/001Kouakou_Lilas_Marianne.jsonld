@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kouakou_Lilas_Marianne.jsonld",
+    "@type": "Athlete",
+    "name": "Kouakou Lilas Marianne",
+    "familyName": "Kouakou",
+    "givenName": "Lilas Marianne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4081"
+    },
+    "birthDate": "2008-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

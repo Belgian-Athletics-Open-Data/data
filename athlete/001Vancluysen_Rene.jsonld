@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vancluysen_Rene.jsonld",
+    "@type": "Athlete",
+    "name": "Vancluysen Rene",
+    "familyName": "Vancluysen",
+    "givenName": "Rene",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4412"
+    },
+    "birthDate": "1959-12-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

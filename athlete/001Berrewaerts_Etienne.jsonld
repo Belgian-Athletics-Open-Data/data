@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Berrewaerts_Etienne.jsonld",
+    "@type": "Athlete",
+    "name": "Berrewaerts Etienne",
+    "familyName": "Berrewaerts",
+    "givenName": "Etienne",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4951"
+    },
+    "birthDate": "1954-11-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

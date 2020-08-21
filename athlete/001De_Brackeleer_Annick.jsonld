@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Brackeleer_Annick.jsonld",
+    "@type": "Athlete",
+    "name": "De Brackeleer Annick",
+    "familyName": "De",
+    "givenName": "Brackeleer Annick",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3049"
+    },
+    "birthDate": "1982-06-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

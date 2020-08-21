@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dzou_Lesly_Kayla.jsonld",
+    "@type": "Athlete",
+    "name": "Dzou Lesly Kayla",
+    "familyName": "Dzou",
+    "givenName": "Lesly Kayla",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0514"
+    },
+    "birthDate": "2010-04-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

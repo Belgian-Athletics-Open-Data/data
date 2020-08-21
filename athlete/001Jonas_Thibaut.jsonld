@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jonas_Thibaut.jsonld",
+    "@type": "Athlete",
+    "name": "Jonas Thibaut",
+    "familyName": "Jonas",
+    "givenName": "Thibaut",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2615"
+    },
+    "birthDate": "2008-09-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

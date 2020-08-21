@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PAUWELS_ESTHER.jsonld",
+    "@type": "Athlete",
+    "name": "PAUWELS ESTHER",
+    "familyName": "PAUWELS",
+    "givenName": "ESTHER",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4417"
+    },
+    "birthDate": "2009-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

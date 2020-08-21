@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Amorison_Aymeline.jsonld",
+    "@type": "Athlete",
+    "name": "Amorison Aymeline",
+    "familyName": "Amorison",
+    "givenName": "Aymeline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0663"
+    },
+    "birthDate": "2005-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

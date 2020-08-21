@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maaroufi_Elias.jsonld",
+    "@type": "Athlete",
+    "name": "Maaroufi Elias",
+    "familyName": "Maaroufi",
+    "givenName": "Elias",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6806"
+    },
+    "birthDate": "2007-01-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

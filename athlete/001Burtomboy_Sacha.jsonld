@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Burtomboy_Sacha.jsonld",
+    "@type": "Athlete",
+    "name": "Burtomboy Sacha",
+    "familyName": "Burtomboy",
+    "givenName": "Sacha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3070"
+    },
+    "birthDate": "2009-01-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

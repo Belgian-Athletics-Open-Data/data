@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Evrard_Veronique.jsonld",
+    "@type": "Athlete",
+    "name": "Evrard Veronique",
+    "familyName": "Evrard",
+    "givenName": "Veronique",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3431"
+    },
+    "birthDate": "1965-04-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

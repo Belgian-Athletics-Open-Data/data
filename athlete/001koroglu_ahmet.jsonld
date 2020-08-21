@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001koroglu_ahmet.jsonld",
+    "@type": "Athlete",
+    "name": "koroglu ahmet",
+    "familyName": "koroglu",
+    "givenName": "ahmet",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3672"
+    },
+    "birthDate": "1992-01-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

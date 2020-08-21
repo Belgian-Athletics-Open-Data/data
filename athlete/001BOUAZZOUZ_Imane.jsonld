@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOUAZZOUZ_Imane.jsonld",
+    "@type": "Athlete",
+    "name": "BOUAZZOUZ Imane",
+    "familyName": "BOUAZZOUZ",
+    "givenName": "Imane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0005"
+    },
+    "birthDate": "2001-08-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

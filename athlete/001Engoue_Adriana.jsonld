@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Engoue_Adriana.jsonld",
+    "@type": "Athlete",
+    "name": "Engoue Adriana",
+    "familyName": "Engoue",
+    "givenName": "Adriana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0874"
+    },
+    "birthDate": "2010-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

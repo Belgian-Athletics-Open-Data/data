@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Legrand_Joseph.jsonld",
+    "@type": "Athlete",
+    "name": "Legrand Joseph",
+    "familyName": "Legrand",
+    "givenName": "Joseph",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4109"
+    },
+    "birthDate": "1957-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

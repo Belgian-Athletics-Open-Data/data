@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Woitrin_Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Woitrin Baptiste",
+    "familyName": "Woitrin",
+    "givenName": "Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6855"
+    },
+    "birthDate": "2006-04-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

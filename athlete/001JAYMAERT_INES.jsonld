@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001JAYMAERT_INES.jsonld",
+    "@type": "Athlete",
+    "name": "JAYMAERT INES",
+    "familyName": "JAYMAERT",
+    "givenName": "INES",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3588"
+    },
+    "birthDate": "2009-07-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

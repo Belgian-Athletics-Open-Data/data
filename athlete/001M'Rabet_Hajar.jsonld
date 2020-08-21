@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001M'Rabet_Hajar.jsonld",
+    "@type": "Athlete",
+    "name": "M'Rabet Hajar",
+    "familyName": "M'Rabet",
+    "givenName": "Hajar",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0651"
+    },
+    "birthDate": "2004-12-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

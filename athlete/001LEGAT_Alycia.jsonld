@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LEGAT_Alycia.jsonld",
+    "@type": "Athlete",
+    "name": "LEGAT Alycia",
+    "familyName": "LEGAT",
+    "givenName": "Alycia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0444"
+    },
+    "birthDate": "2004-04-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

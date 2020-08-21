@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Yague_Sanz_Nathalie.jsonld",
+    "@type": "Athlete",
+    "name": "Yague Sanz Nathalie",
+    "familyName": "Yague",
+    "givenName": "Sanz Nathalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3172"
+    },
+    "birthDate": "1972-10-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

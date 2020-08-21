@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sivis_Mulongo_Juliana.jsonld",
+    "@type": "Athlete",
+    "name": "Sivis Mulongo Juliana",
+    "familyName": "Sivis",
+    "givenName": "Mulongo Juliana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7335"
+    },
+    "birthDate": "2007-03-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

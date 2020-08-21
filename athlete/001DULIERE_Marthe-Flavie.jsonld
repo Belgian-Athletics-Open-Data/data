@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DULIERE_Marthe-Flavie.jsonld",
+    "@type": "Athlete",
+    "name": "DULIERE Marthe-Flavie*",
+    "familyName": "DULIERE",
+    "givenName": "Marthe-Flavie*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3018"
+    },
+    "birthDate": "2003-01-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

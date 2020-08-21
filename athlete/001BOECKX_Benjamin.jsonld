@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOECKX_Benjamin.jsonld",
+    "@type": "Athlete",
+    "name": "BOECKX Benjamin",
+    "familyName": "BOECKX",
+    "givenName": "Benjamin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2152"
+    },
+    "birthDate": "2002-04-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

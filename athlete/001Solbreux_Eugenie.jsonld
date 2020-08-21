@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Solbreux_Eugenie.jsonld",
+    "@type": "Athlete",
+    "name": "Solbreux Eugenie",
+    "familyName": "Solbreux",
+    "givenName": "Eugenie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0125"
+    },
+    "birthDate": "2000-09-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

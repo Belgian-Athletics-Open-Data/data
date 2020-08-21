@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Scaduto_Chiara.jsonld",
+    "@type": "Athlete",
+    "name": "Scaduto Chiara",
+    "familyName": "Scaduto",
+    "givenName": "Chiara",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0782"
+    },
+    "birthDate": "2004-08-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

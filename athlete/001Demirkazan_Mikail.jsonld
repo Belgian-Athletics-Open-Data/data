@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Demirkazan_Mikail.jsonld",
+    "@type": "Athlete",
+    "name": "Demirkazan Mikail",
+    "familyName": "Demirkazan",
+    "givenName": "Mikail",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1925"
+    },
+    "birthDate": "1993-02-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

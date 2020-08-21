@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Demaret_Liam.jsonld",
+    "@type": "Athlete",
+    "name": "Demaret Liam",
+    "familyName": "Demaret",
+    "givenName": "Liam",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3370"
+    },
+    "birthDate": "2009-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

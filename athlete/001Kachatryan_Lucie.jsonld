@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kachatryan_Lucie.jsonld",
+    "@type": "Athlete",
+    "name": "Kachatryan Lucie*",
+    "familyName": "Kachatryan",
+    "givenName": "Lucie*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0747"
+    },
+    "birthDate": "2010-07-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

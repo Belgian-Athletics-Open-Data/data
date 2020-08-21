@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monfort_Nahla.jsonld",
+    "@type": "Athlete",
+    "name": "Monfort Nahla",
+    "familyName": "Monfort",
+    "givenName": "Nahla",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0170"
+    },
+    "birthDate": "2011-11-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

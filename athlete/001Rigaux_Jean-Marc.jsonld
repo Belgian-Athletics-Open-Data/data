@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rigaux_Jean-Marc.jsonld",
+    "@type": "Athlete",
+    "name": "Rigaux Jean-Marc",
+    "familyName": "Rigaux",
+    "givenName": "Jean-Marc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4912"
+    },
+    "birthDate": "1965-05-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dunesme_Rosy.jsonld",
+    "@type": "Athlete",
+    "name": "Dunesme Rosy",
+    "familyName": "Dunesme",
+    "givenName": "Rosy",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3983"
+    },
+    "birthDate": "2008-05-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

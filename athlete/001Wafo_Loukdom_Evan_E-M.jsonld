@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wafo_Loukdom_Evan_E-M.jsonld",
+    "@type": "Athlete",
+    "name": "Wafo Loukdom Evan E-M",
+    "familyName": "Wafo",
+    "givenName": "Loukdom Evan E-M",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6254"
+    },
+    "birthDate": "2007-09-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

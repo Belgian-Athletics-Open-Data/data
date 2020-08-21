@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandenbranden_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "Vandenbranden Antoine",
+    "familyName": "Vandenbranden",
+    "givenName": "Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0470"
+    },
+    "birthDate": "2005-01-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

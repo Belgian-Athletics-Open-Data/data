@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jooris_Procureur_Luz.jsonld",
+    "@type": "Athlete",
+    "name": "Jooris Procureur Luz",
+    "familyName": "Jooris",
+    "givenName": "Procureur Luz",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0772"
+    },
+    "birthDate": "2010-08-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

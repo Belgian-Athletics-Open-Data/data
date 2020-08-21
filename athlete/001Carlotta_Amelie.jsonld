@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Carlotta_Amelie.jsonld",
+    "@type": "Athlete",
+    "name": "Carlotta Amelie",
+    "familyName": "Carlotta",
+    "givenName": "Amelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3150"
+    },
+    "birthDate": "1982-09-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

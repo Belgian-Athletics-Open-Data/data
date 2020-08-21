@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Piedboeuf_David.jsonld",
+    "@type": "Athlete",
+    "name": "Piedboeuf David",
+    "familyName": "Piedboeuf",
+    "givenName": "David",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5129"
+    },
+    "birthDate": "1959-09-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mergiotti_Maelle.jsonld",
+    "@type": "Athlete",
+    "name": "Mergiotti Maelle",
+    "familyName": "Mergiotti",
+    "givenName": "Maelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0710"
+    },
+    "birthDate": "2010-09-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

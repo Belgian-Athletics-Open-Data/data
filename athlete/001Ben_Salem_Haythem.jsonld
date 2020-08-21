@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ben_Salem_Haythem.jsonld",
+    "@type": "Athlete",
+    "name": "Ben Salem Haythem*",
+    "familyName": "Ben",
+    "givenName": "Salem Haythem*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1384"
+    },
+    "birthDate": "1988-05-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

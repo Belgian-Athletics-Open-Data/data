@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Eryilmaz_Zeynep.jsonld",
+    "@type": "Athlete",
+    "name": "Eryilmaz Zeynep",
+    "familyName": "Eryilmaz",
+    "givenName": "Zeynep",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2722"
+    },
+    "birthDate": "2002-03-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

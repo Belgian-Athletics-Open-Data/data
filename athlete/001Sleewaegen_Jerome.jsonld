@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sleewaegen_Jerome.jsonld",
+    "@type": "Athlete",
+    "name": "Sleewaegen Jerome",
+    "familyName": "Sleewaegen",
+    "givenName": "Jerome",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0033"
+    },
+    "birthDate": "2001-09-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

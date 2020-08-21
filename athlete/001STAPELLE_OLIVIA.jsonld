@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001STAPELLE_OLIVIA.jsonld",
+    "@type": "Athlete",
+    "name": "STAPELLE OLIVIA",
+    "familyName": "STAPELLE",
+    "givenName": "OLIVIA",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7609"
+    },
+    "birthDate": "2007-04-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

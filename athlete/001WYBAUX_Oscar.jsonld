@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001WYBAUX_Oscar.jsonld",
+    "@type": "Athlete",
+    "name": "WYBAUX Oscar",
+    "familyName": "WYBAUX",
+    "givenName": "Oscar",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2627"
+    },
+    "birthDate": "2009-08-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

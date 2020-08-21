@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lucassen_Lena-Lou.jsonld",
+    "@type": "Athlete",
+    "name": "Lucassen Lena-Lou",
+    "familyName": "Lucassen",
+    "givenName": "Lena-Lou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0477"
+    },
+    "birthDate": "2005-08-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Degraeve_Loic.jsonld",
+    "@type": "Athlete",
+    "name": "Degraeve Loic",
+    "familyName": "Degraeve",
+    "givenName": "Loic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6572"
+    },
+    "birthDate": "2007-09-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

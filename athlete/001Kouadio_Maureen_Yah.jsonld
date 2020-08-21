@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kouadio_Maureen_Yah.jsonld",
+    "@type": "Athlete",
+    "name": "Kouadio Maureen Yah",
+    "familyName": "Kouadio",
+    "givenName": "Maureen Yah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4080"
+    },
+    "birthDate": "2009-04-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Magotteaux_Mazarine.jsonld",
+    "@type": "Athlete",
+    "name": "Magotteaux Mazarine",
+    "familyName": "Magotteaux",
+    "givenName": "Mazarine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2655"
+    },
+    "birthDate": "2002-11-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

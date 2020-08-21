@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Graff-Grolet_Aurelia.jsonld",
+    "@type": "Athlete",
+    "name": "Graff-Grolet Aurelia",
+    "familyName": "Graff-Grolet",
+    "givenName": "Aurelia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4197"
+    },
+    "birthDate": "2008-04-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

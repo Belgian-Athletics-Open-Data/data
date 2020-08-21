@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderlinden_Marc.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderlinden Marc",
+    "familyName": "Vanderlinden",
+    "givenName": "Marc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4685"
+    },
+    "birthDate": "1958-12-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Troisfontaines_Delphine.jsonld",
+    "@type": "Athlete",
+    "name": "Troisfontaines Delphine",
+    "familyName": "Troisfontaines",
+    "givenName": "Delphine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3008"
+    },
+    "birthDate": "1978-03-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

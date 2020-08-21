@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Genechten_Lalie.jsonld",
+    "@type": "Athlete",
+    "name": "Van Genechten Lalie",
+    "familyName": "Van",
+    "givenName": "Genechten Lalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0584"
+    },
+    "birthDate": "2005-08-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

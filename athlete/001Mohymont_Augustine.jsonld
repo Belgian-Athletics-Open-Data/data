@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mohymont_Augustine.jsonld",
+    "@type": "Athlete",
+    "name": "Mohymont Augustine",
+    "familyName": "Mohymont",
+    "givenName": "Augustine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0940"
+    },
+    "birthDate": "2005-09-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

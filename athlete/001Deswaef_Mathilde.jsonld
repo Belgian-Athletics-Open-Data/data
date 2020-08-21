@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deswaef_Mathilde.jsonld",
+    "@type": "Athlete",
+    "name": "Deswaef Mathilde",
+    "familyName": "Deswaef",
+    "givenName": "Mathilde",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1267"
+    },
+    "birthDate": "1999-02-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

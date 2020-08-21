@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lambillotte_Juliette.jsonld",
+    "@type": "Athlete",
+    "name": "Lambillotte Juliette",
+    "familyName": "Lambillotte",
+    "givenName": "Juliette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2812"
+    },
+    "birthDate": "2003-07-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

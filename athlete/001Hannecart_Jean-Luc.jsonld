@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hannecart_Jean-Luc.jsonld",
+    "@type": "Athlete",
+    "name": "Hannecart Jean-Luc",
+    "familyName": "Hannecart",
+    "givenName": "Jean-Luc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5066"
+    },
+    "birthDate": "1961-12-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

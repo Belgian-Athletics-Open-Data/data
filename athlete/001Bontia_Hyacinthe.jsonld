@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bontia_Hyacinthe.jsonld",
+    "@type": "Athlete",
+    "name": "Bontia Hyacinthe",
+    "familyName": "Bontia",
+    "givenName": "Hyacinthe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1409"
+    },
+    "birthDate": "1985-12-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

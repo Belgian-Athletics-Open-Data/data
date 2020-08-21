@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Griffin_Alexander.jsonld",
+    "@type": "Athlete",
+    "name": "Griffin Alexander",
+    "familyName": "Griffin",
+    "givenName": "Alexander",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3769"
+    },
+    "birthDate": "2008-12-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

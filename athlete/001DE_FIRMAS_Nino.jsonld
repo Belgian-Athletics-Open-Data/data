@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DE_FIRMAS_Nino.jsonld",
+    "@type": "Athlete",
+    "name": "DE FIRMAS Nino*",
+    "familyName": "DE",
+    "givenName": "FIRMAS Nino*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6530"
+    },
+    "birthDate": "2006-02-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

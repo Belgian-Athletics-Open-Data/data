@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wanlin_Elsa.jsonld",
+    "@type": "Athlete",
+    "name": "Wanlin Elsa",
+    "familyName": "Wanlin",
+    "givenName": "Elsa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0504"
+    },
+    "birthDate": "2004-06-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

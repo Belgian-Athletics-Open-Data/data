@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CLAUDE_MAXIM.jsonld",
+    "@type": "Athlete",
+    "name": "CLAUDE MAXIM",
+    "familyName": "CLAUDE",
+    "givenName": "MAXIM",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2807"
+    },
+    "birthDate": "2009-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MIHAYLOVA_VICTORIA.jsonld",
+    "@type": "Athlete",
+    "name": "MIHAYLOVA VICTORIA*",
+    "familyName": "MIHAYLOVA",
+    "givenName": "VICTORIA*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7527"
+    },
+    "birthDate": "2006-08-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

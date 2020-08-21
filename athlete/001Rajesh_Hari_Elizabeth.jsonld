@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rajesh_Hari_Elizabeth.jsonld",
+    "@type": "Athlete",
+    "name": "Rajesh Hari Elizabeth",
+    "familyName": "Rajesh",
+    "givenName": "Hari Elizabeth",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4466"
+    },
+    "birthDate": "2009-07-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

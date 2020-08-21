@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wuillaume_Sandrine.jsonld",
+    "@type": "Athlete",
+    "name": "Wuillaume Sandrine",
+    "familyName": "Wuillaume",
+    "givenName": "Sandrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1124"
+    },
+    "birthDate": "1992-06-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

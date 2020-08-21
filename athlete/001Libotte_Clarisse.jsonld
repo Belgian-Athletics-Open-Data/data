@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Libotte_Clarisse.jsonld",
+    "@type": "Athlete",
+    "name": "Libotte Clarisse",
+    "familyName": "Libotte",
+    "givenName": "Clarisse",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3637"
+    },
+    "birthDate": "2008-03-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wuidard_Vinciane.jsonld",
+    "@type": "Athlete",
+    "name": "Wuidard Vinciane",
+    "familyName": "Wuidard",
+    "givenName": "Vinciane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2780"
+    },
+    "birthDate": "1973-07-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

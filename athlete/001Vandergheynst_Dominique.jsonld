@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandergheynst_Dominique.jsonld",
+    "@type": "Athlete",
+    "name": "Vandergheynst Dominique",
+    "familyName": "Vandergheynst",
+    "givenName": "Dominique",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4839"
+    },
+    "birthDate": "1955-08-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

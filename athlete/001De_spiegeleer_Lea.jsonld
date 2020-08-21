@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_spiegeleer_Lea.jsonld",
+    "@type": "Athlete",
+    "name": "De spiegeleer Lea",
+    "familyName": "De",
+    "givenName": "spiegeleer Lea",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7661"
+    },
+    "birthDate": "2006-02-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Courtois_Lionel.jsonld",
+    "@type": "Athlete",
+    "name": "Courtois Lionel*",
+    "familyName": "Courtois",
+    "givenName": "Lionel*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4489"
+    },
+    "birthDate": "1972-08-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

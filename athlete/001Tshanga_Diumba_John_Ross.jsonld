@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tshanga_Diumba_John_Ross.jsonld",
+    "@type": "Athlete",
+    "name": "Tshanga Diumba John Ross",
+    "familyName": "Tshanga",
+    "givenName": "Diumba John Ross",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6214"
+    },
+    "birthDate": "2007-09-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

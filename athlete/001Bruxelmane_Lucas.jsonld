@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bruxelmane_Lucas.jsonld",
+    "@type": "Athlete",
+    "name": "Bruxelmane Lucas",
+    "familyName": "Bruxelmane",
+    "givenName": "Lucas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0262"
+    },
+    "birthDate": "2001-06-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

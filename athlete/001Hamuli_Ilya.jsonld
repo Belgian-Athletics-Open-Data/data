@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hamuli_Ilya.jsonld",
+    "@type": "Athlete",
+    "name": "Hamuli Ilya",
+    "familyName": "Hamuli",
+    "givenName": "Ilya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7012"
+    },
+    "birthDate": "2007-06-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

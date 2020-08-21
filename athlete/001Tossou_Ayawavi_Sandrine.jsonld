@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tossou_Ayawavi_Sandrine.jsonld",
+    "@type": "Athlete",
+    "name": "Tossou Ayawavi Sandrine",
+    "familyName": "Tossou",
+    "givenName": "Ayawavi Sandrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2510"
+    },
+    "birthDate": "2003-09-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

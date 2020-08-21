@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sainte_Marie_Perrine.jsonld",
+    "@type": "Athlete",
+    "name": "Sainte Marie Perrine",
+    "familyName": "Sainte",
+    "givenName": "Marie Perrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0568"
+    },
+    "birthDate": "2010-12-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

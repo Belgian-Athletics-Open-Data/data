@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nkoji-Mukendi_Tobiah.jsonld",
+    "@type": "Athlete",
+    "name": "Nkoji-Mukendi Tobiah",
+    "familyName": "Nkoji-Mukendi",
+    "givenName": "Tobiah",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3840"
+    },
+    "birthDate": "2008-12-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

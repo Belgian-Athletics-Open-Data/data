@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rysenaer_Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Rysenaer Baptiste",
+    "familyName": "Rysenaer",
+    "givenName": "Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0124"
+    },
+    "birthDate": "2005-03-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

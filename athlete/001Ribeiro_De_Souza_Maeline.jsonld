@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ribeiro_De_Souza_Maeline.jsonld",
+    "@type": "Athlete",
+    "name": "Ribeiro De Souza Maeline",
+    "familyName": "Ribeiro",
+    "givenName": "De Souza Maeline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0722"
+    },
+    "birthDate": "2011-05-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

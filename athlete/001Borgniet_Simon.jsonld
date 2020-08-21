@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Borgniet_Simon.jsonld",
+    "@type": "Athlete",
+    "name": "Borgniet Simon",
+    "familyName": "Borgniet",
+    "givenName": "Simon",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5951"
+    },
+    "birthDate": "2006-05-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

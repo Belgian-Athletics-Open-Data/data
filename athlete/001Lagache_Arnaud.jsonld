@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lagache_Arnaud.jsonld",
+    "@type": "Athlete",
+    "name": "Lagache Arnaud",
+    "familyName": "Lagache",
+    "givenName": "Arnaud",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1463"
+    },
+    "birthDate": "1993-10-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

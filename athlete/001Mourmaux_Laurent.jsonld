@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mourmaux_Laurent.jsonld",
+    "@type": "Athlete",
+    "name": "Mourmaux Laurent",
+    "familyName": "Mourmaux",
+    "givenName": "Laurent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4570"
+    },
+    "birthDate": "1973-07-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

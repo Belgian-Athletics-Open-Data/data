@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BERNARD_Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "BERNARD Sophie",
+    "familyName": "BERNARD",
+    "givenName": "Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2932"
+    },
+    "birthDate": "2003-06-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

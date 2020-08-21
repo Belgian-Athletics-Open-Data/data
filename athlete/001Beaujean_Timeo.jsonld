@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Beaujean_Timeo.jsonld",
+    "@type": "Athlete",
+    "name": "Beaujean Timeo",
+    "familyName": "Beaujean",
+    "givenName": "Timeo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2762"
+    },
+    "birthDate": "2009-11-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

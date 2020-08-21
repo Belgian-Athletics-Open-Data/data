@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Neufcoeur_Ayden.jsonld",
+    "@type": "Athlete",
+    "name": "Neufcoeur Ayden",
+    "familyName": "Neufcoeur",
+    "givenName": "Ayden",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1956"
+    },
+    "birthDate": "1998-05-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

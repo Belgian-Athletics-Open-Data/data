@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ngoa_Monti_Norah.jsonld",
+    "@type": "Athlete",
+    "name": "Ngoa Monti Norah",
+    "familyName": "Ngoa",
+    "givenName": "Monti Norah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3663"
+    },
+    "birthDate": "2009-12-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

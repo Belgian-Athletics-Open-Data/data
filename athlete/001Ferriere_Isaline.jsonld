@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ferriere_Isaline.jsonld",
+    "@type": "Athlete",
+    "name": "Ferriere Isaline",
+    "familyName": "Ferriere",
+    "givenName": "Isaline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3946"
+    },
+    "birthDate": "2008-10-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

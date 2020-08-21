@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cossement_Astrid.jsonld",
+    "@type": "Athlete",
+    "name": "Cossement Astrid",
+    "familyName": "Cossement",
+    "givenName": "Astrid",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6932"
+    },
+    "birthDate": "2007-07-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

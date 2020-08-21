@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Santocono_Girolamo.jsonld",
+    "@type": "Athlete",
+    "name": "Santocono Girolamo",
+    "familyName": "Santocono",
+    "givenName": "Girolamo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4613"
+    },
+    "birthDate": "1961-08-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Constant_Lily.jsonld",
+    "@type": "Athlete",
+    "name": "Constant Lily",
+    "familyName": "Constant",
+    "givenName": "Lily",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7436"
+    },
+    "birthDate": "2006-10-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001KARTOBI_HANO_Abel.jsonld",
+    "@type": "Athlete",
+    "name": "KARTOBI HANO Abel*",
+    "familyName": "KARTOBI",
+    "givenName": "HANO Abel*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2827"
+    },
+    "birthDate": "2009-12-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

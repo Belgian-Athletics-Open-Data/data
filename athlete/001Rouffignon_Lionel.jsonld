@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rouffignon_Lionel.jsonld",
+    "@type": "Athlete",
+    "name": "Rouffignon Lionel",
+    "familyName": "Rouffignon",
+    "givenName": "Lionel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1248"
+    },
+    "birthDate": "1994-10-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

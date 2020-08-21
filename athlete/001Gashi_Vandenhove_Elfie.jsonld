@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gashi_Vandenhove_Elfie.jsonld",
+    "@type": "Athlete",
+    "name": "Gashi Vandenhove Elfie",
+    "familyName": "Gashi",
+    "givenName": "Vandenhove Elfie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3084"
+    },
+    "birthDate": "2002-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

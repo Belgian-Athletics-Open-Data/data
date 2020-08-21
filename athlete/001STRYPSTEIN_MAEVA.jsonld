@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001STRYPSTEIN_MAEVA.jsonld",
+    "@type": "Athlete",
+    "name": "STRYPSTEIN MAEVA",
+    "familyName": "STRYPSTEIN",
+    "givenName": "MAEVA",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0394"
+    },
+    "birthDate": "2011-02-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

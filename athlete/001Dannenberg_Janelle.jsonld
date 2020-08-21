@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dannenberg_Janelle.jsonld",
+    "@type": "Athlete",
+    "name": "Dannenberg Janelle",
+    "familyName": "Dannenberg",
+    "givenName": "Janelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3805"
+    },
+    "birthDate": "2008-04-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

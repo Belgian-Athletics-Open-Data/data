@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandecruys_Charlotte.jsonld",
+    "@type": "Athlete",
+    "name": "Vandecruys Charlotte",
+    "familyName": "Vandecruys",
+    "givenName": "Charlotte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7878"
+    },
+    "birthDate": "2007-12-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

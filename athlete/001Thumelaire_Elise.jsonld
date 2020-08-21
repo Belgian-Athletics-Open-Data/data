@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Thumelaire_Elise.jsonld",
+    "@type": "Athlete",
+    "name": "Thumelaire Elise",
+    "familyName": "Thumelaire",
+    "givenName": "Elise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7027"
+    },
+    "birthDate": "2007-02-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

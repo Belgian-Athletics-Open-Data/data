@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maquet_Jeremy.jsonld",
+    "@type": "Athlete",
+    "name": "Maquet Jeremy",
+    "familyName": "Maquet",
+    "givenName": "Jeremy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6133"
+    },
+    "birthDate": "2006-02-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Piette_Marine.jsonld",
+    "@type": "Athlete",
+    "name": "Piette Marine",
+    "familyName": "Piette",
+    "givenName": "Marine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2880"
+    },
+    "birthDate": "2002-06-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

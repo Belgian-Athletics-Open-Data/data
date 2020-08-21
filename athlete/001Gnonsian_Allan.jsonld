@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gnonsian_Allan.jsonld",
+    "@type": "Athlete",
+    "name": "Gnonsian Allan",
+    "familyName": "Gnonsian",
+    "givenName": "Allan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1769"
+    },
+    "birthDate": "1995-05-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

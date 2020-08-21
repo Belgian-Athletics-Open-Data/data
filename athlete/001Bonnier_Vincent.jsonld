@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bonnier_Vincent.jsonld",
+    "@type": "Athlete",
+    "name": "Bonnier Vincent",
+    "familyName": "Bonnier",
+    "givenName": "Vincent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4607"
+    },
+    "birthDate": "1983-04-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

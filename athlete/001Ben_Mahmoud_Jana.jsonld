@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ben_Mahmoud_Jana.jsonld",
+    "@type": "Athlete",
+    "name": "Ben Mahmoud Jana",
+    "familyName": "Ben",
+    "givenName": "Mahmoud Jana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2995"
+    },
+    "birthDate": "2002-09-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

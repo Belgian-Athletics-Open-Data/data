@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MUNIER_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "MUNIER Alexandre*",
+    "familyName": "MUNIER",
+    "givenName": "Alexandre*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2081"
+    },
+    "birthDate": "1991-06-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

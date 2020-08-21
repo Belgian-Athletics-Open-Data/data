@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rouschop_Joseph.jsonld",
+    "@type": "Athlete",
+    "name": "Rouschop Joseph",
+    "familyName": "Rouschop",
+    "givenName": "Joseph",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4436"
+    },
+    "birthDate": "1959-02-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

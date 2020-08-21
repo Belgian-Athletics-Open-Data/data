@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Droinet_Dominique.jsonld",
+    "@type": "Athlete",
+    "name": "Droinet Dominique",
+    "familyName": "Droinet",
+    "givenName": "Dominique",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2937"
+    },
+    "birthDate": "1960-03-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

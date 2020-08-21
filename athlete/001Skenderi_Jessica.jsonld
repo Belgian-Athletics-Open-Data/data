@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Skenderi_Jessica.jsonld",
+    "@type": "Athlete",
+    "name": "Skenderi Jessica",
+    "familyName": "Skenderi",
+    "givenName": "Jessica",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2575"
+    },
+    "birthDate": "2002-03-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

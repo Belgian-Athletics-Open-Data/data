@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Noirfalise_Auriane.jsonld",
+    "@type": "Athlete",
+    "name": "Noirfalise Auriane",
+    "familyName": "Noirfalise",
+    "givenName": "Auriane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2944"
+    },
+    "birthDate": "2003-01-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

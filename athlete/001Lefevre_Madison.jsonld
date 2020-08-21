@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefevre_Madison.jsonld",
+    "@type": "Athlete",
+    "name": "Lefevre Madison",
+    "familyName": "Lefevre",
+    "givenName": "Madison",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7715"
+    },
+    "birthDate": "2006-05-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ruwet_Flavie.jsonld",
+    "@type": "Athlete",
+    "name": "Ruwet Flavie",
+    "familyName": "Ruwet",
+    "givenName": "Flavie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0883"
+    },
+    "birthDate": "2005-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

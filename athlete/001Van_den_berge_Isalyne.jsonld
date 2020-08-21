@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_den_berge_Isalyne.jsonld",
+    "@type": "Athlete",
+    "name": "Van den berge Isalyne",
+    "familyName": "Van",
+    "givenName": "den berge Isalyne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0680"
+    },
+    "birthDate": "2011-05-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

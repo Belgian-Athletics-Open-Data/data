@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Coninck_Frederique.jsonld",
+    "@type": "Athlete",
+    "name": "De Coninck Frederique",
+    "familyName": "De",
+    "givenName": "Coninck Frederique",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3905"
+    },
+    "birthDate": "1971-03-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hiernaux_Evelyne.jsonld",
+    "@type": "Athlete",
+    "name": "Hiernaux Evelyne",
+    "familyName": "Hiernaux",
+    "givenName": "Evelyne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3368"
+    },
+    "birthDate": "1963-02-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

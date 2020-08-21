@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dartois_Thibaud.jsonld",
+    "@type": "Athlete",
+    "name": "Dartois Thibaud",
+    "familyName": "Dartois",
+    "givenName": "Thibaud",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2398"
+    },
+    "birthDate": "2002-02-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

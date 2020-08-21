@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Casaran_Tracy.jsonld",
+    "@type": "Athlete",
+    "name": "Casaran Tracy*",
+    "familyName": "Casaran",
+    "givenName": "Tracy*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0111"
+    },
+    "birthDate": "2005-01-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

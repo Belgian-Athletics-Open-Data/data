@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Essabri_Hicham.jsonld",
+    "@type": "Athlete",
+    "name": "Essabri Hicham",
+    "familyName": "Essabri",
+    "givenName": "Hicham",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3638"
+    },
+    "birthDate": "2008-02-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

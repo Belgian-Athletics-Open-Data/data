@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monhonval_Nora.jsonld",
+    "@type": "Athlete",
+    "name": "Monhonval Nora",
+    "familyName": "Monhonval",
+    "givenName": "Nora",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6964"
+    },
+    "birthDate": "2007-02-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

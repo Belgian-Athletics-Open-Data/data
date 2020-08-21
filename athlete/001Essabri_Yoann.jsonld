@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Essabri_Yoann.jsonld",
+    "@type": "Athlete",
+    "name": "Essabri Yoann",
+    "familyName": "Essabri",
+    "givenName": "Yoann",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1754"
+    },
+    "birthDate": "1985-03-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

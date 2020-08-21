@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Liesens_Ambre.jsonld",
+    "@type": "Athlete",
+    "name": "Liesens Ambre",
+    "familyName": "Liesens",
+    "givenName": "Ambre",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0337"
+    },
+    "birthDate": "2010-11-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

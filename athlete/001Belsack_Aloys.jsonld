@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Belsack_Aloys.jsonld",
+    "@type": "Athlete",
+    "name": "Belsack Aloys",
+    "familyName": "Belsack",
+    "givenName": "Aloys",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3095"
+    },
+    "birthDate": "2008-08-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

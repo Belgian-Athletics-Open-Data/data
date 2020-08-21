@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001TAVARD_LOUIS.jsonld",
+    "@type": "Athlete",
+    "name": "TAVARD LOUIS",
+    "familyName": "TAVARD",
+    "givenName": "LOUIS",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0251"
+    },
+    "birthDate": "2000-12-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

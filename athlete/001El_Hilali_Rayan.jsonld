@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Hilali_Rayan.jsonld",
+    "@type": "Athlete",
+    "name": "El Hilali Rayan",
+    "familyName": "El",
+    "givenName": "Hilali Rayan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0380"
+    },
+    "birthDate": "2000-07-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

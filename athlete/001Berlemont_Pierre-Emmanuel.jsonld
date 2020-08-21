@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Berlemont_Pierre-Emmanuel.jsonld",
+    "@type": "Athlete",
+    "name": "Berlemont Pierre-Emmanuel",
+    "familyName": "Berlemont",
+    "givenName": "Pierre-Emmanuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4675"
+    },
+    "birthDate": "1975-08-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

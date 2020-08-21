@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SCHAKAL_Rafael.jsonld",
+    "@type": "Athlete",
+    "name": "SCHAKAL Rafael",
+    "familyName": "SCHAKAL",
+    "givenName": "Rafael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0412"
+    },
+    "birthDate": "2005-01-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

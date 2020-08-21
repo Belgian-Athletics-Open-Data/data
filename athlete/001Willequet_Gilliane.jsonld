@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Willequet_Gilliane.jsonld",
+    "@type": "Athlete",
+    "name": "Willequet Gilliane",
+    "familyName": "Willequet",
+    "givenName": "Gilliane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2793"
+    },
+    "birthDate": "1964-05-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

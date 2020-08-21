@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kova'Cs_Toperczer_Matei.jsonld",
+    "@type": "Athlete",
+    "name": "Kova'Cs Toperczer Matei*",
+    "familyName": "Kova'Cs",
+    "givenName": "Toperczer Matei*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3507"
+    },
+    "birthDate": "2008-08-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

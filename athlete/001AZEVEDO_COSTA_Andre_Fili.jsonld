@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001AZEVEDO_COSTA_Andre_Fili.jsonld",
+    "@type": "Athlete",
+    "name": "AZEVEDO COSTA Andre Fili*",
+    "familyName": "AZEVEDO",
+    "givenName": "COSTA Andre Fili*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3561"
+    },
+    "birthDate": "2009-03-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

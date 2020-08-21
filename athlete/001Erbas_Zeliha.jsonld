@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Erbas_Zeliha.jsonld",
+    "@type": "Athlete",
+    "name": "Erbas Zeliha",
+    "familyName": "Erbas",
+    "givenName": "Zeliha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7546"
+    },
+    "birthDate": "2007-07-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

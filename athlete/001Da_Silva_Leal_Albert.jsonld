@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Da_Silva_Leal_Albert.jsonld",
+    "@type": "Athlete",
+    "name": "Da Silva Leal Albert*",
+    "familyName": "Da",
+    "givenName": "Silva Leal Albert*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2393"
+    },
+    "birthDate": "2003-06-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

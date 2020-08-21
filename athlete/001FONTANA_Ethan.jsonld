@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001FONTANA_Ethan.jsonld",
+    "@type": "Athlete",
+    "name": "FONTANA Ethan",
+    "familyName": "FONTANA",
+    "givenName": "Ethan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0611"
+    },
+    "birthDate": "2004-08-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

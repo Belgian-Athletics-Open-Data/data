@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Huyghe_Gauthier.jsonld",
+    "@type": "Athlete",
+    "name": "Huyghe Gauthier",
+    "familyName": "Huyghe",
+    "givenName": "Gauthier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6807"
+    },
+    "birthDate": "2007-02-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

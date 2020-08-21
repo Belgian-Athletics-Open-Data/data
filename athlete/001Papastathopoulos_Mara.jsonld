@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Papastathopoulos_Mara.jsonld",
+    "@type": "Athlete",
+    "name": "Papastathopoulos Mara",
+    "familyName": "Papastathopoulos",
+    "givenName": "Mara",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0555"
+    },
+    "birthDate": "2005-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

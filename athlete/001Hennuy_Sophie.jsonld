@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hennuy_Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Hennuy Sophie",
+    "familyName": "Hennuy",
+    "givenName": "Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0950"
+    },
+    "birthDate": "2004-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

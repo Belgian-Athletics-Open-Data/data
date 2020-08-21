@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gottardi_Daniel.jsonld",
+    "@type": "Athlete",
+    "name": "Gottardi Daniel*",
+    "familyName": "Gottardi",
+    "givenName": "Daniel*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3977"
+    },
+    "birthDate": "1948-12-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

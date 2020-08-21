@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Zieleghem_Victor.jsonld",
+    "@type": "Athlete",
+    "name": "Van Zieleghem Victor",
+    "familyName": "Van",
+    "givenName": "Zieleghem Victor",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0250"
+    },
+    "birthDate": "2004-08-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Albayrak_Ayse.jsonld",
+    "@type": "Athlete",
+    "name": "Albayrak Ayse",
+    "familyName": "Albayrak",
+    "givenName": "Ayse",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0650"
+    },
+    "birthDate": "2005-01-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

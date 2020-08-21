@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kabalira_Sofia.jsonld",
+    "@type": "Athlete",
+    "name": "Kabalira Sofia",
+    "familyName": "Kabalira",
+    "givenName": "Sofia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3370"
+    },
+    "birthDate": "2009-08-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

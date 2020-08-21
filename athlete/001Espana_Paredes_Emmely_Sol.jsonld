@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Espana_Paredes_Emmely_Sol.jsonld",
+    "@type": "Athlete",
+    "name": "Espana Paredes Emmely Sol",
+    "familyName": "Espana",
+    "givenName": "Paredes Emmely Sol",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0453"
+    },
+    "birthDate": "2010-12-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

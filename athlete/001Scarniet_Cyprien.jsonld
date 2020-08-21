@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Scarniet_Cyprien.jsonld",
+    "@type": "Athlete",
+    "name": "Scarniet Cyprien",
+    "familyName": "Scarniet",
+    "givenName": "Cyprien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5963"
+    },
+    "birthDate": "2007-08-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Allaert_Gabrielle.jsonld",
+    "@type": "Athlete",
+    "name": "Allaert Gabrielle",
+    "familyName": "Allaert",
+    "givenName": "Gabrielle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2513"
+    },
+    "birthDate": "2003-03-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

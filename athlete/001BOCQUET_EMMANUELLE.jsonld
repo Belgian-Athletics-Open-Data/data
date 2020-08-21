@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOCQUET_EMMANUELLE.jsonld",
+    "@type": "Athlete",
+    "name": "BOCQUET EMMANUELLE",
+    "familyName": "BOCQUET",
+    "givenName": "EMMANUELLE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7445"
+    },
+    "birthDate": "2007-01-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

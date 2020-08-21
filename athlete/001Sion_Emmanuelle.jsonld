@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sion_Emmanuelle.jsonld",
+    "@type": "Athlete",
+    "name": "Sion Emmanuelle",
+    "familyName": "Sion",
+    "givenName": "Emmanuelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3312"
+    },
+    "birthDate": "1978-03-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

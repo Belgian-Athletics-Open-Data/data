@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Malherbe_Marie-France.jsonld",
+    "@type": "Athlete",
+    "name": "Malherbe Marie-France",
+    "familyName": "Malherbe",
+    "givenName": "Marie-France",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2878"
+    },
+    "birthDate": "1977-04-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

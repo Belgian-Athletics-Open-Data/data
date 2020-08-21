@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Linderhof_Iliya.jsonld",
+    "@type": "Athlete",
+    "name": "Linderhof Iliya",
+    "familyName": "Linderhof",
+    "givenName": "Iliya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4365"
+    },
+    "birthDate": "2008-05-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

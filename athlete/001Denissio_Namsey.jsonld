@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Denissio_Namsey.jsonld",
+    "@type": "Athlete",
+    "name": "Denissio Namsey",
+    "familyName": "Denissio",
+    "givenName": "Namsey",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3039"
+    },
+    "birthDate": "1980-11-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

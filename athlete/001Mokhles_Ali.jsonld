@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mokhles_Ali.jsonld",
+    "@type": "Athlete",
+    "name": "Mokhles Ali*",
+    "familyName": "Mokhles",
+    "givenName": "Ali*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4132"
+    },
+    "birthDate": "1975-07-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

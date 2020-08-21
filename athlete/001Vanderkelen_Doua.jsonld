@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderkelen_Doua.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderkelen Doua",
+    "familyName": "Vanderkelen",
+    "givenName": "Doua",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4061"
+    },
+    "birthDate": "2009-01-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

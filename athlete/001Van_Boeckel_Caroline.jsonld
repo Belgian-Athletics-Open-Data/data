@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Boeckel_Caroline.jsonld",
+    "@type": "Athlete",
+    "name": "Van Boeckel Caroline",
+    "familyName": "Van",
+    "givenName": "Boeckel Caroline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1143"
+    },
+    "birthDate": "1987-07-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

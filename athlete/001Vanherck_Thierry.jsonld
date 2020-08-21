@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanherck_Thierry.jsonld",
+    "@type": "Athlete",
+    "name": "Vanherck Thierry",
+    "familyName": "Vanherck",
+    "givenName": "Thierry",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5227"
+    },
+    "birthDate": "1968-03-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

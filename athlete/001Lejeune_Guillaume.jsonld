@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lejeune_Guillaume.jsonld",
+    "@type": "Athlete",
+    "name": "Lejeune Guillaume",
+    "familyName": "Lejeune",
+    "givenName": "Guillaume",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2471"
+    },
+    "birthDate": "2002-05-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

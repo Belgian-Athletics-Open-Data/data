@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001T'KINT_Juliette.jsonld",
+    "@type": "Athlete",
+    "name": "T'KINT Juliette",
+    "familyName": "T'KINT",
+    "givenName": "Juliette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0002"
+    },
+    "birthDate": "2000-02-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

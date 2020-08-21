@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Walasiak_Zoe.jsonld",
+    "@type": "Athlete",
+    "name": "Walasiak Zoe",
+    "familyName": "Walasiak",
+    "givenName": "Zoe",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7464"
+    },
+    "birthDate": "2006-06-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

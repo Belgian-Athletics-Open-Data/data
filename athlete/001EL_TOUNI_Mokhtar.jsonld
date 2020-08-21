@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001EL_TOUNI_Mokhtar.jsonld",
+    "@type": "Athlete",
+    "name": "EL TOUNI Mokhtar",
+    "familyName": "EL",
+    "givenName": "TOUNI Mokhtar",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0244"
+    },
+    "birthDate": "2001-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BEKALE_NZI_Malya_Aneb.jsonld",
+    "@type": "Athlete",
+    "name": "BEKALE NZI Malya Aneb",
+    "familyName": "BEKALE",
+    "givenName": "NZI Malya Aneb",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3861"
+    },
+    "birthDate": "2009-10-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

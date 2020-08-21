@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brasseur_Ysaline.jsonld",
+    "@type": "Athlete",
+    "name": "Brasseur Ysaline",
+    "familyName": "Brasseur",
+    "givenName": "Ysaline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7442"
+    },
+    "birthDate": "2007-08-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

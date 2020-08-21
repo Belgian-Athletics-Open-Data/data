@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nsonga_Nkandu_Joachim.jsonld",
+    "@type": "Athlete",
+    "name": "Nsonga Nkandu Joachim",
+    "familyName": "Nsonga",
+    "givenName": "Nkandu Joachim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3305"
+    },
+    "birthDate": "2008-01-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

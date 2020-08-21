@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Destrebecq_Lucien.jsonld",
+    "@type": "Athlete",
+    "name": "Destrebecq Lucien",
+    "familyName": "Destrebecq",
+    "givenName": "Lucien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2675"
+    },
+    "birthDate": "2003-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

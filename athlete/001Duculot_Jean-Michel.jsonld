@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duculot_Jean-Michel.jsonld",
+    "@type": "Athlete",
+    "name": "Duculot Jean-Michel",
+    "familyName": "Duculot",
+    "givenName": "Jean-Michel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5046"
+    },
+    "birthDate": "1973-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

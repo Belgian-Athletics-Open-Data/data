@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sita_Mupay_Deborah.jsonld",
+    "@type": "Athlete",
+    "name": "Sita Mupay Deborah",
+    "familyName": "Sita",
+    "givenName": "Mupay Deborah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4101"
+    },
+    "birthDate": "2009-05-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

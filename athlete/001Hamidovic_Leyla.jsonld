@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hamidovic_Leyla.jsonld",
+    "@type": "Athlete",
+    "name": "Hamidovic Leyla",
+    "familyName": "Hamidovic",
+    "givenName": "Leyla",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0151"
+    },
+    "birthDate": "2001-08-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

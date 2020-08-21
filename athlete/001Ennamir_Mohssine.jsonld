@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ennamir_Mohssine.jsonld",
+    "@type": "Athlete",
+    "name": "Ennamir Mohssine",
+    "familyName": "Ennamir",
+    "givenName": "Mohssine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1617"
+    },
+    "birthDate": "1985-03-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Smet_Ludovic.jsonld",
+    "@type": "Athlete",
+    "name": "Smet Ludovic",
+    "familyName": "Smet",
+    "givenName": "Ludovic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2520"
+    },
+    "birthDate": "2002-03-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Briquet_Nathalie.jsonld",
+    "@type": "Athlete",
+    "name": "Briquet Nathalie",
+    "familyName": "Briquet",
+    "givenName": "Nathalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2838"
+    },
+    "birthDate": "1968-07-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

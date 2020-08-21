@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mascarin_Ilaria.jsonld",
+    "@type": "Athlete",
+    "name": "Mascarin Ilaria",
+    "familyName": "Mascarin",
+    "givenName": "Ilaria",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3907"
+    },
+    "birthDate": "2008-03-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

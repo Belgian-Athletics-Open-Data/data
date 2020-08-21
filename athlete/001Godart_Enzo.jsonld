@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Godart_Enzo.jsonld",
+    "@type": "Athlete",
+    "name": "Godart Enzo",
+    "familyName": "Godart",
+    "givenName": "Enzo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3280"
+    },
+    "birthDate": "2008-01-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

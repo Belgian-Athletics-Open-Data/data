@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lauwers_Bernard.jsonld",
+    "@type": "Athlete",
+    "name": "Lauwers Bernard",
+    "familyName": "Lauwers",
+    "givenName": "Bernard",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4078"
+    },
+    "birthDate": "1960-03-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

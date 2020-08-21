@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Degeimbre_Aurelie.jsonld",
+    "@type": "Athlete",
+    "name": "Degeimbre Aurelie",
+    "familyName": "Degeimbre",
+    "givenName": "Aurelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1346"
+    },
+    "birthDate": "1987-12-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

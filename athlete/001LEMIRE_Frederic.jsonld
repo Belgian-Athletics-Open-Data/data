@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LEMIRE_Frederic.jsonld",
+    "@type": "Athlete",
+    "name": "LEMIRE Frederic",
+    "familyName": "LEMIRE",
+    "givenName": "Frederic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5225"
+    },
+    "birthDate": "1972-07-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

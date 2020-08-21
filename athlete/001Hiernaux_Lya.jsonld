@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hiernaux_Lya.jsonld",
+    "@type": "Athlete",
+    "name": "Hiernaux Lya",
+    "familyName": "Hiernaux",
+    "givenName": "Lya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4148"
+    },
+    "birthDate": "2009-03-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

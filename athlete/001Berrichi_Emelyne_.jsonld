@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Berrichi_Emelyne_.jsonld",
+    "@type": "Athlete",
+    "name": "Berrichi Emelyne *",
+    "familyName": "Berrichi",
+    "givenName": "Emelyne *",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0049"
+    },
+    "birthDate": "2005-06-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

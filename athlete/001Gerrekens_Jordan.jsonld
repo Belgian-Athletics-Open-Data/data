@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gerrekens_Jordan.jsonld",
+    "@type": "Athlete",
+    "name": "Gerrekens Jordan",
+    "familyName": "Gerrekens",
+    "givenName": "Jordan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1381"
+    },
+    "birthDate": "1993-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lamoot_Frederic.jsonld",
+    "@type": "Athlete",
+    "name": "Lamoot Frederic",
+    "familyName": "Lamoot",
+    "givenName": "Frederic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4433"
+    },
+    "birthDate": "1976-08-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EAH.jsonld"
+        }
+    ]
+}

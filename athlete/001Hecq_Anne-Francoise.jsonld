@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hecq_Anne-Francoise.jsonld",
+    "@type": "Athlete",
+    "name": "Hecq Anne-Francoise",
+    "familyName": "Hecq",
+    "givenName": "Anne-Francoise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2762"
+    },
+    "birthDate": "1967-05-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

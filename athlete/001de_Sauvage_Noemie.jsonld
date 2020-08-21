@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001de_Sauvage_Noemie.jsonld",
+    "@type": "Athlete",
+    "name": "de Sauvage Noemie",
+    "familyName": "de",
+    "givenName": "Sauvage Noemie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0253"
+    },
+    "birthDate": "2011-02-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Troisfontaine_Brice.jsonld",
+    "@type": "Athlete",
+    "name": "Troisfontaine Brice",
+    "familyName": "Troisfontaine",
+    "givenName": "Brice",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1851"
+    },
+    "birthDate": "1999-05-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

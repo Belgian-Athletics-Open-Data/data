@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nimmegeers_Elodie.jsonld",
+    "@type": "Athlete",
+    "name": "Nimmegeers Elodie",
+    "familyName": "Nimmegeers",
+    "givenName": "Elodie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3508"
+    },
+    "birthDate": "2009-12-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

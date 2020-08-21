@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanoni_Flavia.jsonld",
+    "@type": "Athlete",
+    "name": "Vanoni Flavia",
+    "familyName": "Vanoni",
+    "givenName": "Flavia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0349"
+    },
+    "birthDate": "2011-09-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

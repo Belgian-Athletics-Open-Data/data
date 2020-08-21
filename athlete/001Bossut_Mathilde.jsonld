@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bossut_Mathilde.jsonld",
+    "@type": "Athlete",
+    "name": "Bossut Mathilde",
+    "familyName": "Bossut",
+    "givenName": "Mathilde",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1489"
+    },
+    "birthDate": "1997-12-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

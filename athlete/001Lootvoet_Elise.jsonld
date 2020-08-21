@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lootvoet_Elise.jsonld",
+    "@type": "Athlete",
+    "name": "Lootvoet Elise",
+    "familyName": "Lootvoet",
+    "givenName": "Elise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7328"
+    },
+    "birthDate": "2006-09-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

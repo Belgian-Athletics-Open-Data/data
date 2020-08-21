@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001COSSU_Flaminia.jsonld",
+    "@type": "Athlete",
+    "name": "COSSU Flaminia*",
+    "familyName": "COSSU",
+    "givenName": "Flaminia*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7620"
+    },
+    "birthDate": "2007-09-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

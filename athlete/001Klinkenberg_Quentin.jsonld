@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Klinkenberg_Quentin.jsonld",
+    "@type": "Athlete",
+    "name": "Klinkenberg Quentin",
+    "familyName": "Klinkenberg",
+    "givenName": "Quentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1499"
+    },
+    "birthDate": "1999-01-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

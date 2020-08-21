@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Heyvaert_Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Heyvaert Baptiste",
+    "familyName": "Heyvaert",
+    "givenName": "Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0350"
+    },
+    "birthDate": "2005-04-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

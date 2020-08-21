@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Farrato_Sawssane.jsonld",
+    "@type": "Athlete",
+    "name": "Farrato Sawssane",
+    "familyName": "Farrato",
+    "givenName": "Sawssane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7755"
+    },
+    "birthDate": "2007-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

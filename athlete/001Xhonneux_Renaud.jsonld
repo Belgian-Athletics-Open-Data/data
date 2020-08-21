@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Xhonneux_Renaud.jsonld",
+    "@type": "Athlete",
+    "name": "Xhonneux Renaud",
+    "familyName": "Xhonneux",
+    "givenName": "Renaud",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5001"
+    },
+    "birthDate": "1976-06-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gerebtzoff_Alice.jsonld",
+    "@type": "Athlete",
+    "name": "Gerebtzoff Alice",
+    "familyName": "Gerebtzoff",
+    "givenName": "Alice",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2598"
+    },
+    "birthDate": "2002-05-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

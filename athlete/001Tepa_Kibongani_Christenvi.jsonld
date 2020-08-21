@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tepa_Kibongani_Christenvi.jsonld",
+    "@type": "Athlete",
+    "name": "Tepa Kibongani Christenvi",
+    "familyName": "Tepa",
+    "givenName": "Kibongani Christenvi",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2171"
+    },
+    "birthDate": "2002-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

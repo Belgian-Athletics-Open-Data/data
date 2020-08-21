@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Den_Eynde__Maelle_Cla.jsonld",
+    "@type": "Athlete",
+    "name": "Van Den Eynde  Maelle Cla",
+    "familyName": "Van",
+    "givenName": "Den Eynde  Maelle Cla",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0888"
+    },
+    "birthDate": "2010-05-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

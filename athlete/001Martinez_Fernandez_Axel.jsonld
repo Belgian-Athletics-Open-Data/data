@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Martinez_Fernandez_Axel.jsonld",
+    "@type": "Athlete",
+    "name": "Martinez Fernandez Axel",
+    "familyName": "Martinez",
+    "givenName": "Fernandez Axel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2115"
+    },
+    "birthDate": "1999-10-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Flahaut_Anne-Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Flahaut Anne-Sophie*",
+    "familyName": "Flahaut",
+    "givenName": "Anne-Sophie*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3405"
+    },
+    "birthDate": "1984-03-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

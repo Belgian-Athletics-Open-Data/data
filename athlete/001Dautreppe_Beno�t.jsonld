@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dautreppe_Beno�t.jsonld",
+    "@type": "Athlete",
+    "name": "Dautreppe Beno�t",
+    "familyName": "Dautreppe",
+    "givenName": "Beno�t",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5140"
+    },
+    "birthDate": "1974-01-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

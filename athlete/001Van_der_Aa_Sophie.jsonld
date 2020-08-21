@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_der_Aa_Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Van der Aa Sophie",
+    "familyName": "Van",
+    "givenName": "der Aa Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2915"
+    },
+    "birthDate": "1978-07-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ackaert_Suzie.jsonld",
+    "@type": "Athlete",
+    "name": "Ackaert Suzie",
+    "familyName": "Ackaert",
+    "givenName": "Suzie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0294"
+    },
+    "birthDate": "2004-07-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

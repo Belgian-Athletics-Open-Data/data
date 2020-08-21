@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schoonbroodt_Franck.jsonld",
+    "@type": "Athlete",
+    "name": "Schoonbroodt Franck",
+    "familyName": "Schoonbroodt",
+    "givenName": "Franck",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1595"
+    },
+    "birthDate": "1997-09-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

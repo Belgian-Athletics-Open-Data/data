@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Aucello_Arcangela.jsonld",
+    "@type": "Athlete",
+    "name": "Aucello Arcangela",
+    "familyName": "Aucello",
+    "givenName": "Arcangela",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2725"
+    },
+    "birthDate": "1979-10-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

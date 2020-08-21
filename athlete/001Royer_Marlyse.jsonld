@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Royer_Marlyse.jsonld",
+    "@type": "Athlete",
+    "name": "Royer Marlyse",
+    "familyName": "Royer",
+    "givenName": "Marlyse",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1021"
+    },
+    "birthDate": "1995-01-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

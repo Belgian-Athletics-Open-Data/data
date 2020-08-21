@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cuvelier_Nell.jsonld",
+    "@type": "Athlete",
+    "name": "Cuvelier Nell",
+    "familyName": "Cuvelier",
+    "givenName": "Nell",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2172"
+    },
+    "birthDate": "2002-03-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

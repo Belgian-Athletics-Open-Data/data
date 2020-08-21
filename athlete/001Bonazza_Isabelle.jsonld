@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bonazza_Isabelle.jsonld",
+    "@type": "Athlete",
+    "name": "Bonazza Isabelle",
+    "familyName": "Bonazza",
+    "givenName": "Isabelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2967"
+    },
+    "birthDate": "1968-09-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

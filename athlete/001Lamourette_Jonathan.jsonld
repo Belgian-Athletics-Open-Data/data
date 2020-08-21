@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lamourette_Jonathan.jsonld",
+    "@type": "Athlete",
+    "name": "Lamourette Jonathan",
+    "familyName": "Lamourette",
+    "givenName": "Jonathan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0348"
+    },
+    "birthDate": "2000-11-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

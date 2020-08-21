@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001M'Rabet_Asmae.jsonld",
+    "@type": "Athlete",
+    "name": "M'Rabet Asmae",
+    "familyName": "M'Rabet",
+    "givenName": "Asmae",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4267"
+    },
+    "birthDate": "2008-03-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

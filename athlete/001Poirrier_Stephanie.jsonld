@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Poirrier_Stephanie.jsonld",
+    "@type": "Athlete",
+    "name": "Poirrier Stephanie",
+    "familyName": "Poirrier",
+    "givenName": "Stephanie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3047"
+    },
+    "birthDate": "1980-04-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

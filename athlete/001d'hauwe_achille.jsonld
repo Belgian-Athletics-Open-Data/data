@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001d'hauwe_achille.jsonld",
+    "@type": "Athlete",
+    "name": "d'hauwe achille",
+    "familyName": "d'hauwe",
+    "givenName": "achille",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3608"
+    },
+    "birthDate": "2009-12-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

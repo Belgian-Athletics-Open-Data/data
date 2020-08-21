@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Oubouskour_Aicha.jsonld",
+    "@type": "Athlete",
+    "name": "Oubouskour Aicha",
+    "familyName": "Oubouskour",
+    "givenName": "Aicha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1203"
+    },
+    "birthDate": "1995-10-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

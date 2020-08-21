@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mandangi_Dimitri.jsonld",
+    "@type": "Athlete",
+    "name": "Mandangi Dimitri",
+    "familyName": "Mandangi",
+    "givenName": "Dimitri",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6474"
+    },
+    "birthDate": "2006-09-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

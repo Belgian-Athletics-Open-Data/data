@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PIJCKE_JOACHIM.jsonld",
+    "@type": "Athlete",
+    "name": "PIJCKE JOACHIM",
+    "familyName": "PIJCKE",
+    "givenName": "JOACHIM",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0658"
+    },
+    "birthDate": "2004-07-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

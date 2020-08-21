@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lauriers_Ludovic.jsonld",
+    "@type": "Athlete",
+    "name": "Lauriers Ludovic",
+    "familyName": "Lauriers",
+    "givenName": "Ludovic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6047"
+    },
+    "birthDate": "2007-05-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Roza_Sanchez_Emilie.jsonld",
+    "@type": "Athlete",
+    "name": "Roza Sanchez Emilie",
+    "familyName": "Roza",
+    "givenName": "Sanchez Emilie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7213"
+    },
+    "birthDate": "2007-02-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

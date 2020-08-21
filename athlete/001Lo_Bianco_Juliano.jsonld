@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lo_Bianco_Juliano.jsonld",
+    "@type": "Athlete",
+    "name": "Lo Bianco Juliano",
+    "familyName": "Lo",
+    "givenName": "Bianco Juliano",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3637"
+    },
+    "birthDate": "2009-03-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

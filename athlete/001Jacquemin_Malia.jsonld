@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jacquemin_Malia.jsonld",
+    "@type": "Athlete",
+    "name": "Jacquemin Malia",
+    "familyName": "Jacquemin",
+    "givenName": "Malia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3943"
+    },
+    "birthDate": "2008-10-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

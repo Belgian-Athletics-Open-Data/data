@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BERNATEAU_Justice.jsonld",
+    "@type": "Athlete",
+    "name": "BERNATEAU Justice",
+    "familyName": "BERNATEAU",
+    "givenName": "Justice",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0626"
+    },
+    "birthDate": "2004-07-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

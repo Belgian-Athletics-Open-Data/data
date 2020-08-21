@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wood_Johanna_Lyhne.jsonld",
+    "@type": "Athlete",
+    "name": "Wood Johanna Lyhne",
+    "familyName": "Wood",
+    "givenName": "Johanna Lyhne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7081"
+    },
+    "birthDate": "2007-08-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

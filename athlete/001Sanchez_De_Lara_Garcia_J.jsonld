@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sanchez_De_Lara_Garcia_J.jsonld",
+    "@type": "Athlete",
+    "name": "Sanchez De Lara Garcia J*",
+    "familyName": "Sanchez",
+    "givenName": "De Lara Garcia J*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1323"
+    },
+    "birthDate": "1990-12-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

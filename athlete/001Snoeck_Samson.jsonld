@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Snoeck_Samson.jsonld",
+    "@type": "Athlete",
+    "name": "Snoeck Samson",
+    "familyName": "Snoeck",
+    "givenName": "Samson",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5144"
+    },
+    "birthDate": "1982-01-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

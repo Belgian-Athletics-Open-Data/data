@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gossiaux_Flavie.jsonld",
+    "@type": "Athlete",
+    "name": "Gossiaux Flavie",
+    "familyName": "Gossiaux",
+    "givenName": "Flavie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2531"
+    },
+    "birthDate": "2003-06-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

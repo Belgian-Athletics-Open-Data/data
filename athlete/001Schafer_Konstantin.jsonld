@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schafer_Konstantin.jsonld",
+    "@type": "Athlete",
+    "name": "Schafer Konstantin*",
+    "familyName": "Schafer",
+    "givenName": "Konstantin*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0318"
+    },
+    "birthDate": "2004-05-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

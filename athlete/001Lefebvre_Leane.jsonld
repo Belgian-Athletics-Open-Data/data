@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefebvre_Leane.jsonld",
+    "@type": "Athlete",
+    "name": "Lefebvre Leane",
+    "familyName": "Lefebvre",
+    "givenName": "Leane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3961"
+    },
+    "birthDate": "2008-11-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

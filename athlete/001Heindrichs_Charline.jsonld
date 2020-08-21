@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Heindrichs_Charline.jsonld",
+    "@type": "Athlete",
+    "name": "Heindrichs Charline",
+    "familyName": "Heindrichs",
+    "givenName": "Charline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1087"
+    },
+    "birthDate": "1994-04-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

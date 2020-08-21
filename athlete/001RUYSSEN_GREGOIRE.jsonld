@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001RUYSSEN_GREGOIRE.jsonld",
+    "@type": "Athlete",
+    "name": "RUYSSEN GREGOIRE",
+    "familyName": "RUYSSEN",
+    "givenName": "GREGOIRE",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1416"
+    },
+    "birthDate": "1997-10-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

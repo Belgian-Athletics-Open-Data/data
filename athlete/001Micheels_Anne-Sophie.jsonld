@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Micheels_Anne-Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Micheels Anne-Sophie",
+    "familyName": "Micheels",
+    "givenName": "Anne-Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1438"
+    },
+    "birthDate": "1999-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

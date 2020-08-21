@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001VAN_IMMERSEEL_SANDRINE.jsonld",
+    "@type": "Athlete",
+    "name": "VAN IMMERSEEL SANDRINE",
+    "familyName": "VAN",
+    "givenName": "IMMERSEEL SANDRINE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3128"
+    },
+    "birthDate": "1976-12-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

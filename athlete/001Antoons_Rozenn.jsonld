@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Antoons_Rozenn.jsonld",
+    "@type": "Athlete",
+    "name": "Antoons Rozenn",
+    "familyName": "Antoons",
+    "givenName": "Rozenn",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3472"
+    },
+    "birthDate": "2009-01-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

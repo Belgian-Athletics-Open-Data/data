@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delcampe_Sandrine.jsonld",
+    "@type": "Athlete",
+    "name": "Delcampe Sandrine",
+    "familyName": "Delcampe",
+    "givenName": "Sandrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3398"
+    },
+    "birthDate": "1978-12-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

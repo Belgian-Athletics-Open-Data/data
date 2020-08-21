@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MINGIEDI_M'PEMBELE_VOVA_Y.jsonld",
+    "@type": "Athlete",
+    "name": "MINGIEDI M'PEMBELE VOVA Y",
+    "familyName": "MINGIEDI",
+    "givenName": "M'PEMBELE VOVA Y",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6758"
+    },
+    "birthDate": "2006-10-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

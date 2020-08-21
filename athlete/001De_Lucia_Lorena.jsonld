@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Lucia_Lorena.jsonld",
+    "@type": "Athlete",
+    "name": "De Lucia Lorena",
+    "familyName": "De",
+    "givenName": "Lucia Lorena",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0309"
+    },
+    "birthDate": "2010-01-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

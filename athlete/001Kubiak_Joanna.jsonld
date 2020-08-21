@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kubiak_Joanna.jsonld",
+    "@type": "Athlete",
+    "name": "Kubiak Joanna",
+    "familyName": "Kubiak",
+    "givenName": "Joanna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7044"
+    },
+    "birthDate": "2006-07-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

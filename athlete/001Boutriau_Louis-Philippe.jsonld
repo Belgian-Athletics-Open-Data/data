@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Boutriau_Louis-Philippe.jsonld",
+    "@type": "Athlete",
+    "name": "Boutriau Louis-Philippe",
+    "familyName": "Boutriau",
+    "givenName": "Louis-Philippe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4621"
+    },
+    "birthDate": "1956-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

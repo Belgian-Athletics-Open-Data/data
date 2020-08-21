@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gangi_Chiodo_Salvatore.jsonld",
+    "@type": "Athlete",
+    "name": "Gangi Chiodo Salvatore*",
+    "familyName": "Gangi",
+    "givenName": "Chiodo Salvatore*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4590"
+    },
+    "birthDate": "1962-08-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

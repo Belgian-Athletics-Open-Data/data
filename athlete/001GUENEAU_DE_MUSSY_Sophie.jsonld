@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001GUENEAU_DE_MUSSY_Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "GUENEAU DE MUSSY Sophie",
+    "familyName": "GUENEAU",
+    "givenName": "DE MUSSY Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7011"
+    },
+    "birthDate": "2007-06-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mbuyamba_Meta-Celestine.jsonld",
+    "@type": "Athlete",
+    "name": "Mbuyamba Meta-Celestine",
+    "familyName": "Mbuyamba",
+    "givenName": "Meta-Celestine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3348"
+    },
+    "birthDate": "1964-01-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

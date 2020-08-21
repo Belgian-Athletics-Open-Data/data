@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Urbanczyk_Mathias.jsonld",
+    "@type": "Athlete",
+    "name": "Urbanczyk Mathias",
+    "familyName": "Urbanczyk",
+    "givenName": "Mathias",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6007"
+    },
+    "birthDate": "2007-11-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

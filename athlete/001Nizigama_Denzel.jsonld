@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nizigama_Denzel.jsonld",
+    "@type": "Athlete",
+    "name": "Nizigama Denzel",
+    "familyName": "Nizigama",
+    "givenName": "Denzel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6364"
+    },
+    "birthDate": "2007-11-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

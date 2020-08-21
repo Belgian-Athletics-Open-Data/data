@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Benouda_Nawfel.jsonld",
+    "@type": "Athlete",
+    "name": "Benouda Nawfel",
+    "familyName": "Benouda",
+    "givenName": "Nawfel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2128"
+    },
+    "birthDate": "1999-03-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

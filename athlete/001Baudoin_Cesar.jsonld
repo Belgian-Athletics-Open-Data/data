@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Baudoin_Cesar.jsonld",
+    "@type": "Athlete",
+    "name": "Baudoin Cesar",
+    "familyName": "Baudoin",
+    "givenName": "Cesar",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0034"
+    },
+    "birthDate": "2004-09-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

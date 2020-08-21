@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DE_PRINS_Adrien.jsonld",
+    "@type": "Athlete",
+    "name": "DE PRINS Adrien",
+    "familyName": "DE",
+    "givenName": "PRINS Adrien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2361"
+    },
+    "birthDate": "2002-05-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

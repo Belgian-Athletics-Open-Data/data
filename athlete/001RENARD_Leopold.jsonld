@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001RENARD_Leopold.jsonld",
+    "@type": "Athlete",
+    "name": "RENARD Leopold",
+    "familyName": "RENARD",
+    "givenName": "Leopold",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6721"
+    },
+    "birthDate": "2007-02-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

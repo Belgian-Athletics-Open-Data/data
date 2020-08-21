@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lallemand_Maxence.jsonld",
+    "@type": "Athlete",
+    "name": "Lallemand Maxence",
+    "familyName": "Lallemand",
+    "givenName": "Maxence",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2708"
+    },
+    "birthDate": "2009-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACTE.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hernout__Kevin.jsonld",
+    "@type": "Athlete",
+    "name": "Hernout  Kevin*",
+    "familyName": "Hernout",
+    "givenName": " Kevin*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0286"
+    },
+    "birthDate": "2001-06-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LHF.jsonld"
+        }
+    ]
+}

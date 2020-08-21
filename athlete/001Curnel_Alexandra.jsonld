@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Curnel_Alexandra.jsonld",
+    "@type": "Athlete",
+    "name": "Curnel Alexandra",
+    "familyName": "Curnel",
+    "givenName": "Alexandra",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0114"
+    },
+    "birthDate": "2005-07-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

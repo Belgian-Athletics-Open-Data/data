@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Grosjean_Anthony.jsonld",
+    "@type": "Athlete",
+    "name": "Grosjean Anthony",
+    "familyName": "Grosjean",
+    "givenName": "Anthony",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1849"
+    },
+    "birthDate": "1994-12-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

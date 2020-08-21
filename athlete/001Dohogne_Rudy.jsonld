@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dohogne_Rudy.jsonld",
+    "@type": "Athlete",
+    "name": "Dohogne Rudy",
+    "familyName": "Dohogne",
+    "givenName": "Rudy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6873"
+    },
+    "birthDate": "2007-04-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

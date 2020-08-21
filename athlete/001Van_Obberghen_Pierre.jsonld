@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Obberghen_Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Van Obberghen Pierre",
+    "familyName": "Van",
+    "givenName": "Obberghen Pierre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4740"
+    },
+    "birthDate": "1956-07-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

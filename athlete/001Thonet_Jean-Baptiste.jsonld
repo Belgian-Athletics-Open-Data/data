@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Thonet_Jean-Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Thonet Jean-Baptiste",
+    "familyName": "Thonet",
+    "givenName": "Jean-Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1553"
+    },
+    "birthDate": "1990-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

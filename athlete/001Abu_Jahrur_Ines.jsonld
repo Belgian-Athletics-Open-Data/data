@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Abu_Jahrur_Ines.jsonld",
+    "@type": "Athlete",
+    "name": "Abu Jahrur Ines",
+    "familyName": "Abu",
+    "givenName": "Jahrur Ines",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3429"
+    },
+    "birthDate": "2009-11-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

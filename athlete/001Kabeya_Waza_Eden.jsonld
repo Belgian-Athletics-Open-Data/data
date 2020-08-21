@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kabeya_Waza_Eden.jsonld",
+    "@type": "Athlete",
+    "name": "Kabeya Waza Eden",
+    "familyName": "Kabeya",
+    "givenName": "Waza Eden",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4260"
+    },
+    "birthDate": "2009-10-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

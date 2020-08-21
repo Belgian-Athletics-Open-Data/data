@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanoirbeck_Nathalie.jsonld",
+    "@type": "Athlete",
+    "name": "Vanoirbeck Nathalie",
+    "familyName": "Vanoirbeck",
+    "givenName": "Nathalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2913"
+    },
+    "birthDate": "1964-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Outmanns_Lilou.jsonld",
+    "@type": "Athlete",
+    "name": "Outmanns Lilou",
+    "familyName": "Outmanns",
+    "givenName": "Lilou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4181"
+    },
+    "birthDate": "2009-09-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

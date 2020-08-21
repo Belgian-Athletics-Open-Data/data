@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Meunier_Sylvain.jsonld",
+    "@type": "Athlete",
+    "name": "Meunier Sylvain",
+    "familyName": "Meunier",
+    "givenName": "Sylvain",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4074"
+    },
+    "birthDate": "1981-12-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

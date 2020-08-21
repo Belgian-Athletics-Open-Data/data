@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Chiara_Giulia.jsonld",
+    "@type": "Athlete",
+    "name": "De Chiara Giulia*",
+    "familyName": "De",
+    "givenName": "Chiara Giulia*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0424"
+    },
+    "birthDate": "2005-06-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

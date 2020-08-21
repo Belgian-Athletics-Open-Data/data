@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MERCIER_LOUIS.jsonld",
+    "@type": "Athlete",
+    "name": "MERCIER LOUIS",
+    "familyName": "MERCIER",
+    "givenName": "LOUIS",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2379"
+    },
+    "birthDate": "2003-10-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Guerron_Sebastian.jsonld",
+    "@type": "Athlete",
+    "name": "Guerron Sebastian",
+    "familyName": "Guerron",
+    "givenName": "Sebastian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3129"
+    },
+    "birthDate": "2009-01-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

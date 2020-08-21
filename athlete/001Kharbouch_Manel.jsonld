@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kharbouch_Manel.jsonld",
+    "@type": "Athlete",
+    "name": "Kharbouch Manel",
+    "familyName": "Kharbouch",
+    "givenName": "Manel",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7798"
+    },
+    "birthDate": "2007-03-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DACM.jsonld"
+        }
+    ]
+}

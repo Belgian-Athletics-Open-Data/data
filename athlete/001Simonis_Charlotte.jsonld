@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Simonis_Charlotte.jsonld",
+    "@type": "Athlete",
+    "name": "Simonis Charlotte",
+    "familyName": "Simonis",
+    "givenName": "Charlotte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3636"
+    },
+    "birthDate": "2008-04-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

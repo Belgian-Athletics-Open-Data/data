@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cauderlier_Meline.jsonld",
+    "@type": "Athlete",
+    "name": "Cauderlier Meline",
+    "familyName": "Cauderlier",
+    "givenName": "Meline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3126"
+    },
+    "birthDate": "2002-02-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

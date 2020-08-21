@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nassam_Alassani_Kabirato.jsonld",
+    "@type": "Athlete",
+    "name": "Nassam Alassani Kabirato*",
+    "familyName": "Nassam",
+    "givenName": "Alassani Kabirato*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1325"
+    },
+    "birthDate": "1987-01-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

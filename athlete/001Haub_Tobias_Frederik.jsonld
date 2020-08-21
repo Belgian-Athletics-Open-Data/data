@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Haub_Tobias_Frederik.jsonld",
+    "@type": "Athlete",
+    "name": "Haub Tobias Frederik*",
+    "familyName": "Haub",
+    "givenName": "Tobias Frederik*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2766"
+    },
+    "birthDate": "2009-01-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

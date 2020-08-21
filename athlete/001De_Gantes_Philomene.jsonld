@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Gantes_Philomene.jsonld",
+    "@type": "Athlete",
+    "name": "De Gantes Philomene",
+    "familyName": "De",
+    "givenName": "Gantes Philomene",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7112"
+    },
+    "birthDate": "2007-05-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

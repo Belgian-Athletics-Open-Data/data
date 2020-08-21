@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mazy_Gauthier.jsonld",
+    "@type": "Athlete",
+    "name": "Mazy Gauthier",
+    "familyName": "Mazy",
+    "givenName": "Gauthier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3883"
+    },
+    "birthDate": "1977-02-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

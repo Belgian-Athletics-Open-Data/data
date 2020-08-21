@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Khemchane_Saadi.jsonld",
+    "@type": "Athlete",
+    "name": "Khemchane Saadi*",
+    "familyName": "Khemchane",
+    "givenName": "Saadi*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1887"
+    },
+    "birthDate": "1992-10-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

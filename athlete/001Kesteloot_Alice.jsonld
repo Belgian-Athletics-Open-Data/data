@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kesteloot_Alice.jsonld",
+    "@type": "Athlete",
+    "name": "Kesteloot Alice",
+    "familyName": "Kesteloot",
+    "givenName": "Alice",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3684"
+    },
+    "birthDate": "2008-04-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

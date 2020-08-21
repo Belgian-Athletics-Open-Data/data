@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ahllal_Marwane.jsonld",
+    "@type": "Athlete",
+    "name": "Ahllal Marwane",
+    "familyName": "Ahllal",
+    "givenName": "Marwane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2559"
+    },
+    "birthDate": "2003-08-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

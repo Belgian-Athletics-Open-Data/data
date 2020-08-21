@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Markey_Guillaume.jsonld",
+    "@type": "Athlete",
+    "name": "Markey Guillaume",
+    "familyName": "Markey",
+    "givenName": "Guillaume",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6356"
+    },
+    "birthDate": "2006-04-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

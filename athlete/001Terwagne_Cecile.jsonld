@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Terwagne_Cecile.jsonld",
+    "@type": "Athlete",
+    "name": "Terwagne Cecile",
+    "familyName": "Terwagne",
+    "givenName": "Cecile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2826"
+    },
+    "birthDate": "1969-06-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

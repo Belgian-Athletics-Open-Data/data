@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Amerijckx_Cedric.jsonld",
+    "@type": "Athlete",
+    "name": "Amerijckx Cedric",
+    "familyName": "Amerijckx",
+    "givenName": "Cedric",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0051"
+    },
+    "birthDate": "2001-03-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

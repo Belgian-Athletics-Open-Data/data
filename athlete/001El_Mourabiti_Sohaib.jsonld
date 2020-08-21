@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Mourabiti_Sohaib.jsonld",
+    "@type": "Athlete",
+    "name": "El Mourabiti Sohaib",
+    "familyName": "El",
+    "givenName": "Mourabiti Sohaib",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2583"
+    },
+    "birthDate": "2002-02-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

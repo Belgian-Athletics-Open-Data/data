@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ponlot_Emerance.jsonld",
+    "@type": "Athlete",
+    "name": "Ponlot Emerance",
+    "familyName": "Ponlot",
+    "givenName": "Emerance",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1085"
+    },
+    "birthDate": "1999-12-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Urbanczyk_Tanais.jsonld",
+    "@type": "Athlete",
+    "name": "Urbanczyk Tanais",
+    "familyName": "Urbanczyk",
+    "givenName": "Tanais",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2730"
+    },
+    "birthDate": "2002-09-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

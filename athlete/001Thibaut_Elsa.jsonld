@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Thibaut_Elsa.jsonld",
+    "@type": "Athlete",
+    "name": "Thibaut Elsa",
+    "familyName": "Thibaut",
+    "givenName": "Elsa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4004"
+    },
+    "birthDate": "2008-12-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

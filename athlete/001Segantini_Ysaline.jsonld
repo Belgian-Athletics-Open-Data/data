@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Segantini_Ysaline.jsonld",
+    "@type": "Athlete",
+    "name": "Segantini Ysaline",
+    "familyName": "Segantini",
+    "givenName": "Ysaline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0080"
+    },
+    "birthDate": "2005-02-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

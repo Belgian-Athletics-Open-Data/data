@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Uwamungu-Ngira_Olivier.jsonld",
+    "@type": "Athlete",
+    "name": "Uwamungu-Ngira Olivier",
+    "familyName": "Uwamungu-Ngira",
+    "givenName": "Olivier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3667"
+    },
+    "birthDate": "1996-10-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

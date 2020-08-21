@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Stiernet_Victoria.jsonld",
+    "@type": "Athlete",
+    "name": "Stiernet Victoria",
+    "familyName": "Stiernet",
+    "givenName": "Victoria",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4099"
+    },
+    "birthDate": "2009-01-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

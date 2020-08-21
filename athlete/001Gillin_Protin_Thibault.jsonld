@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gillin_Protin_Thibault.jsonld",
+    "@type": "Athlete",
+    "name": "Gillin Protin Thibault",
+    "familyName": "Gillin",
+    "givenName": "Protin Thibault",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2886"
+    },
+    "birthDate": "2008-09-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

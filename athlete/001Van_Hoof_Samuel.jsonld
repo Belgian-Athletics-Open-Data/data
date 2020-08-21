@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Hoof_Samuel.jsonld",
+    "@type": "Athlete",
+    "name": "Van Hoof Samuel",
+    "familyName": "Van",
+    "givenName": "Hoof Samuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6467"
+    },
+    "birthDate": "2007-06-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

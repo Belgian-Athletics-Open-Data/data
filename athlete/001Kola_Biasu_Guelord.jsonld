@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kola_Biasu_Guelord.jsonld",
+    "@type": "Athlete",
+    "name": "Kola Biasu Guelord",
+    "familyName": "Kola",
+    "givenName": "Biasu Guelord",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1608"
+    },
+    "birthDate": "1993-04-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

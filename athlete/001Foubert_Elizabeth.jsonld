@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Foubert_Elizabeth.jsonld",
+    "@type": "Athlete",
+    "name": "Foubert Elizabeth",
+    "familyName": "Foubert",
+    "givenName": "Elizabeth",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6903"
+    },
+    "birthDate": "2006-11-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

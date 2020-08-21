@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Opalfvens_Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Opalfvens Sophie",
+    "familyName": "Opalfvens",
+    "givenName": "Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3380"
+    },
+    "birthDate": "1972-06-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

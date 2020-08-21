@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hautecoeur_Wivine.jsonld",
+    "@type": "Athlete",
+    "name": "Hautecoeur Wivine",
+    "familyName": "Hautecoeur",
+    "givenName": "Wivine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2896"
+    },
+    "birthDate": "1967-03-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_De_Voorde_Lea.jsonld",
+    "@type": "Athlete",
+    "name": "Van De Voorde Lea",
+    "familyName": "Van",
+    "givenName": "De Voorde Lea",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0466"
+    },
+    "birthDate": "2005-12-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

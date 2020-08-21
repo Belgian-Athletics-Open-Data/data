@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Depelchin_Nele.jsonld",
+    "@type": "Athlete",
+    "name": "Depelchin Nele",
+    "familyName": "Depelchin",
+    "givenName": "Nele",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4184"
+    },
+    "birthDate": "2008-12-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

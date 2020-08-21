@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Trienpont_Aude.jsonld",
+    "@type": "Athlete",
+    "name": "Van Trienpont Aude",
+    "familyName": "Van",
+    "givenName": "Trienpont Aude",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0489"
+    },
+    "birthDate": "2004-01-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gamachu_Tulu_Ferahiwat.jsonld",
+    "@type": "Athlete",
+    "name": "Gamachu Tulu Ferahiwat",
+    "familyName": "Gamachu",
+    "givenName": "Tulu Ferahiwat",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3468"
+    },
+    "birthDate": "1981-04-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

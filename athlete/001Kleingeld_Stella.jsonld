@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kleingeld_Stella.jsonld",
+    "@type": "Athlete",
+    "name": "Kleingeld Stella",
+    "familyName": "Kleingeld",
+    "givenName": "Stella",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4167"
+    },
+    "birthDate": "2009-02-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

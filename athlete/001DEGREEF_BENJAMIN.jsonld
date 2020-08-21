@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DEGREEF_BENJAMIN.jsonld",
+    "@type": "Athlete",
+    "name": "DEGREEF BENJAMIN",
+    "familyName": "DEGREEF",
+    "givenName": "BENJAMIN",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2427"
+    },
+    "birthDate": "2002-10-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

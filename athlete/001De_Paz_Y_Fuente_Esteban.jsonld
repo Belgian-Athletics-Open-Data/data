@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Paz_Y_Fuente_Esteban.jsonld",
+    "@type": "Athlete",
+    "name": "De Paz Y Fuente Esteban",
+    "familyName": "De",
+    "givenName": "Paz Y Fuente Esteban",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0346"
+    },
+    "birthDate": "2001-08-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

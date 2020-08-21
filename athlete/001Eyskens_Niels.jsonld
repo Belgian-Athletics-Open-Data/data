@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Eyskens_Niels.jsonld",
+    "@type": "Athlete",
+    "name": "Eyskens Niels",
+    "familyName": "Eyskens",
+    "givenName": "Niels",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3109"
+    },
+    "birthDate": "2008-04-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

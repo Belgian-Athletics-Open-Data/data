@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jacquemin_Lilou.jsonld",
+    "@type": "Athlete",
+    "name": "Jacquemin Lilou",
+    "familyName": "Jacquemin",
+    "givenName": "Lilou",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7521"
+    },
+    "birthDate": "2006-06-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

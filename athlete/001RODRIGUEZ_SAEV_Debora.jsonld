@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001RODRIGUEZ_SAEV_Debora.jsonld",
+    "@type": "Athlete",
+    "name": "RODRIGUEZ SAEV Debora",
+    "familyName": "RODRIGUEZ",
+    "givenName": "SAEV Debora",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2997"
+    },
+    "birthDate": "2003-07-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

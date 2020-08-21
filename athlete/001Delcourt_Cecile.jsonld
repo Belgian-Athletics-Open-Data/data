@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delcourt_Cecile.jsonld",
+    "@type": "Athlete",
+    "name": "Delcourt Cecile",
+    "familyName": "Delcourt",
+    "givenName": "Cecile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3331"
+    },
+    "birthDate": "1978-04-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

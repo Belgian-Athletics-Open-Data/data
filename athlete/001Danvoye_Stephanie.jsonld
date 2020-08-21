@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Danvoye_Stephanie.jsonld",
+    "@type": "Athlete",
+    "name": "Danvoye Stephanie",
+    "familyName": "Danvoye",
+    "givenName": "Stephanie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3235"
+    },
+    "birthDate": "1980-02-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

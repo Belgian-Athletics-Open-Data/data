@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kaiser_Guillaume.jsonld",
+    "@type": "Athlete",
+    "name": "Kaiser Guillaume",
+    "familyName": "Kaiser",
+    "givenName": "Guillaume",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6491"
+    },
+    "birthDate": "2007-07-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

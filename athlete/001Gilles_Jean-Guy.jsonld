@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gilles_Jean-Guy.jsonld",
+    "@type": "Athlete",
+    "name": "Gilles Jean-Guy",
+    "familyName": "Gilles",
+    "givenName": "Jean-Guy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5237"
+    },
+    "birthDate": "1947-09-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

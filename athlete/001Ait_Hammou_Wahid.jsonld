@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ait_Hammou_Wahid.jsonld",
+    "@type": "Athlete",
+    "name": "Ait Hammou Wahid",
+    "familyName": "Ait",
+    "givenName": "Hammou Wahid",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6803"
+    },
+    "birthDate": "2007-01-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

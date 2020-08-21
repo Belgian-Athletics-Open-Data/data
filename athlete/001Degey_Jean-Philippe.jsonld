@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Degey_Jean-Philippe.jsonld",
+    "@type": "Athlete",
+    "name": "Degey Jean-Philippe",
+    "familyName": "Degey",
+    "givenName": "Jean-Philippe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5047"
+    },
+    "birthDate": "1974-02-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOUTSEN_CONSTANCE.jsonld",
+    "@type": "Athlete",
+    "name": "BOUTSEN CONSTANCE",
+    "familyName": "BOUTSEN",
+    "givenName": "CONSTANCE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0827"
+    },
+    "birthDate": "2010-01-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

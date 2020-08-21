@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Richard_Marie-Anne.jsonld",
+    "@type": "Athlete",
+    "name": "Richard Marie-Anne",
+    "familyName": "Richard",
+    "givenName": "Marie-Anne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3263"
+    },
+    "birthDate": "1963-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

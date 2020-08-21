@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001VILAIN_ABOUBAKR.jsonld",
+    "@type": "Athlete",
+    "name": "VILAIN ABOUBAKR",
+    "familyName": "VILAIN",
+    "givenName": "ABOUBAKR",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3622"
+    },
+    "birthDate": "2009-01-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

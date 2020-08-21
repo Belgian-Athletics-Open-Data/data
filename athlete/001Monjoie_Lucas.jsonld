@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monjoie_Lucas.jsonld",
+    "@type": "Athlete",
+    "name": "Monjoie Lucas",
+    "familyName": "Monjoie",
+    "givenName": "Lucas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6436"
+    },
+    "birthDate": "2007-11-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

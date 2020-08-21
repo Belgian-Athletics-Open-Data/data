@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bendaimi_Idris.jsonld",
+    "@type": "Athlete",
+    "name": "Bendaimi Idris",
+    "familyName": "Bendaimi",
+    "givenName": "Idris",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0032"
+    },
+    "birthDate": "2001-09-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001VERNET_Theophile.jsonld",
+    "@type": "Athlete",
+    "name": "VERNET Theophile*",
+    "familyName": "VERNET",
+    "givenName": "Theophile*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2423"
+    },
+    "birthDate": "2003-08-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

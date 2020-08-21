@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Antoine_Bernadette.jsonld",
+    "@type": "Athlete",
+    "name": "Antoine Bernadette",
+    "familyName": "Antoine",
+    "givenName": "Bernadette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3245"
+    },
+    "birthDate": "1958-06-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

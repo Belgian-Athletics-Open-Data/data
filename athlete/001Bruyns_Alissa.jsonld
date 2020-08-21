@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bruyns_Alissa.jsonld",
+    "@type": "Athlete",
+    "name": "Bruyns Alissa",
+    "familyName": "Bruyns",
+    "givenName": "Alissa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2947"
+    },
+    "birthDate": "2003-11-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

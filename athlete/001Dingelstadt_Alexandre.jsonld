@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dingelstadt_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "Dingelstadt Alexandre",
+    "familyName": "Dingelstadt",
+    "givenName": "Alexandre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1602"
+    },
+    "birthDate": "1995-10-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

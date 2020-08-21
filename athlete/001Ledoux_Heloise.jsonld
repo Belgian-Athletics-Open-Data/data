@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ledoux_Heloise.jsonld",
+    "@type": "Athlete",
+    "name": "Ledoux Heloise",
+    "familyName": "Ledoux",
+    "givenName": "Heloise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1171"
+    },
+    "birthDate": "1997-07-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

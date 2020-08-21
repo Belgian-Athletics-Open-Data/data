@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El-Khadri_Ines.jsonld",
+    "@type": "Athlete",
+    "name": "El-Khadri Ines",
+    "familyName": "El-Khadri",
+    "givenName": "Ines",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0820"
+    },
+    "birthDate": "2010-05-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

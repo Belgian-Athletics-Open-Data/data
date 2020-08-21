@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Castieau_Sandrine.jsonld",
+    "@type": "Athlete",
+    "name": "Castieau Sandrine",
+    "familyName": "Castieau",
+    "givenName": "Sandrine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3383"
+    },
+    "birthDate": "1974-09-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

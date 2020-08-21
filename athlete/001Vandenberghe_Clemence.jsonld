@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandenberghe_Clemence.jsonld",
+    "@type": "Athlete",
+    "name": "Vandenberghe Clemence",
+    "familyName": "Vandenberghe",
+    "givenName": "Clemence",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0722"
+    },
+    "birthDate": "2005-02-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandecasteele_Charlotte.jsonld",
+    "@type": "Athlete",
+    "name": "Vandecasteele Charlotte",
+    "familyName": "Vandecasteele",
+    "givenName": "Charlotte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7035"
+    },
+    "birthDate": "2006-07-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

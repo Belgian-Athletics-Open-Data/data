@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mathurin_Aurian.jsonld",
+    "@type": "Athlete",
+    "name": "Mathurin Aurian",
+    "familyName": "Mathurin",
+    "givenName": "Aurian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2161"
+    },
+    "birthDate": "2002-11-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

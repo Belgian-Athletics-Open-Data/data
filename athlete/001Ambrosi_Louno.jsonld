@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ambrosi_Louno.jsonld",
+    "@type": "Athlete",
+    "name": "Ambrosi Louno",
+    "familyName": "Ambrosi",
+    "givenName": "Louno",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6268"
+    },
+    "birthDate": "2007-09-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

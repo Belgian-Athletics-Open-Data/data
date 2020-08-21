@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Piazza_Spatazza_Katia.jsonld",
+    "@type": "Athlete",
+    "name": "Piazza Spatazza Katia",
+    "familyName": "Piazza",
+    "givenName": "Spatazza Katia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0112"
+    },
+    "birthDate": "2001-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Beauvillain_Antoyne.jsonld",
+    "@type": "Athlete",
+    "name": "Beauvillain Antoyne",
+    "familyName": "Beauvillain",
+    "givenName": "Antoyne",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2642"
+    },
+    "birthDate": "2008-06-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

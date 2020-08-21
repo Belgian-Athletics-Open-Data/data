@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Midrolet_Naelle.jsonld",
+    "@type": "Athlete",
+    "name": "Midrolet Naelle",
+    "familyName": "Midrolet",
+    "givenName": "Naelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0034"
+    },
+    "birthDate": "2010-11-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

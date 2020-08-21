@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chiacchia_Romain.jsonld",
+    "@type": "Athlete",
+    "name": "Chiacchia Romain",
+    "familyName": "Chiacchia",
+    "givenName": "Romain",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3535"
+    },
+    "birthDate": "2009-10-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

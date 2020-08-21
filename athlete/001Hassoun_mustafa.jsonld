@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hassoun_mustafa.jsonld",
+    "@type": "Athlete",
+    "name": "Hassoun mustafa",
+    "familyName": "Hassoun",
+    "givenName": "mustafa",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4721"
+    },
+    "birthDate": "1976-04-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

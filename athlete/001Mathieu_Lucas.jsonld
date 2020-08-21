@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mathieu_Lucas.jsonld",
+    "@type": "Athlete",
+    "name": "Mathieu Lucas",
+    "familyName": "Mathieu",
+    "givenName": "Lucas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3392"
+    },
+    "birthDate": "2009-04-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

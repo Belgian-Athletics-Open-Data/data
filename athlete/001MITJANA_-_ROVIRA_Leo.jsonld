@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MITJANA_-_ROVIRA_Leo.jsonld",
+    "@type": "Athlete",
+    "name": "MITJANA - ROVIRA Leo*",
+    "familyName": "MITJANA",
+    "givenName": "- ROVIRA Leo*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2608"
+    },
+    "birthDate": "2008-06-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

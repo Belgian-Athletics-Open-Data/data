@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lempereur_Jean-Michel.jsonld",
+    "@type": "Athlete",
+    "name": "Lempereur Jean-Michel",
+    "familyName": "Lempereur",
+    "givenName": "Jean-Michel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3981"
+    },
+    "birthDate": "1964-02-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

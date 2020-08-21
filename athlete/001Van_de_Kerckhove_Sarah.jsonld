@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_de_Kerckhove_Sarah.jsonld",
+    "@type": "Athlete",
+    "name": "Van de Kerckhove Sarah",
+    "familyName": "Van",
+    "givenName": "de Kerckhove Sarah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1507"
+    },
+    "birthDate": "1995-03-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

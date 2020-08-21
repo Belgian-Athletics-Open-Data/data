@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kaivers_Daniel.jsonld",
+    "@type": "Athlete",
+    "name": "Kaivers Daniel",
+    "familyName": "Kaivers",
+    "givenName": "Daniel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4107"
+    },
+    "birthDate": "1957-05-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

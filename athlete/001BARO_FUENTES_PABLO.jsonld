@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BARO_FUENTES_PABLO.jsonld",
+    "@type": "Athlete",
+    "name": "BARO FUENTES PABLO",
+    "familyName": "BARO",
+    "givenName": "FUENTES PABLO",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0374"
+    },
+    "birthDate": "2000-09-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

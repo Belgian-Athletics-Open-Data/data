@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ciarcelluto____Marine.jsonld",
+    "@type": "Athlete",
+    "name": "Ciarcelluto    Marine",
+    "familyName": "Ciarcelluto",
+    "givenName": "   Marine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0503"
+    },
+    "birthDate": "2005-12-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

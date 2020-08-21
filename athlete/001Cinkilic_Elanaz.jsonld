@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cinkilic_Elanaz.jsonld",
+    "@type": "Athlete",
+    "name": "Cinkilic Elanaz",
+    "familyName": "Cinkilic",
+    "givenName": "Elanaz",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0797"
+    },
+    "birthDate": "2010-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

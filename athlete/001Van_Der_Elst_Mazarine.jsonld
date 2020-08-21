@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Der_Elst_Mazarine.jsonld",
+    "@type": "Athlete",
+    "name": "Van Der Elst Mazarine",
+    "familyName": "Van",
+    "givenName": "Der Elst Mazarine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7465"
+    },
+    "birthDate": "2007-08-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

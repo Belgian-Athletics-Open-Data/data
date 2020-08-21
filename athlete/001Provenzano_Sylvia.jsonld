@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Provenzano_Sylvia.jsonld",
+    "@type": "Athlete",
+    "name": "Provenzano Sylvia",
+    "familyName": "Provenzano",
+    "givenName": "Sylvia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2941"
+    },
+    "birthDate": "1978-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Froidbise_Eve.jsonld",
+    "@type": "Athlete",
+    "name": "Froidbise Eve",
+    "familyName": "Froidbise",
+    "givenName": "Eve",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3147"
+    },
+    "birthDate": "1975-10-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

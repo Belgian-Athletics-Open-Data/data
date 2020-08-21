@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Udowczyk_Sacha.jsonld",
+    "@type": "Athlete",
+    "name": "Udowczyk Sacha",
+    "familyName": "Udowczyk",
+    "givenName": "Sacha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2660"
+    },
+    "birthDate": "2009-07-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

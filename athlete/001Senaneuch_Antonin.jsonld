@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Senaneuch_Antonin.jsonld",
+    "@type": "Athlete",
+    "name": "Senaneuch Antonin",
+    "familyName": "Senaneuch",
+    "givenName": "Antonin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2746"
+    },
+    "birthDate": "2009-04-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

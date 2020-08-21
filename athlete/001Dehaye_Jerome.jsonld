@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dehaye_Jerome.jsonld",
+    "@type": "Athlete",
+    "name": "Dehaye Jerome",
+    "familyName": "Dehaye",
+    "givenName": "Jerome",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1434"
+    },
+    "birthDate": "1992-08-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

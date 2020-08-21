@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Squiflet_Emelynn.jsonld",
+    "@type": "Athlete",
+    "name": "Squiflet Emelynn",
+    "familyName": "Squiflet",
+    "givenName": "Emelynn",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0100"
+    },
+    "birthDate": "2010-09-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

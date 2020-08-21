@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cardarelli_Gabriel.jsonld",
+    "@type": "Athlete",
+    "name": "Cardarelli Gabriel",
+    "familyName": "Cardarelli",
+    "givenName": "Gabriel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0031"
+    },
+    "birthDate": "2001-04-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

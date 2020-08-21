@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Ruggiero_Ludivine.jsonld",
+    "@type": "Athlete",
+    "name": "Di Ruggiero Ludivine",
+    "familyName": "Di",
+    "givenName": "Ruggiero Ludivine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1404"
+    },
+    "birthDate": "1988-01-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

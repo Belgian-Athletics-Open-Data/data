@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Quairiat_Jacques.jsonld",
+    "@type": "Athlete",
+    "name": "Quairiat Jacques",
+    "familyName": "Quairiat",
+    "givenName": "Jacques",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4195"
+    },
+    "birthDate": "1950-10-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

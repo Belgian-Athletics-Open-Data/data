@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mottaki_Mohamed_Ali.jsonld",
+    "@type": "Athlete",
+    "name": "Mottaki Mohamed Ali",
+    "familyName": "Mottaki",
+    "givenName": "Mohamed Ali",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2679"
+    },
+    "birthDate": "2002-03-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

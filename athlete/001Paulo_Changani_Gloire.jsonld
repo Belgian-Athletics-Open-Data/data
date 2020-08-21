@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Paulo_Changani_Gloire.jsonld",
+    "@type": "Athlete",
+    "name": "Paulo Changani Gloire",
+    "familyName": "Paulo",
+    "givenName": "Changani Gloire",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1983"
+    },
+    "birthDate": "1999-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

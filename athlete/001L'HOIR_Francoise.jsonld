@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001L'HOIR_Francoise.jsonld",
+    "@type": "Athlete",
+    "name": "L'HOIR Francoise",
+    "familyName": "L'HOIR",
+    "givenName": "Francoise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2968"
+    },
+    "birthDate": "1966-06-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

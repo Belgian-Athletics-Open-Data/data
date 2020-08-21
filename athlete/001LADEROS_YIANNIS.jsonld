@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LADEROS_YIANNIS.jsonld",
+    "@type": "Athlete",
+    "name": "LADEROS YIANNIS*",
+    "familyName": "LADEROS",
+    "givenName": "YIANNIS*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3703"
+    },
+    "birthDate": "2009-09-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

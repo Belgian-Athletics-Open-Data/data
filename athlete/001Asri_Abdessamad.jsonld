@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Asri_Abdessamad.jsonld",
+    "@type": "Athlete",
+    "name": "Asri Abdessamad",
+    "familyName": "Asri",
+    "givenName": "Abdessamad",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1761"
+    },
+    "birthDate": "1984-10-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

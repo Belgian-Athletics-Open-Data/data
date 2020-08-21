@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mathieu_Laurent.jsonld",
+    "@type": "Athlete",
+    "name": "Mathieu Laurent",
+    "familyName": "Mathieu",
+    "givenName": "Laurent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3941"
+    },
+    "birthDate": "1975-04-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

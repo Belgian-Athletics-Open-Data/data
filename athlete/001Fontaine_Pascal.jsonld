@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fontaine_Pascal.jsonld",
+    "@type": "Athlete",
+    "name": "Fontaine Pascal",
+    "familyName": "Fontaine",
+    "givenName": "Pascal",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4352"
+    },
+    "birthDate": "1961-04-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

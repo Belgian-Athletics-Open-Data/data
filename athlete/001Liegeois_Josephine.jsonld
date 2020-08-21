@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Liegeois_Josephine.jsonld",
+    "@type": "Athlete",
+    "name": "Liegeois Josephine",
+    "familyName": "Liegeois",
+    "givenName": "Josephine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7367"
+    },
+    "birthDate": "2007-03-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

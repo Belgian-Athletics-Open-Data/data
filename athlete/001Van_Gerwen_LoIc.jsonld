@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Gerwen_LoIc.jsonld",
+    "@type": "Athlete",
+    "name": "Van Gerwen LoIc",
+    "familyName": "Van",
+    "givenName": "Gerwen LoIc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2295"
+    },
+    "birthDate": "2002-03-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

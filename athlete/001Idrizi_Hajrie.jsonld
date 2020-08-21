@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Idrizi_Hajrie.jsonld",
+    "@type": "Athlete",
+    "name": "Idrizi Hajrie",
+    "familyName": "Idrizi",
+    "givenName": "Hajrie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0854"
+    },
+    "birthDate": "2004-05-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

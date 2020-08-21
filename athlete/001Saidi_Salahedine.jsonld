@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Saidi_Salahedine.jsonld",
+    "@type": "Athlete",
+    "name": "Saidi Salahedine",
+    "familyName": "Saidi",
+    "givenName": "Salahedine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6628"
+    },
+    "birthDate": "2007-04-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

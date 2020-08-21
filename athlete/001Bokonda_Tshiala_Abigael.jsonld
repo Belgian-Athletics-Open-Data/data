@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bokonda_Tshiala_Abigael.jsonld",
+    "@type": "Athlete",
+    "name": "Bokonda Tshiala Abigael*",
+    "familyName": "Bokonda",
+    "givenName": "Tshiala Abigael*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0598"
+    },
+    "birthDate": "2005-08-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

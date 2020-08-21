@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ruffacq_Quentin.jsonld",
+    "@type": "Athlete",
+    "name": "Ruffacq Quentin",
+    "familyName": "Ruffacq",
+    "givenName": "Quentin",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1597"
+    },
+    "birthDate": "1989-12-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

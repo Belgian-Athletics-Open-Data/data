@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Saume_Marie_Eve.jsonld",
+    "@type": "Athlete",
+    "name": "Saume Marie Eve",
+    "familyName": "Saume",
+    "givenName": "Marie Eve",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2823"
+    },
+    "birthDate": "1983-03-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

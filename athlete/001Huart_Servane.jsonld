@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Huart_Servane.jsonld",
+    "@type": "Athlete",
+    "name": "Huart Servane",
+    "familyName": "Huart",
+    "givenName": "Servane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6984"
+    },
+    "birthDate": "2007-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACTE.jsonld"
+        }
+    ]
+}

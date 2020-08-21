@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fernandes_Noemie.jsonld",
+    "@type": "Athlete",
+    "name": "Fernandes Noemie",
+    "familyName": "Fernandes",
+    "givenName": "Noemie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2748"
+    },
+    "birthDate": "2002-05-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

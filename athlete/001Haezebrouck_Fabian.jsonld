@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Haezebrouck_Fabian.jsonld",
+    "@type": "Athlete",
+    "name": "Haezebrouck Fabian",
+    "familyName": "Haezebrouck",
+    "givenName": "Fabian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4913"
+    },
+    "birthDate": "1979-01-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EAH.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001MERLIN_Joelle.jsonld",
+    "@type": "Athlete",
+    "name": "MERLIN Joelle",
+    "familyName": "MERLIN",
+    "givenName": "Joelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2816"
+    },
+    "birthDate": "1978-12-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

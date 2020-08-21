@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hemmerlin_Alix.jsonld",
+    "@type": "Athlete",
+    "name": "Hemmerlin Alix",
+    "familyName": "Hemmerlin",
+    "givenName": "Alix",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0948"
+    },
+    "birthDate": "2004-01-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

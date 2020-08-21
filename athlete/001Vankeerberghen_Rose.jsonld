@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vankeerberghen_Rose.jsonld",
+    "@type": "Athlete",
+    "name": "Vankeerberghen Rose",
+    "familyName": "Vankeerberghen",
+    "givenName": "Rose",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3918"
+    },
+    "birthDate": "2009-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

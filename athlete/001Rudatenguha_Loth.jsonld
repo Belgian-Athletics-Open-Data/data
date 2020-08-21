@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rudatenguha_Loth.jsonld",
+    "@type": "Athlete",
+    "name": "Rudatenguha Loth",
+    "familyName": "Rudatenguha",
+    "givenName": "Loth",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0701"
+    },
+    "birthDate": "2005-12-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CORDIER_GAELLE.jsonld",
+    "@type": "Athlete",
+    "name": "CORDIER GAELLE",
+    "familyName": "CORDIER",
+    "givenName": "GAELLE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7846"
+    },
+    "birthDate": "2006-05-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

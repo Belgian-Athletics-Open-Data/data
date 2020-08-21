@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Landschoot__Noan.jsonld",
+    "@type": "Athlete",
+    "name": "Van Landschoot  Noan",
+    "familyName": "Van",
+    "givenName": "Landschoot  Noan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6208"
+    },
+    "birthDate": "2007-10-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

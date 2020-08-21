@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Carlier_Ophelie.jsonld",
+    "@type": "Athlete",
+    "name": "Carlier Ophelie",
+    "familyName": "Carlier",
+    "givenName": "Ophelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3839"
+    },
+    "birthDate": "2008-09-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

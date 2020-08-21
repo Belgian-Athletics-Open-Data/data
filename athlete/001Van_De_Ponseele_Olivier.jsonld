@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_De_Ponseele_Olivier.jsonld",
+    "@type": "Athlete",
+    "name": "Van De Ponseele Olivier",
+    "familyName": "Van",
+    "givenName": "De Ponseele Olivier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4311"
+    },
+    "birthDate": "1977-08-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001KIBAMBE_LUBANDA_Cecile.jsonld",
+    "@type": "Athlete",
+    "name": "KIBAMBE LUBANDA Cecile*",
+    "familyName": "KIBAMBE",
+    "givenName": "LUBANDA Cecile*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2917"
+    },
+    "birthDate": "2003-05-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

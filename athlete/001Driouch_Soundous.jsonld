@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Driouch_Soundous.jsonld",
+    "@type": "Athlete",
+    "name": "Driouch Soundous",
+    "familyName": "Driouch",
+    "givenName": "Soundous",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7882"
+    },
+    "birthDate": "2007-03-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DACM.jsonld"
+        }
+    ]
+}

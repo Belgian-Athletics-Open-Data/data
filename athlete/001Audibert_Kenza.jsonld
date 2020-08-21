@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Audibert_Kenza.jsonld",
+    "@type": "Athlete",
+    "name": "Audibert Kenza",
+    "familyName": "Audibert",
+    "givenName": "Kenza",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4277"
+    },
+    "birthDate": "2009-02-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

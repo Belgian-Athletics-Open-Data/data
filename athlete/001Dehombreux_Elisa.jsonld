@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dehombreux_Elisa.jsonld",
+    "@type": "Athlete",
+    "name": "Dehombreux Elisa",
+    "familyName": "Dehombreux",
+    "givenName": "Elisa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4358"
+    },
+    "birthDate": "2008-02-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

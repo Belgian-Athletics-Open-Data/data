@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lespagnard_Marcus.jsonld",
+    "@type": "Athlete",
+    "name": "Lespagnard Marcus",
+    "familyName": "Lespagnard",
+    "givenName": "Marcus",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2623"
+    },
+    "birthDate": "2002-04-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

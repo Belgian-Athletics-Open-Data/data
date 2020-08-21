@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Plokain_Eloi.jsonld",
+    "@type": "Athlete",
+    "name": "Plokain Eloi",
+    "familyName": "Plokain",
+    "givenName": "Eloi",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6547"
+    },
+    "birthDate": "2007-10-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001TANDREDI_ALESSANDRO.jsonld",
+    "@type": "Athlete",
+    "name": "TANDREDI ALESSANDRO",
+    "familyName": "TANDREDI",
+    "givenName": "ALESSANDRO",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3449"
+    },
+    "birthDate": "2009-12-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

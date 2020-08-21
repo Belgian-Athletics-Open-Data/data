@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lukebadio_Rachel.jsonld",
+    "@type": "Athlete",
+    "name": "Lukebadio Rachel",
+    "familyName": "Lukebadio",
+    "givenName": "Rachel",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7868"
+    },
+    "birthDate": "2007-02-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

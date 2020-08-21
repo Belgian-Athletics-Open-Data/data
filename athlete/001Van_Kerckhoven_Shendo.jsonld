@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Kerckhoven_Shendo.jsonld",
+    "@type": "Athlete",
+    "name": "Van Kerckhoven Shendo",
+    "familyName": "Van",
+    "givenName": "Kerckhoven Shendo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1945"
+    },
+    "birthDate": "1995-06-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dassy_Nilaya.jsonld",
+    "@type": "Athlete",
+    "name": "Dassy Nilaya",
+    "familyName": "Dassy",
+    "givenName": "Nilaya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7793"
+    },
+    "birthDate": "2007-05-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

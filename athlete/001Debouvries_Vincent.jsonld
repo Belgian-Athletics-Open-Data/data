@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Debouvries_Vincent.jsonld",
+    "@type": "Athlete",
+    "name": "Debouvries Vincent",
+    "familyName": "Debouvries",
+    "givenName": "Vincent",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2945"
+    },
+    "birthDate": "2008-04-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bouchez_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "Bouchez Alexandre",
+    "familyName": "Bouchez",
+    "givenName": "Alexandre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5903"
+    },
+    "birthDate": "2006-08-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

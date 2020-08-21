@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dumortier_Mathieu.jsonld",
+    "@type": "Athlete",
+    "name": "Dumortier Mathieu",
+    "familyName": "Dumortier",
+    "givenName": "Mathieu",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0645"
+    },
+    "birthDate": "2004-01-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

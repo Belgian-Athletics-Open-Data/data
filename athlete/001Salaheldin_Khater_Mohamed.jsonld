@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Salaheldin_Khater_Mohamed.jsonld",
+    "@type": "Athlete",
+    "name": "Salaheldin Khater Mohamed",
+    "familyName": "Salaheldin",
+    "givenName": "Khater Mohamed",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2197"
+    },
+    "birthDate": "2003-08-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

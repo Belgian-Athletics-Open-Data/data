@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Matchikh_Monir_Ayoub.jsonld",
+    "@type": "Athlete",
+    "name": "Matchikh Monir Ayoub",
+    "familyName": "Matchikh",
+    "givenName": "Monir Ayoub",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0328"
+    },
+    "birthDate": "2001-12-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

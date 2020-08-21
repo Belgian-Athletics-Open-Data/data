@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Engoue_Ngaha_Alexandra.jsonld",
+    "@type": "Athlete",
+    "name": "Engoue Ngaha Alexandra*",
+    "familyName": "Engoue",
+    "givenName": "Ngaha Alexandra*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0922"
+    },
+    "birthDate": "2004-11-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

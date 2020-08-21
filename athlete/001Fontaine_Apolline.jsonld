@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fontaine_Apolline.jsonld",
+    "@type": "Athlete",
+    "name": "Fontaine Apolline",
+    "familyName": "Fontaine",
+    "givenName": "Apolline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3321"
+    },
+    "birthDate": "2009-11-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

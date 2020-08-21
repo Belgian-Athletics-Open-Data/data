@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CHABEAU_Leonie.jsonld",
+    "@type": "Athlete",
+    "name": "CHABEAU Leonie",
+    "familyName": "CHABEAU",
+    "givenName": "Leonie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6998"
+    },
+    "birthDate": "2006-02-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

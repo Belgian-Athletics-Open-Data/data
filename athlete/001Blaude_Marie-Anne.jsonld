@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Blaude_Marie-Anne.jsonld",
+    "@type": "Athlete",
+    "name": "Blaude Marie-Anne",
+    "familyName": "Blaude",
+    "givenName": "Marie-Anne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2908"
+    },
+    "birthDate": "1953-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

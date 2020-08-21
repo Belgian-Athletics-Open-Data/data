@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tricha_Redhouane.jsonld",
+    "@type": "Athlete",
+    "name": "Tricha Redhouane",
+    "familyName": "Tricha",
+    "givenName": "Redhouane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2227"
+    },
+    "birthDate": "2002-05-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

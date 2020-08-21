@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Issia_Amoundala_Marc.jsonld",
+    "@type": "Athlete",
+    "name": "Issia Amoundala Marc",
+    "familyName": "Issia",
+    "givenName": "Amoundala Marc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3646"
+    },
+    "birthDate": "1999-10-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

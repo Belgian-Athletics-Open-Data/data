@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Verkaeren_Charline.jsonld",
+    "@type": "Athlete",
+    "name": "Verkaeren Charline",
+    "familyName": "Verkaeren",
+    "givenName": "Charline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2930"
+    },
+    "birthDate": "1979-02-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

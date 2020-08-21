@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tabbakh_Mouad.jsonld",
+    "@type": "Athlete",
+    "name": "Tabbakh Mouad",
+    "familyName": "Tabbakh",
+    "givenName": "Mouad",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3325"
+    },
+    "birthDate": "2008-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

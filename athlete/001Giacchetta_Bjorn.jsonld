@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Giacchetta_Bjorn.jsonld",
+    "@type": "Athlete",
+    "name": "Giacchetta Bjorn",
+    "familyName": "Giacchetta",
+    "givenName": "Bjorn",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2506"
+    },
+    "birthDate": "2003-09-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

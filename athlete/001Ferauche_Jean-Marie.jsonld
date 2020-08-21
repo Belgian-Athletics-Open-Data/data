@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ferauche_Jean-Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Ferauche Jean-Marie",
+    "familyName": "Ferauche",
+    "givenName": "Jean-Marie",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4143"
+    },
+    "birthDate": "1949-04-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

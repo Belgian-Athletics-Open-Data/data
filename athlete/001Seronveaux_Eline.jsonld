@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Seronveaux_Eline.jsonld",
+    "@type": "Athlete",
+    "name": "Seronveaux Eline",
+    "familyName": "Seronveaux",
+    "givenName": "Eline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3735"
+    },
+    "birthDate": "2008-03-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

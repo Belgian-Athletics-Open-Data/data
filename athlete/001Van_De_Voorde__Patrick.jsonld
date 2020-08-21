@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_De_Voorde__Patrick.jsonld",
+    "@type": "Athlete",
+    "name": "Van De Voorde  Patrick",
+    "familyName": "Van",
+    "givenName": "De Voorde  Patrick",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4456"
+    },
+    "birthDate": "1964-01-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

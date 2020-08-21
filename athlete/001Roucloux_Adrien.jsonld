@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Roucloux_Adrien.jsonld",
+    "@type": "Athlete",
+    "name": "Roucloux Adrien",
+    "familyName": "Roucloux",
+    "givenName": "Adrien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2528"
+    },
+    "birthDate": "2002-05-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FAC.jsonld"
+        }
+    ]
+}

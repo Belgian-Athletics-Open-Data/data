@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Appelmans_Stephane.jsonld",
+    "@type": "Athlete",
+    "name": "Appelmans Stephane",
+    "familyName": "Appelmans",
+    "givenName": "Stephane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4038"
+    },
+    "birthDate": "1968-08-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

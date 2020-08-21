@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Desaeger_Sabine.jsonld",
+    "@type": "Athlete",
+    "name": "Desaeger Sabine",
+    "familyName": "Desaeger",
+    "givenName": "Sabine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3219"
+    },
+    "birthDate": "1971-06-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Toualeu_Mengantou_Valenti.jsonld",
+    "@type": "Athlete",
+    "name": "Toualeu Mengantou Valenti",
+    "familyName": "Toualeu",
+    "givenName": "Mengantou Valenti",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0383"
+    },
+    "birthDate": "2001-08-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

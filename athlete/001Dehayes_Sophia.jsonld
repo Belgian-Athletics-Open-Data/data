@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dehayes_Sophia.jsonld",
+    "@type": "Athlete",
+    "name": "Dehayes Sophia",
+    "familyName": "Dehayes",
+    "givenName": "Sophia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7121"
+    },
+    "birthDate": "2007-12-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

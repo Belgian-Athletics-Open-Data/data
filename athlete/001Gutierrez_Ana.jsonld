@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gutierrez_Ana.jsonld",
+    "@type": "Athlete",
+    "name": "Gutierrez Ana*",
+    "familyName": "Gutierrez",
+    "givenName": "Ana*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3183"
+    },
+    "birthDate": "1973-02-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001RAMADAN_Ahmed.jsonld",
+    "@type": "Athlete",
+    "name": "RAMADAN Ahmed",
+    "familyName": "RAMADAN",
+    "givenName": "Ahmed",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6348"
+    },
+    "birthDate": "2006-09-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

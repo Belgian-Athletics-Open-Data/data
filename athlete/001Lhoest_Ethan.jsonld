@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lhoest_Ethan.jsonld",
+    "@type": "Athlete",
+    "name": "Lhoest Ethan",
+    "familyName": "Lhoest",
+    "givenName": "Ethan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6398"
+    },
+    "birthDate": "2006-02-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBB.jsonld"
+        }
+    ]
+}

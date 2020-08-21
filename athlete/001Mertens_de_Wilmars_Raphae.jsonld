@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mertens_de_Wilmars_Raphae.jsonld",
+    "@type": "Athlete",
+    "name": "Mertens de Wilmars Raphae",
+    "familyName": "Mertens",
+    "givenName": "de Wilmars Raphae",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6089"
+    },
+    "birthDate": "2007-01-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bodeux_Olivia.jsonld",
+    "@type": "Athlete",
+    "name": "Bodeux Olivia",
+    "familyName": "Bodeux",
+    "givenName": "Olivia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1044"
+    },
+    "birthDate": "1992-09-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

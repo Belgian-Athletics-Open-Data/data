@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Decueper_Marie-Constance.jsonld",
+    "@type": "Athlete",
+    "name": "Decueper Marie-Constance",
+    "familyName": "Decueper",
+    "givenName": "Marie-Constance",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2781"
+    },
+    "birthDate": "1972-08-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

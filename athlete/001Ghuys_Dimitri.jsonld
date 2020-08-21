@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ghuys_Dimitri.jsonld",
+    "@type": "Athlete",
+    "name": "Ghuys Dimitri",
+    "familyName": "Ghuys",
+    "givenName": "Dimitri",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5159"
+    },
+    "birthDate": "1968-07-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

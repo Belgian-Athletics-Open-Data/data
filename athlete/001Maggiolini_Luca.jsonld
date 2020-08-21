@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maggiolini_Luca.jsonld",
+    "@type": "Athlete",
+    "name": "Maggiolini Luca",
+    "familyName": "Maggiolini",
+    "givenName": "Luca",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0277"
+    },
+    "birthDate": "2000-01-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

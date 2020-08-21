@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Toussaint_Daniel.jsonld",
+    "@type": "Athlete",
+    "name": "Toussaint Daniel",
+    "familyName": "Toussaint",
+    "givenName": "Daniel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2143"
+    },
+    "birthDate": "1985-11-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

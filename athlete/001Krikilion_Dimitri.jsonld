@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Krikilion_Dimitri.jsonld",
+    "@type": "Athlete",
+    "name": "Krikilion Dimitri",
+    "familyName": "Krikilion",
+    "givenName": "Dimitri",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4801"
+    },
+    "birthDate": "1976-05-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

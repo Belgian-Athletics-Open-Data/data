@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ait_Hnid_Marwa.jsonld",
+    "@type": "Athlete",
+    "name": "Ait Hnid Marwa",
+    "familyName": "Ait",
+    "givenName": "Hnid Marwa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3968"
+    },
+    "birthDate": "2008-03-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

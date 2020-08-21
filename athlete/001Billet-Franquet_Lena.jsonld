@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Billet-Franquet_Lena.jsonld",
+    "@type": "Athlete",
+    "name": "Billet-Franquet Lena",
+    "familyName": "Billet-Franquet",
+    "givenName": "Lena",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0385"
+    },
+    "birthDate": "2005-02-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

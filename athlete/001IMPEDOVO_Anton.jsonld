@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001IMPEDOVO_Anton.jsonld",
+    "@type": "Athlete",
+    "name": "IMPEDOVO Anton",
+    "familyName": "IMPEDOVO",
+    "givenName": "Anton",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6842"
+    },
+    "birthDate": "2006-02-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

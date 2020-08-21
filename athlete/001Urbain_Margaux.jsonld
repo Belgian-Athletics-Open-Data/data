@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Urbain_Margaux.jsonld",
+    "@type": "Athlete",
+    "name": "Urbain Margaux",
+    "familyName": "Urbain",
+    "givenName": "Margaux",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0629"
+    },
+    "birthDate": "2010-01-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

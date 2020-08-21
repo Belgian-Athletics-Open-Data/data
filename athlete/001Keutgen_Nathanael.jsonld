@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Keutgen_Nathanael.jsonld",
+    "@type": "Athlete",
+    "name": "Keutgen Nathanael",
+    "familyName": "Keutgen",
+    "givenName": "Nathanael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0142"
+    },
+    "birthDate": "2005-12-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

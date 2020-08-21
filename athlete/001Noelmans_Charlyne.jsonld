@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Noelmans_Charlyne.jsonld",
+    "@type": "Athlete",
+    "name": "Noelmans Charlyne",
+    "familyName": "Noelmans",
+    "givenName": "Charlyne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7040"
+    },
+    "birthDate": "2007-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

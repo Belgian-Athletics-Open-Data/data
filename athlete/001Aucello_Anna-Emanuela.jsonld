@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Aucello_Anna-Emanuela.jsonld",
+    "@type": "Athlete",
+    "name": "Aucello Anna-Emanuela*",
+    "familyName": "Aucello",
+    "givenName": "Anna-Emanuela*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2991"
+    },
+    "birthDate": "1973-05-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

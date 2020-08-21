@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Grandjean_Sacha.jsonld",
+    "@type": "Athlete",
+    "name": "Grandjean Sacha",
+    "familyName": "Grandjean",
+    "givenName": "Sacha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2690"
+    },
+    "birthDate": "2008-04-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brouckaert_Arnaud.jsonld",
+    "@type": "Athlete",
+    "name": "Brouckaert Arnaud",
+    "familyName": "Brouckaert",
+    "givenName": "Arnaud",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0212"
+    },
+    "birthDate": "2005-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

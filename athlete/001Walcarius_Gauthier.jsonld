@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Walcarius_Gauthier.jsonld",
+    "@type": "Athlete",
+    "name": "Walcarius Gauthier",
+    "familyName": "Walcarius",
+    "givenName": "Gauthier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6743"
+    },
+    "birthDate": "2006-03-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

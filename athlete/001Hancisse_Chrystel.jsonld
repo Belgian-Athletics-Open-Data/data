@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hancisse_Chrystel.jsonld",
+    "@type": "Athlete",
+    "name": "Hancisse Chrystel",
+    "familyName": "Hancisse",
+    "givenName": "Chrystel",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3436"
+    },
+    "birthDate": "1974-12-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

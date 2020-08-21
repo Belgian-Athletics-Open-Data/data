@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Froidmont_Guillaume.jsonld",
+    "@type": "Athlete",
+    "name": "De Froidmont Guillaume",
+    "familyName": "De",
+    "givenName": "Froidmont Guillaume",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0076"
+    },
+    "birthDate": "2001-04-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

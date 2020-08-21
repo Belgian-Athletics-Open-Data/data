@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Provoost_Aloys.jsonld",
+    "@type": "Athlete",
+    "name": "Provoost Aloys",
+    "familyName": "Provoost",
+    "givenName": "Aloys",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6723"
+    },
+    "birthDate": "2007-04-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Labasse_Ludivine.jsonld",
+    "@type": "Athlete",
+    "name": "Labasse Ludivine",
+    "familyName": "Labasse",
+    "givenName": "Ludivine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6937"
+    },
+    "birthDate": "2006-03-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

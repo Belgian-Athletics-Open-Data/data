@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LAGASSE_BASILE.jsonld",
+    "@type": "Athlete",
+    "name": "LAGASSE BASILE",
+    "familyName": "LAGASSE",
+    "givenName": "BASILE",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3159"
+    },
+    "birthDate": "2009-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

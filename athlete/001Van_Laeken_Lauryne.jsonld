@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Laeken_Lauryne.jsonld",
+    "@type": "Athlete",
+    "name": "Van Laeken Lauryne",
+    "familyName": "Van",
+    "givenName": "Laeken Lauryne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3020"
+    },
+    "birthDate": "2003-03-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

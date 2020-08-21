@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Verhoogen_Jessica.jsonld",
+    "@type": "Athlete",
+    "name": "Verhoogen Jessica",
+    "familyName": "Verhoogen",
+    "givenName": "Jessica",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3428"
+    },
+    "birthDate": "2009-11-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

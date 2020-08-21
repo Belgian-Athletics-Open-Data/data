@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sposetti_Alyssa.jsonld",
+    "@type": "Athlete",
+    "name": "Sposetti Alyssa",
+    "familyName": "Sposetti",
+    "givenName": "Alyssa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "9701"
+    },
+    "birthDate": "2007-02-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

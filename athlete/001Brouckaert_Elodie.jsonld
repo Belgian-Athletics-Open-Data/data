@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brouckaert_Elodie.jsonld",
+    "@type": "Athlete",
+    "name": "Brouckaert Elodie",
+    "familyName": "Brouckaert",
+    "givenName": "Elodie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7301"
+    },
+    "birthDate": "2007-01-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

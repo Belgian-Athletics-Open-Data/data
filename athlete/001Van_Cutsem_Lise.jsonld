@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Cutsem_Lise.jsonld",
+    "@type": "Athlete",
+    "name": "Van Cutsem Lise",
+    "familyName": "Van",
+    "givenName": "Cutsem Lise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7387"
+    },
+    "birthDate": "2006-07-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

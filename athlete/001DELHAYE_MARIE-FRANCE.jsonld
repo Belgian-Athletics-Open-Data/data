@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DELHAYE_MARIE-FRANCE.jsonld",
+    "@type": "Athlete",
+    "name": "DELHAYE MARIE-FRANCE",
+    "familyName": "DELHAYE",
+    "givenName": "MARIE-FRANCE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3406"
+    },
+    "birthDate": "1977-09-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

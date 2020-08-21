@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Di_Antonio_Carlo.jsonld",
+    "@type": "Athlete",
+    "name": "Di Antonio Carlo",
+    "familyName": "Di",
+    "givenName": "Antonio Carlo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4071"
+    },
+    "birthDate": "1962-07-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lenaerts_Siriane.jsonld",
+    "@type": "Athlete",
+    "name": "Lenaerts Siriane",
+    "familyName": "Lenaerts",
+    "givenName": "Siriane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6925"
+    },
+    "birthDate": "2007-04-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

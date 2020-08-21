@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pieroux_Marianne.jsonld",
+    "@type": "Athlete",
+    "name": "Pieroux Marianne",
+    "familyName": "Pieroux",
+    "givenName": "Marianne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1173"
+    },
+    "birthDate": "1988-06-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ponlot_Jean-Luc.jsonld",
+    "@type": "Athlete",
+    "name": "Ponlot Jean-Luc",
+    "familyName": "Ponlot",
+    "givenName": "Jean-Luc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4095"
+    },
+    "birthDate": "1968-09-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mbuyi_Bodika_William.jsonld",
+    "@type": "Athlete",
+    "name": "Mbuyi Bodika William",
+    "familyName": "Mbuyi",
+    "givenName": "Bodika William",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0379"
+    },
+    "birthDate": "2004-04-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

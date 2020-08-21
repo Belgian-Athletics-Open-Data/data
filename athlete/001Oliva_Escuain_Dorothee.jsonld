@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Oliva_Escuain_Dorothee.jsonld",
+    "@type": "Athlete",
+    "name": "Oliva Escuain Dorothee",
+    "familyName": "Oliva",
+    "givenName": "Escuain Dorothee",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2889"
+    },
+    "birthDate": "1983-10-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

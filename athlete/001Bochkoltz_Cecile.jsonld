@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bochkoltz_Cecile.jsonld",
+    "@type": "Athlete",
+    "name": "Bochkoltz Cecile",
+    "familyName": "Bochkoltz",
+    "givenName": "Cecile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2883"
+    },
+    "birthDate": "1964-07-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

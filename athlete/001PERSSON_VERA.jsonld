@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PERSSON_VERA.jsonld",
+    "@type": "Athlete",
+    "name": "PERSSON VERA*",
+    "familyName": "PERSSON",
+    "givenName": "VERA*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0599"
+    },
+    "birthDate": "2010-03-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

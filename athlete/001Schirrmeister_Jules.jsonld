@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schirrmeister_Jules.jsonld",
+    "@type": "Athlete",
+    "name": "Schirrmeister Jules",
+    "familyName": "Schirrmeister",
+    "givenName": "Jules",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3554"
+    },
+    "birthDate": "2009-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

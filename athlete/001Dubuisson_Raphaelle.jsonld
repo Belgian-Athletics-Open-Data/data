@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dubuisson_Raphaelle.jsonld",
+    "@type": "Athlete",
+    "name": "Dubuisson Raphaelle",
+    "familyName": "Dubuisson",
+    "givenName": "Raphaelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0768"
+    },
+    "birthDate": "2011-08-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

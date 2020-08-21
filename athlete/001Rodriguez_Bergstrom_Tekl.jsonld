@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rodriguez_Bergstrom_Tekl.jsonld",
+    "@type": "Athlete",
+    "name": "Rodriguez Bergstrom Tekl*",
+    "familyName": "Rodriguez",
+    "givenName": "Bergstrom Tekl*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0426"
+    },
+    "birthDate": "2004-09-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

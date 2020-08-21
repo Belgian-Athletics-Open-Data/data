@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rixhon_Bertrand.jsonld",
+    "@type": "Athlete",
+    "name": "Rixhon Bertrand",
+    "familyName": "Rixhon",
+    "givenName": "Bertrand",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2036"
+    },
+    "birthDate": "1994-03-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

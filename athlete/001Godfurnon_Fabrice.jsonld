@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Godfurnon_Fabrice.jsonld",
+    "@type": "Athlete",
+    "name": "Godfurnon Fabrice",
+    "familyName": "Godfurnon",
+    "givenName": "Fabrice",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4595"
+    },
+    "birthDate": "1980-04-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

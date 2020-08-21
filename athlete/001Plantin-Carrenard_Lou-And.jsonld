@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Plantin-Carrenard_Lou-And.jsonld",
+    "@type": "Athlete",
+    "name": "Plantin-Carrenard Lou-And",
+    "familyName": "Plantin-Carrenard",
+    "givenName": "Lou-And",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0332"
+    },
+    "birthDate": "2004-04-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

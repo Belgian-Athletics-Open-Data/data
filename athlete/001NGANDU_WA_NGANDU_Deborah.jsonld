@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001NGANDU_WA_NGANDU_Deborah.jsonld",
+    "@type": "Athlete",
+    "name": "NGANDU WA NGANDU Deborah",
+    "familyName": "NGANDU",
+    "givenName": "WA NGANDU Deborah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3094"
+    },
+    "birthDate": "2003-04-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

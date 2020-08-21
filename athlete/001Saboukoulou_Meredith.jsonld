@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Saboukoulou_Meredith.jsonld",
+    "@type": "Athlete",
+    "name": "Saboukoulou Meredith",
+    "familyName": "Saboukoulou",
+    "givenName": "Meredith",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0595"
+    },
+    "birthDate": "2010-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

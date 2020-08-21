@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Luna_Hernandez_Laura_Ida.jsonld",
+    "@type": "Athlete",
+    "name": "Luna Hernandez Laura Ida*",
+    "familyName": "Luna",
+    "givenName": "Hernandez Laura Ida*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0225"
+    },
+    "birthDate": "2001-07-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

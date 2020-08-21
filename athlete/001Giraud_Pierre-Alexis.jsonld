@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Giraud_Pierre-Alexis.jsonld",
+    "@type": "Athlete",
+    "name": "Giraud Pierre-Alexis*",
+    "familyName": "Giraud",
+    "givenName": "Pierre-Alexis*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2034"
+    },
+    "birthDate": "1990-08-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

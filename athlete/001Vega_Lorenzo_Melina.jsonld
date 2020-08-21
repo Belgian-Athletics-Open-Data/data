@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vega_Lorenzo_Melina.jsonld",
+    "@type": "Athlete",
+    "name": "Vega Lorenzo Melina",
+    "familyName": "Vega",
+    "givenName": "Lorenzo Melina",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1058"
+    },
+    "birthDate": "1992-07-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

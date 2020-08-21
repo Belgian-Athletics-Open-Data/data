@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gere_Moto_Liemans_Sandowa.jsonld",
+    "@type": "Athlete",
+    "name": "Gere Moto Liemans Sandowa",
+    "familyName": "Gere",
+    "givenName": "Moto Liemans Sandowa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0551"
+    },
+    "birthDate": "2004-08-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Aslyah_Zakaria.jsonld",
+    "@type": "Athlete",
+    "name": "Aslyah Zakaria",
+    "familyName": "Aslyah",
+    "givenName": "Zakaria",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0448"
+    },
+    "birthDate": "2005-04-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

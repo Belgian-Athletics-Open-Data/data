@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ramiandrisoa_Raphael.jsonld",
+    "@type": "Athlete",
+    "name": "Ramiandrisoa Raphael",
+    "familyName": "Ramiandrisoa",
+    "givenName": "Raphael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2131"
+    },
+    "birthDate": "1999-03-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

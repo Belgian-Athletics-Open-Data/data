@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mve-Obiang_Mia.jsonld",
+    "@type": "Athlete",
+    "name": "Mve-Obiang Mia",
+    "familyName": "Mve-Obiang",
+    "givenName": "Mia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2633"
+    },
+    "birthDate": "2003-08-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Warnon_Jonathan.jsonld",
+    "@type": "Athlete",
+    "name": "Warnon Jonathan",
+    "familyName": "Warnon",
+    "givenName": "Jonathan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4606"
+    },
+    "birthDate": "1979-09-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

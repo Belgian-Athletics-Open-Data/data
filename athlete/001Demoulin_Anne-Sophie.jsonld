@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Demoulin_Anne-Sophie.jsonld",
+    "@type": "Athlete",
+    "name": "Demoulin Anne-Sophie",
+    "familyName": "Demoulin",
+    "givenName": "Anne-Sophie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2784"
+    },
+    "birthDate": "1978-12-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lebourgeois_Solene.jsonld",
+    "@type": "Athlete",
+    "name": "Lebourgeois Solene",
+    "familyName": "Lebourgeois",
+    "givenName": "Solene",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0299"
+    },
+    "birthDate": "2001-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Patriarche_Jules.jsonld",
+    "@type": "Athlete",
+    "name": "Patriarche Jules",
+    "familyName": "Patriarche",
+    "givenName": "Jules",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3318"
+    },
+    "birthDate": "2008-11-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001JOSIS_Thalia.jsonld",
+    "@type": "Athlete",
+    "name": "JOSIS Thalia",
+    "familyName": "JOSIS",
+    "givenName": "Thalia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0778"
+    },
+    "birthDate": "2011-03-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

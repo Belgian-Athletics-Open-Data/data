@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Manteleers_Liesbeth.jsonld",
+    "@type": "Athlete",
+    "name": "Manteleers Liesbeth",
+    "familyName": "Manteleers",
+    "givenName": "Liesbeth",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2713"
+    },
+    "birthDate": "1969-09-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deloubriere_Anissa.jsonld",
+    "@type": "Athlete",
+    "name": "Deloubriere Anissa",
+    "familyName": "Deloubriere",
+    "givenName": "Anissa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7857"
+    },
+    "birthDate": "2007-06-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

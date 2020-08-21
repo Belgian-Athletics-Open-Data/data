@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bekkali_Ihsane.jsonld",
+    "@type": "Athlete",
+    "name": "Bekkali Ihsane",
+    "familyName": "Bekkali",
+    "givenName": "Ihsane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7891"
+    },
+    "birthDate": "2007-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

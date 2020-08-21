@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vander_Cuylen_Nadia.jsonld",
+    "@type": "Athlete",
+    "name": "Vander Cuylen Nadia",
+    "familyName": "Vander",
+    "givenName": "Cuylen Nadia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3229"
+    },
+    "birthDate": "1976-12-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

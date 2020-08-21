@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cosaert_Yuna.jsonld",
+    "@type": "Athlete",
+    "name": "Cosaert Yuna",
+    "familyName": "Cosaert",
+    "givenName": "Yuna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0469"
+    },
+    "birthDate": "2010-10-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

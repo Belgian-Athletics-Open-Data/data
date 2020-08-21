@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Swieten_Gauthier.jsonld",
+    "@type": "Athlete",
+    "name": "Van Swieten Gauthier",
+    "familyName": "Van",
+    "givenName": "Swieten Gauthier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3785"
+    },
+    "birthDate": "2008-08-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Beaudoint_Anne-Lise.jsonld",
+    "@type": "Athlete",
+    "name": "Beaudoint Anne-Lise",
+    "familyName": "Beaudoint",
+    "givenName": "Anne-Lise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0488"
+    },
+    "birthDate": "2004-02-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

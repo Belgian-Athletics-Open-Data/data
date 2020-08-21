@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Zgajewski_Emilien.jsonld",
+    "@type": "Athlete",
+    "name": "Zgajewski Emilien",
+    "familyName": "Zgajewski",
+    "givenName": "Emilien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2382"
+    },
+    "birthDate": "2002-10-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

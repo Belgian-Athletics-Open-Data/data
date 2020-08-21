@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wynant_Stephanie.jsonld",
+    "@type": "Athlete",
+    "name": "Wynant Stephanie",
+    "familyName": "Wynant",
+    "givenName": "Stephanie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1045"
+    },
+    "birthDate": "1991-05-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

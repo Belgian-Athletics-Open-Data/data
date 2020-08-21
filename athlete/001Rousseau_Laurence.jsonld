@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rousseau_Laurence.jsonld",
+    "@type": "Athlete",
+    "name": "Rousseau Laurence",
+    "familyName": "Rousseau",
+    "givenName": "Laurence",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3134"
+    },
+    "birthDate": "1979-11-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

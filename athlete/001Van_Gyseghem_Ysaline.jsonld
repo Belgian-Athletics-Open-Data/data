@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Gyseghem_Ysaline.jsonld",
+    "@type": "Athlete",
+    "name": "Van Gyseghem Ysaline",
+    "familyName": "Van",
+    "givenName": "Gyseghem Ysaline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0484"
+    },
+    "birthDate": "2004-01-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

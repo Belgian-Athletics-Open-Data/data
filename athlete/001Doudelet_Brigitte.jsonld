@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Doudelet_Brigitte.jsonld",
+    "@type": "Athlete",
+    "name": "Doudelet Brigitte",
+    "familyName": "Doudelet",
+    "givenName": "Brigitte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2965"
+    },
+    "birthDate": "1958-09-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

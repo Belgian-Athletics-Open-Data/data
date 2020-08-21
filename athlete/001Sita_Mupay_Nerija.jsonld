@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sita_Mupay_Nerija.jsonld",
+    "@type": "Athlete",
+    "name": "Sita Mupay Nerija",
+    "familyName": "Sita",
+    "givenName": "Mupay Nerija",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7743"
+    },
+    "birthDate": "2006-04-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

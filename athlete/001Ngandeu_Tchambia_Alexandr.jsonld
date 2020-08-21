@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ngandeu_Tchambia_Alexandr.jsonld",
+    "@type": "Athlete",
+    "name": "Ngandeu Tchambia Alexandr",
+    "familyName": "Ngandeu",
+    "givenName": "Tchambia Alexandr",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0844"
+    },
+    "birthDate": "2010-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

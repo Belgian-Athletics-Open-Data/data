@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Elouahabi_Yassine.jsonld",
+    "@type": "Athlete",
+    "name": "Elouahabi Yassine",
+    "familyName": "Elouahabi",
+    "givenName": "Yassine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2438"
+    },
+    "birthDate": "2002-02-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

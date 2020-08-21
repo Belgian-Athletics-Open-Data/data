@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001PORCHET_ALEXANDRE.jsonld",
+    "@type": "Athlete",
+    "name": "PORCHET ALEXANDRE*",
+    "familyName": "PORCHET",
+    "givenName": "ALEXANDRE*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1527"
+    },
+    "birthDate": "1994-01-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

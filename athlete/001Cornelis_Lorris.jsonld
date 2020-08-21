@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cornelis_Lorris.jsonld",
+    "@type": "Athlete",
+    "name": "Cornelis Lorris",
+    "familyName": "Cornelis",
+    "givenName": "Lorris",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2997"
+    },
+    "birthDate": "2009-12-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

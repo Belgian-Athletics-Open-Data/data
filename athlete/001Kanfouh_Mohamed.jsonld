@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kanfouh_Mohamed.jsonld",
+    "@type": "Athlete",
+    "name": "Kanfouh Mohamed*",
+    "familyName": "Kanfouh",
+    "givenName": "Mohamed*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1291"
+    },
+    "birthDate": "1998-06-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

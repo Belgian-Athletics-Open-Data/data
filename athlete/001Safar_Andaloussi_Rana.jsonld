@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Safar_Andaloussi_Rana.jsonld",
+    "@type": "Athlete",
+    "name": "Safar Andaloussi Rana",
+    "familyName": "Safar",
+    "givenName": "Andaloussi Rana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0787"
+    },
+    "birthDate": "2010-06-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

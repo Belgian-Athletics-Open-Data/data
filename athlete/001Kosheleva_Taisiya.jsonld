@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kosheleva_Taisiya.jsonld",
+    "@type": "Athlete",
+    "name": "Kosheleva Taisiya",
+    "familyName": "Kosheleva",
+    "givenName": "Taisiya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7709"
+    },
+    "birthDate": "2006-10-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

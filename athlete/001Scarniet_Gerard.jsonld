@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Scarniet_Gerard.jsonld",
+    "@type": "Athlete",
+    "name": "Scarniet Gerard",
+    "familyName": "Scarniet",
+    "givenName": "Gerard",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4310"
+    },
+    "birthDate": "1975-09-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

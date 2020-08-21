@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kalenga_Kabongo_Christian.jsonld",
+    "@type": "Athlete",
+    "name": "Kalenga Kabongo Christian",
+    "familyName": "Kalenga",
+    "givenName": "Kabongo Christian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6337"
+    },
+    "birthDate": "2006-10-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

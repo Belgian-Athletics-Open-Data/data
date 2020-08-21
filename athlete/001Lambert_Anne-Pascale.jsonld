@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lambert_Anne-Pascale.jsonld",
+    "@type": "Athlete",
+    "name": "Lambert Anne-Pascale",
+    "familyName": "Lambert",
+    "givenName": "Anne-Pascale",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2981"
+    },
+    "birthDate": "1969-02-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

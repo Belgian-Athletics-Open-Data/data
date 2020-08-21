@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gallo_Marie-Helene.jsonld",
+    "@type": "Athlete",
+    "name": "Gallo Marie-Helene",
+    "familyName": "Gallo",
+    "givenName": "Marie-Helene",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3260"
+    },
+    "birthDate": "1974-01-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

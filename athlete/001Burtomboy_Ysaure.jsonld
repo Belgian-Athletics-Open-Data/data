@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Burtomboy_Ysaure.jsonld",
+    "@type": "Athlete",
+    "name": "Burtomboy Ysaure",
+    "familyName": "Burtomboy",
+    "givenName": "Ysaure",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7302"
+    },
+    "birthDate": "2007-07-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

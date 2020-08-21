@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Garcia_Saout_Gabriel.jsonld",
+    "@type": "Athlete",
+    "name": "Garcia Saout Gabriel",
+    "familyName": "Garcia",
+    "givenName": "Saout Gabriel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0110"
+    },
+    "birthDate": "2005-09-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

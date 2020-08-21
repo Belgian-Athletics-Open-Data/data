@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001HAUSEUX_LIZA.jsonld",
+    "@type": "Athlete",
+    "name": "HAUSEUX LIZA",
+    "familyName": "HAUSEUX",
+    "givenName": "LIZA",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0109"
+    },
+    "birthDate": "2010-07-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

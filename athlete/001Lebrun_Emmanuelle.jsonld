@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lebrun_Emmanuelle.jsonld",
+    "@type": "Athlete",
+    "name": "Lebrun Emmanuelle",
+    "familyName": "Lebrun",
+    "givenName": "Emmanuelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3351"
+    },
+    "birthDate": "1970-09-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

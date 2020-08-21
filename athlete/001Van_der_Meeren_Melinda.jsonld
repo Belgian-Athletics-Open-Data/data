@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_der_Meeren_Melinda.jsonld",
+    "@type": "Athlete",
+    "name": "Van der Meeren Melinda",
+    "familyName": "Van",
+    "givenName": "der Meeren Melinda",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4395"
+    },
+    "birthDate": "2008-11-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fedeli_Gabriele.jsonld",
+    "@type": "Athlete",
+    "name": "Fedeli Gabriele",
+    "familyName": "Fedeli",
+    "givenName": "Gabriele",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0402"
+    },
+    "birthDate": "2005-02-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

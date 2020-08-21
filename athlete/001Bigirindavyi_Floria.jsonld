@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bigirindavyi_Floria.jsonld",
+    "@type": "Athlete",
+    "name": "Bigirindavyi Floria",
+    "familyName": "Bigirindavyi",
+    "givenName": "Floria",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7428"
+    },
+    "birthDate": "2007-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

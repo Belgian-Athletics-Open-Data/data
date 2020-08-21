@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Andrei_Raduta_Melissa_Sar.jsonld",
+    "@type": "Athlete",
+    "name": "Andrei Raduta Melissa Sar",
+    "familyName": "Andrei",
+    "givenName": "Raduta Melissa Sar",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0947"
+    },
+    "birthDate": "2005-08-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

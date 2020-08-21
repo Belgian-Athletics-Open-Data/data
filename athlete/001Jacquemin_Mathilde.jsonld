@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jacquemin_Mathilde.jsonld",
+    "@type": "Athlete",
+    "name": "Jacquemin Mathilde",
+    "familyName": "Jacquemin",
+    "givenName": "Mathilde",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1098"
+    },
+    "birthDate": "1998-01-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

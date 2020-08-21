@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001COLPIN_SACHA.jsonld",
+    "@type": "Athlete",
+    "name": "COLPIN SACHA",
+    "familyName": "COLPIN",
+    "givenName": "SACHA",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3183"
+    },
+    "birthDate": "2009-06-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

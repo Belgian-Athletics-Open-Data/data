@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Perzyna_Christophe.jsonld",
+    "@type": "Athlete",
+    "name": "Perzyna Christophe",
+    "familyName": "Perzyna",
+    "givenName": "Christophe",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4612"
+    },
+    "birthDate": "1982-06-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

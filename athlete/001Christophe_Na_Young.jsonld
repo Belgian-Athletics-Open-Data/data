@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Christophe_Na_Young.jsonld",
+    "@type": "Athlete",
+    "name": "Christophe Na Young",
+    "familyName": "Christophe",
+    "givenName": "Na Young",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3021"
+    },
+    "birthDate": "1973-10-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

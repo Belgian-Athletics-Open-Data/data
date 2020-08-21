@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bossassi-Epole_Theophile.jsonld",
+    "@type": "Athlete",
+    "name": "Bossassi-Epole Theophile",
+    "familyName": "Bossassi-Epole",
+    "givenName": "Theophile",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0181"
+    },
+    "birthDate": "2005-08-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

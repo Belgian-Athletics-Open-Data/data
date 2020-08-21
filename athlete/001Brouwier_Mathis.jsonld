@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brouwier_Mathis.jsonld",
+    "@type": "Athlete",
+    "name": "Brouwier Mathis",
+    "familyName": "Brouwier",
+    "givenName": "Mathis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6128"
+    },
+    "birthDate": "2006-02-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

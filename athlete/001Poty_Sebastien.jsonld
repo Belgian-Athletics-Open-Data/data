@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Poty_Sebastien.jsonld",
+    "@type": "Athlete",
+    "name": "Poty Sebastien*",
+    "familyName": "Poty",
+    "givenName": "Sebastien*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4988"
+    },
+    "birthDate": "1971-03-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

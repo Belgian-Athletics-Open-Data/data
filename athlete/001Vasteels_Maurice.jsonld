@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vasteels_Maurice.jsonld",
+    "@type": "Athlete",
+    "name": "Vasteels Maurice",
+    "familyName": "Vasteels",
+    "givenName": "Maurice",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5038"
+    },
+    "birthDate": "1977-03-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

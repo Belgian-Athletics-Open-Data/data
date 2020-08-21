@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Boudiba_Sirine.jsonld",
+    "@type": "Athlete",
+    "name": "Boudiba Sirine",
+    "familyName": "Boudiba",
+    "givenName": "Sirine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0557"
+    },
+    "birthDate": "2004-10-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

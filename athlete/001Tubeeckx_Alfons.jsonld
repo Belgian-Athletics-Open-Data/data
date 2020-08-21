@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tubeeckx_Alfons.jsonld",
+    "@type": "Athlete",
+    "name": "Tubeeckx Alfons",
+    "familyName": "Tubeeckx",
+    "givenName": "Alfons",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4973"
+    },
+    "birthDate": "1952-08-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LACE.jsonld"
+        }
+    ]
+}

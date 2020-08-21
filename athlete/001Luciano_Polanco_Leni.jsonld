@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Luciano_Polanco_Leni.jsonld",
+    "@type": "Athlete",
+    "name": "Luciano Polanco Leni",
+    "familyName": "Luciano",
+    "givenName": "Polanco Leni",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0022"
+    },
+    "birthDate": "2005-12-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

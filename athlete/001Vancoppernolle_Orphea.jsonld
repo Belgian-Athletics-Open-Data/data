@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vancoppernolle_Orphea.jsonld",
+    "@type": "Athlete",
+    "name": "Vancoppernolle Orphea",
+    "familyName": "Vancoppernolle",
+    "givenName": "Orphea",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0434"
+    },
+    "birthDate": "2010-03-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

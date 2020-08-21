@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CHAMPION_Juliet.jsonld",
+    "@type": "Athlete",
+    "name": "CHAMPION Juliet*",
+    "familyName": "CHAMPION",
+    "givenName": "Juliet*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2824"
+    },
+    "birthDate": "1979-10-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Devillers_Marie-France.jsonld",
+    "@type": "Athlete",
+    "name": "Devillers Marie-France",
+    "familyName": "Devillers",
+    "givenName": "Marie-France",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2984"
+    },
+    "birthDate": "1976-03-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

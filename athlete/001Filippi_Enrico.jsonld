@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Filippi_Enrico.jsonld",
+    "@type": "Athlete",
+    "name": "Filippi Enrico",
+    "familyName": "Filippi",
+    "givenName": "Enrico",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5097"
+    },
+    "birthDate": "1951-11-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

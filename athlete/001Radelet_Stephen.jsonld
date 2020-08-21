@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Radelet_Stephen.jsonld",
+    "@type": "Athlete",
+    "name": "Radelet Stephen",
+    "familyName": "Radelet",
+    "givenName": "Stephen",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1376"
+    },
+    "birthDate": "1988-08-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

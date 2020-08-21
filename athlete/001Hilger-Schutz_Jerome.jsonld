@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hilger-Schutz_Jerome.jsonld",
+    "@type": "Athlete",
+    "name": "Hilger-Schutz Jerome",
+    "familyName": "Hilger-Schutz",
+    "givenName": "Jerome",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3886"
+    },
+    "birthDate": "1975-06-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

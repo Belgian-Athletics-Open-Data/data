@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ezzeddine_Adam.jsonld",
+    "@type": "Athlete",
+    "name": "Ezzeddine Adam",
+    "familyName": "Ezzeddine",
+    "givenName": "Adam",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6540"
+    },
+    "birthDate": "2007-07-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

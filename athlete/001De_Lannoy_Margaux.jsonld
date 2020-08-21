@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Lannoy_Margaux.jsonld",
+    "@type": "Athlete",
+    "name": "De Lannoy Margaux",
+    "familyName": "De",
+    "givenName": "Lannoy Margaux",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0277"
+    },
+    "birthDate": "2004-10-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

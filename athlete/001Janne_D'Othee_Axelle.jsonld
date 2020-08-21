@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Janne_D'Othee_Axelle.jsonld",
+    "@type": "Athlete",
+    "name": "Janne D'Othee Axelle",
+    "familyName": "Janne",
+    "givenName": "D'Othee Axelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3228"
+    },
+    "birthDate": "1970-06-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

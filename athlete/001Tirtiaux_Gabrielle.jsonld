@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tirtiaux_Gabrielle.jsonld",
+    "@type": "Athlete",
+    "name": "Tirtiaux Gabrielle",
+    "familyName": "Tirtiaux",
+    "givenName": "Gabrielle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3385"
+    },
+    "birthDate": "2008-04-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

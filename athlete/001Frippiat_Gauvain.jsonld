@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Frippiat_Gauvain.jsonld",
+    "@type": "Athlete",
+    "name": "Frippiat Gauvain",
+    "familyName": "Frippiat",
+    "givenName": "Gauvain",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6825"
+    },
+    "birthDate": "2007-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

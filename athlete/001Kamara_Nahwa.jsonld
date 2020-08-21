@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kamara_Nahwa.jsonld",
+    "@type": "Athlete",
+    "name": "Kamara Nahwa",
+    "familyName": "Kamara",
+    "givenName": "Nahwa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4158"
+    },
+    "birthDate": "2009-05-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

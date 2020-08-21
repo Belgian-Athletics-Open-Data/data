@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SCHMATZ_CHLOE.jsonld",
+    "@type": "Athlete",
+    "name": "SCHMATZ CHLOE",
+    "familyName": "SCHMATZ",
+    "givenName": "CHLOE",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0729"
+    },
+    "birthDate": "2011-04-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

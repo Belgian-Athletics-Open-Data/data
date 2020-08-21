@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kom_Talom_Odile.jsonld",
+    "@type": "Athlete",
+    "name": "Kom Talom Odile",
+    "familyName": "Kom",
+    "givenName": "Talom Odile",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3220"
+    },
+    "birthDate": "1972-12-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

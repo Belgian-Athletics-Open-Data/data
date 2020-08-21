@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delbrouck_Adeline.jsonld",
+    "@type": "Athlete",
+    "name": "Delbrouck Adeline",
+    "familyName": "Delbrouck",
+    "givenName": "Adeline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0540"
+    },
+    "birthDate": "2004-04-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

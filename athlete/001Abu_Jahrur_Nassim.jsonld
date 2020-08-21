@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Abu_Jahrur_Nassim.jsonld",
+    "@type": "Athlete",
+    "name": "Abu Jahrur Nassim",
+    "familyName": "Abu",
+    "givenName": "Jahrur Nassim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0568"
+    },
+    "birthDate": "2005-08-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

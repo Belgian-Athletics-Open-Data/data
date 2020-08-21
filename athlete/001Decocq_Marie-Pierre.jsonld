@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Decocq_Marie-Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Decocq Marie-Pierre",
+    "familyName": "Decocq",
+    "givenName": "Marie-Pierre",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3079"
+    },
+    "birthDate": "1968-03-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

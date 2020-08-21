@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanydegem_Mathieu.jsonld",
+    "@type": "Athlete",
+    "name": "Vanydegem Mathieu",
+    "familyName": "Vanydegem",
+    "givenName": "Mathieu",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2337"
+    },
+    "birthDate": "2002-02-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tabbakh_Yassine.jsonld",
+    "@type": "Athlete",
+    "name": "Tabbakh Yassine",
+    "familyName": "Tabbakh",
+    "givenName": "Yassine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0211"
+    },
+    "birthDate": "2000-08-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

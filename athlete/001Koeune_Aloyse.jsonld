@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Koeune_Aloyse.jsonld",
+    "@type": "Athlete",
+    "name": "Koeune Aloyse",
+    "familyName": "Koeune",
+    "givenName": "Aloyse",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7651"
+    },
+    "birthDate": "2007-04-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

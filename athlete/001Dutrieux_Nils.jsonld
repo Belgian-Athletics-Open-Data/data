@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dutrieux_Nils.jsonld",
+    "@type": "Athlete",
+    "name": "Dutrieux Nils",
+    "familyName": "Dutrieux",
+    "givenName": "Nils",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2835"
+    },
+    "birthDate": "2009-05-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

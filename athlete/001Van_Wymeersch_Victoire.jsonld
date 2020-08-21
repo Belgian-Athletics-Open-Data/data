@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Wymeersch_Victoire.jsonld",
+    "@type": "Athlete",
+    "name": "Van Wymeersch Victoire",
+    "familyName": "Van",
+    "givenName": "Wymeersch Victoire",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7409"
+    },
+    "birthDate": "2006-02-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

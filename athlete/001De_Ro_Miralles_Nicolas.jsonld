@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Ro_Miralles_Nicolas.jsonld",
+    "@type": "Athlete",
+    "name": "De Ro Miralles Nicolas",
+    "familyName": "De",
+    "givenName": "Ro Miralles Nicolas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1745"
+    },
+    "birthDate": "1999-02-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

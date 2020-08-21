@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dubuisson_Geoffrey.jsonld",
+    "@type": "Athlete",
+    "name": "Dubuisson Geoffrey",
+    "familyName": "Dubuisson",
+    "givenName": "Geoffrey",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4948"
+    },
+    "birthDate": "1978-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

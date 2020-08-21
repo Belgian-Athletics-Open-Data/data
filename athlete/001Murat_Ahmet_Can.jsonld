@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Murat_Ahmet_Can.jsonld",
+    "@type": "Athlete",
+    "name": "Murat Ahmet Can",
+    "familyName": "Murat",
+    "givenName": "Ahmet Can",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6539"
+    },
+    "birthDate": "2006-04-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

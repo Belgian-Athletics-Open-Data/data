@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Diez_Andres_Leocadie.jsonld",
+    "@type": "Athlete",
+    "name": "Diez Andres Leocadie",
+    "familyName": "Diez",
+    "givenName": "Andres Leocadie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0861"
+    },
+    "birthDate": "2011-02-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Matondo_Geoffrey.jsonld",
+    "@type": "Athlete",
+    "name": "Matondo Geoffrey",
+    "familyName": "Matondo",
+    "givenName": "Geoffrey",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3639"
+    },
+    "birthDate": "2008-03-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

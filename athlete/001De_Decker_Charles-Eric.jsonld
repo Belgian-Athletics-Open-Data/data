@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Decker_Charles-Eric.jsonld",
+    "@type": "Athlete",
+    "name": "De Decker Charles-Eric",
+    "familyName": "De",
+    "givenName": "Decker Charles-Eric",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0157"
+    },
+    "birthDate": "2001-08-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

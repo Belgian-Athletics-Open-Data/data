@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SARR_Djeynaba.jsonld",
+    "@type": "Athlete",
+    "name": "SARR Djeynaba*",
+    "familyName": "SARR",
+    "givenName": "Djeynaba*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3103"
+    },
+    "birthDate": "2003-12-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

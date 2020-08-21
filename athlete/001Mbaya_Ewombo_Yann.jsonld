@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mbaya_Ewombo_Yann.jsonld",
+    "@type": "Athlete",
+    "name": "Mbaya Ewombo Yann",
+    "familyName": "Mbaya",
+    "givenName": "Ewombo Yann",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0164"
+    },
+    "birthDate": "2005-06-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

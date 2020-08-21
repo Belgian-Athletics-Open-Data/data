@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lepenne_Lorenzo.jsonld",
+    "@type": "Athlete",
+    "name": "Lepenne Lorenzo",
+    "familyName": "Lepenne",
+    "givenName": "Lorenzo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0603"
+    },
+    "birthDate": "2005-07-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

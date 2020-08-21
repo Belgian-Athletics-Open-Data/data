@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001H�binger_Lynn.jsonld",
+    "@type": "Athlete",
+    "name": "H�binger Lynn",
+    "familyName": "H�binger",
+    "givenName": "Lynn",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0004"
+    },
+    "birthDate": "2004-02-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LACE.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cauchie_Rochelle.jsonld",
+    "@type": "Athlete",
+    "name": "Cauchie Rochelle",
+    "familyName": "Cauchie",
+    "givenName": "Rochelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4418"
+    },
+    "birthDate": "2008-10-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Boddewyn_Dumon_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "Boddewyn Dumon Alexandre",
+    "familyName": "Boddewyn",
+    "givenName": "Dumon Alexandre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6457"
+    },
+    "birthDate": "2006-06-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

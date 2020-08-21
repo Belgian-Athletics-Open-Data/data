@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brandenbourg_Michael.jsonld",
+    "@type": "Athlete",
+    "name": "Brandenbourg Michael",
+    "familyName": "Brandenbourg",
+    "givenName": "Michael",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1526"
+    },
+    "birthDate": "1986-10-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

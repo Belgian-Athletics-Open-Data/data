@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Imfeld_Rocco.jsonld",
+    "@type": "Athlete",
+    "name": "Imfeld Rocco*",
+    "familyName": "Imfeld",
+    "givenName": "Rocco*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6566"
+    },
+    "birthDate": "2006-08-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

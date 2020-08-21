@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ouahdani_Abdel_Mounim.jsonld",
+    "@type": "Athlete",
+    "name": "Ouahdani Abdel Mounim*",
+    "familyName": "Ouahdani",
+    "givenName": "Abdel Mounim*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1371"
+    },
+    "birthDate": "1998-04-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

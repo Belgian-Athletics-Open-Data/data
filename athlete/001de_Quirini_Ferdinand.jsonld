@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001de_Quirini_Ferdinand.jsonld",
+    "@type": "Athlete",
+    "name": "de Quirini Ferdinand",
+    "familyName": "de",
+    "givenName": "Quirini Ferdinand",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2479"
+    },
+    "birthDate": "2003-02-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

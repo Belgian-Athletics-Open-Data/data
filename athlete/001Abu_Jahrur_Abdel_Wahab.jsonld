@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Abu_Jahrur_Abdel_Wahab.jsonld",
+    "@type": "Athlete",
+    "name": "Abu Jahrur Abdel Wahab",
+    "familyName": "Abu",
+    "givenName": "Jahrur Abdel Wahab",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3973"
+    },
+    "birthDate": "1979-08-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

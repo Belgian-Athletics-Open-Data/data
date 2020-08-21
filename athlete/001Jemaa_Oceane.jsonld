@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jemaa_Oceane.jsonld",
+    "@type": "Athlete",
+    "name": "Jemaa Oceane",
+    "familyName": "Jemaa",
+    "givenName": "Oceane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7614"
+    },
+    "birthDate": "2006-11-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

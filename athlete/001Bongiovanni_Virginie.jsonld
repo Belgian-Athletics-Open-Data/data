@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bongiovanni_Virginie.jsonld",
+    "@type": "Athlete",
+    "name": "Bongiovanni Virginie",
+    "familyName": "Bongiovanni",
+    "givenName": "Virginie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3313"
+    },
+    "birthDate": "1972-11-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

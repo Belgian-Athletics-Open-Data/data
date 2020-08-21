@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Koumtouji_Njamfa_Qeren.jsonld",
+    "@type": "Athlete",
+    "name": "Koumtouji Njamfa Qeren",
+    "familyName": "Koumtouji",
+    "givenName": "Njamfa Qeren",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7802"
+    },
+    "birthDate": "2007-05-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

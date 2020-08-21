@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Deijonckheere_Maelys.jsonld",
+    "@type": "Athlete",
+    "name": "Deijonckheere Maelys",
+    "familyName": "Deijonckheere",
+    "givenName": "Maelys",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0041"
+    },
+    "birthDate": "2005-11-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

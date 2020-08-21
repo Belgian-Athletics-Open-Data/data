@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Blockerye_Benedicte.jsonld",
+    "@type": "Athlete",
+    "name": "Blockerye Benedicte",
+    "familyName": "Blockerye",
+    "givenName": "Benedicte",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0263"
+    },
+    "birthDate": "2001-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

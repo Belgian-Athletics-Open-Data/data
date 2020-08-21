@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ghyselinck_Rudy.jsonld",
+    "@type": "Athlete",
+    "name": "Ghyselinck Rudy",
+    "familyName": "Ghyselinck",
+    "givenName": "Rudy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4227"
+    },
+    "birthDate": "1967-09-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

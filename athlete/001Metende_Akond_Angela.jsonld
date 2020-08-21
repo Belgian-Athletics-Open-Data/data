@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Metende_Akond_Angela.jsonld",
+    "@type": "Athlete",
+    "name": "Metende Akond Angela",
+    "familyName": "Metende",
+    "givenName": "Akond Angela",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0178"
+    },
+    "birthDate": "2000-12-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Florescu_Dan_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "Florescu Dan Alexandre",
+    "familyName": "Florescu",
+    "givenName": "Dan Alexandre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1393"
+    },
+    "birthDate": "1992-12-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

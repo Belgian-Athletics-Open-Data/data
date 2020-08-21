@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanhoye_Pascal.jsonld",
+    "@type": "Athlete",
+    "name": "Vanhoye Pascal",
+    "familyName": "Vanhoye",
+    "givenName": "Pascal",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4039"
+    },
+    "birthDate": "1964-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

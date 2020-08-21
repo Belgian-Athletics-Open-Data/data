@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Monfroy_Buffard_Maeva.jsonld",
+    "@type": "Athlete",
+    "name": "Monfroy Buffard Maeva",
+    "familyName": "Monfroy",
+    "givenName": "Buffard Maeva",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3613"
+    },
+    "birthDate": "2008-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

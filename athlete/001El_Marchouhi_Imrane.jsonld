@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Marchouhi_Imrane.jsonld",
+    "@type": "Athlete",
+    "name": "El Marchouhi Imrane",
+    "familyName": "El",
+    "givenName": "Marchouhi Imrane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2455"
+    },
+    "birthDate": "2003-03-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

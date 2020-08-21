@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001TOUL_HAMZA.jsonld",
+    "@type": "Athlete",
+    "name": "TOUL HAMZA",
+    "familyName": "TOUL",
+    "givenName": "HAMZA",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1604"
+    },
+    "birthDate": "1986-11-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

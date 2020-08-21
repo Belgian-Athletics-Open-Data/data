@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Hees_Jean-Francois.jsonld",
+    "@type": "Athlete",
+    "name": "Van Hees Jean-Francois",
+    "familyName": "Van",
+    "givenName": "Hees Jean-Francois",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0104"
+    },
+    "birthDate": "2005-04-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

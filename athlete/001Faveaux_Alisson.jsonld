@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Faveaux_Alisson.jsonld",
+    "@type": "Athlete",
+    "name": "Faveaux Alisson",
+    "familyName": "Faveaux",
+    "givenName": "Alisson",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1168"
+    },
+    "birthDate": "1990-05-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

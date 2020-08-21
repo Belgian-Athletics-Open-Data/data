@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mutlen_Sheryne.jsonld",
+    "@type": "Athlete",
+    "name": "Mutlen Sheryne*",
+    "familyName": "Mutlen",
+    "givenName": "Sheryne*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4382"
+    },
+    "birthDate": "2008-01-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

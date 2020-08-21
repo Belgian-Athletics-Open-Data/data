@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Perez_Montero_Ariadna.jsonld",
+    "@type": "Athlete",
+    "name": "Perez Montero Ariadna",
+    "familyName": "Perez",
+    "givenName": "Montero Ariadna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2852"
+    },
+    "birthDate": "2003-07-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

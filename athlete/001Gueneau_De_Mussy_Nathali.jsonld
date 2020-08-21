@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gueneau_De_Mussy_Nathali.jsonld",
+    "@type": "Athlete",
+    "name": "Gueneau De Mussy Nathali*",
+    "familyName": "Gueneau",
+    "givenName": "De Mussy Nathali*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3411"
+    },
+    "birthDate": "2009-02-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

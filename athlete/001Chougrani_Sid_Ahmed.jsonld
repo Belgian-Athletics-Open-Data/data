@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chougrani_Sid_Ahmed.jsonld",
+    "@type": "Athlete",
+    "name": "Chougrani Sid Ahmed*",
+    "familyName": "Chougrani",
+    "givenName": "Sid Ahmed*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4550"
+    },
+    "birthDate": "1968-08-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ULA.jsonld"
+        }
+    ]
+}

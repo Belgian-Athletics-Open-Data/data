@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Torresin_Hawi-Lena.jsonld",
+    "@type": "Athlete",
+    "name": "Torresin Hawi-Lena",
+    "familyName": "Torresin",
+    "givenName": "Hawi-Lena",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7362"
+    },
+    "birthDate": "2007-11-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

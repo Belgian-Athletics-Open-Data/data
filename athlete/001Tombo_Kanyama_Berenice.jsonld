@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tombo_Kanyama_Berenice.jsonld",
+    "@type": "Athlete",
+    "name": "Tombo Kanyama Berenice",
+    "familyName": "Tombo",
+    "givenName": "Kanyama Berenice",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1424"
+    },
+    "birthDate": "1997-10-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

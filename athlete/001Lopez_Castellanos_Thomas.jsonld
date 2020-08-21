@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lopez_Castellanos_Thomas.jsonld",
+    "@type": "Athlete",
+    "name": "Lopez Castellanos Thomas",
+    "familyName": "Lopez",
+    "givenName": "Castellanos Thomas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2070"
+    },
+    "birthDate": "1991-07-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OSGA.jsonld"
+        }
+    ]
+}

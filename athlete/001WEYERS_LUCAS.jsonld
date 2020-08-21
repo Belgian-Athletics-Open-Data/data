@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001WEYERS_LUCAS.jsonld",
+    "@type": "Athlete",
+    "name": "WEYERS LUCAS",
+    "familyName": "WEYERS",
+    "givenName": "LUCAS",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3067"
+    },
+    "birthDate": "2008-11-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

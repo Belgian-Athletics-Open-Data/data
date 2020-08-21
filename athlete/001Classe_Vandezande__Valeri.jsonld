@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Classe_Vandezande__Valeri.jsonld",
+    "@type": "Athlete",
+    "name": "Classe Vandezande  Valeri",
+    "familyName": "Classe",
+    "givenName": "Vandezande  Valeri",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3027"
+    },
+    "birthDate": "1974-08-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

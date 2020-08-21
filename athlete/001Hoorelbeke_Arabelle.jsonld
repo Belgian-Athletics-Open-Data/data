@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hoorelbeke_Arabelle.jsonld",
+    "@type": "Athlete",
+    "name": "Hoorelbeke Arabelle",
+    "familyName": "Hoorelbeke",
+    "givenName": "Arabelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3366"
+    },
+    "birthDate": "1968-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

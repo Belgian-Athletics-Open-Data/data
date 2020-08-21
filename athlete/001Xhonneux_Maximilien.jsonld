@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Xhonneux_Maximilien.jsonld",
+    "@type": "Athlete",
+    "name": "Xhonneux Maximilien",
+    "familyName": "Xhonneux",
+    "givenName": "Maximilien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3494"
+    },
+    "birthDate": "2009-06-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

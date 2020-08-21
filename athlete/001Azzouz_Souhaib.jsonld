@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Azzouz_Souhaib.jsonld",
+    "@type": "Athlete",
+    "name": "Azzouz Souhaib",
+    "familyName": "Azzouz",
+    "givenName": "Souhaib",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1568"
+    },
+    "birthDate": "1998-11-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

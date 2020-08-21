@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001FRANCOIS_VALENTIN.jsonld",
+    "@type": "Athlete",
+    "name": "FRANCOIS VALENTIN",
+    "familyName": "FRANCOIS",
+    "givenName": "VALENTIN",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0319"
+    },
+    "birthDate": "2004-07-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

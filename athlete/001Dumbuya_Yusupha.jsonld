@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dumbuya_Yusupha.jsonld",
+    "@type": "Athlete",
+    "name": "Dumbuya Yusupha",
+    "familyName": "Dumbuya",
+    "givenName": "Yusupha",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2092"
+    },
+    "birthDate": "1997-03-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

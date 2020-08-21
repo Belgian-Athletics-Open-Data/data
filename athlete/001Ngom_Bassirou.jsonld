@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ngom_Bassirou.jsonld",
+    "@type": "Athlete",
+    "name": "Ngom Bassirou*",
+    "familyName": "Ngom",
+    "givenName": "Bassirou*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3843"
+    },
+    "birthDate": "2008-11-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

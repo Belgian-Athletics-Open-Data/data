@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lecoeuche_Ionela.jsonld",
+    "@type": "Athlete",
+    "name": "Lecoeuche Ionela",
+    "familyName": "Lecoeuche",
+    "givenName": "Ionela",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0019"
+    },
+    "birthDate": "2004-03-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

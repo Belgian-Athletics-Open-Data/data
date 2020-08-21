@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Antenucci_Sandra.jsonld",
+    "@type": "Athlete",
+    "name": "Antenucci Sandra",
+    "familyName": "Antenucci",
+    "givenName": "Sandra",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2974"
+    },
+    "birthDate": "1981-05-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

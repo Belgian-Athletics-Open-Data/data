@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BROHEE_Lucien.jsonld",
+    "@type": "Athlete",
+    "name": "BROHEE Lucien",
+    "familyName": "BROHEE",
+    "givenName": "Lucien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2601"
+    },
+    "birthDate": "2009-01-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

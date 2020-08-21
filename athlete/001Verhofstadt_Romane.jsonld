@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Verhofstadt_Romane.jsonld",
+    "@type": "Athlete",
+    "name": "Verhofstadt Romane",
+    "familyName": "Verhofstadt",
+    "givenName": "Romane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3800"
+    },
+    "birthDate": "2008-10-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACTE.jsonld"
+        }
+    ]
+}

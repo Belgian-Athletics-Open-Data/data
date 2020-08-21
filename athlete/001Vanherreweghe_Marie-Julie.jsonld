@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanherreweghe_Marie-Julie.jsonld",
+    "@type": "Athlete",
+    "name": "Vanherreweghe Marie-Julie",
+    "familyName": "Vanherreweghe",
+    "givenName": "Marie-Julie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1019"
+    },
+    "birthDate": "1996-05-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

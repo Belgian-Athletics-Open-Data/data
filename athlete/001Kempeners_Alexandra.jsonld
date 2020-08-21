@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kempeners_Alexandra.jsonld",
+    "@type": "Athlete",
+    "name": "Kempeners Alexandra",
+    "familyName": "Kempeners",
+    "givenName": "Alexandra",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2532"
+    },
+    "birthDate": "2002-03-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

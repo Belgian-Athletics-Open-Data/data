@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Beck_Geoffrey.jsonld",
+    "@type": "Athlete",
+    "name": "Beck Geoffrey",
+    "familyName": "Beck",
+    "givenName": "Geoffrey",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4545"
+    },
+    "birthDate": "1974-11-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

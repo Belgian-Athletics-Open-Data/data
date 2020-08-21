@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001VANRANST_MATHIAS.jsonld",
+    "@type": "Athlete",
+    "name": "VANRANST MATHIAS",
+    "familyName": "VANRANST",
+    "givenName": "MATHIAS",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2599"
+    },
+    "birthDate": "2003-03-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

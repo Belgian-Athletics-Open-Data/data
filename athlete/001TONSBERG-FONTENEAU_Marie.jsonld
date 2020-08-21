@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001TONSBERG-FONTENEAU_Marie.jsonld",
+    "@type": "Athlete",
+    "name": "TONSBERG-FONTENEAU Marie*",
+    "familyName": "TONSBERG-FONTENEAU",
+    "givenName": "Marie*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6905"
+    },
+    "birthDate": "2007-03-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

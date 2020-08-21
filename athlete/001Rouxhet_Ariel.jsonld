@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rouxhet_Ariel.jsonld",
+    "@type": "Athlete",
+    "name": "Rouxhet Ariel",
+    "familyName": "Rouxhet",
+    "givenName": "Ariel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3264"
+    },
+    "birthDate": "2009-03-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

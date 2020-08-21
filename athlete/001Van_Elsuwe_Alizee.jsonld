@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Elsuwe_Alizee.jsonld",
+    "@type": "Athlete",
+    "name": "Van Elsuwe Alizee",
+    "familyName": "Van",
+    "givenName": "Elsuwe Alizee",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0433"
+    },
+    "birthDate": "2011-05-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

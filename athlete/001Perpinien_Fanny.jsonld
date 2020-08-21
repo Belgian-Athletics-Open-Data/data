@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Perpinien_Fanny.jsonld",
+    "@type": "Athlete",
+    "name": "Perpinien Fanny",
+    "familyName": "Perpinien",
+    "givenName": "Fanny",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7675"
+    },
+    "birthDate": "2006-11-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SCHOEMANS_Coralie.jsonld",
+    "@type": "Athlete",
+    "name": "SCHOEMANS Coralie",
+    "familyName": "SCHOEMANS",
+    "givenName": "Coralie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2502"
+    },
+    "birthDate": "2002-06-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

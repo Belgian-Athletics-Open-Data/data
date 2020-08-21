@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cabo_Reguera_Francisco.jsonld",
+    "@type": "Athlete",
+    "name": "Cabo Reguera Francisco*",
+    "familyName": "Cabo",
+    "givenName": "Reguera Francisco*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4818"
+    },
+    "birthDate": "1971-02-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOULAHRIR_Mourad.jsonld",
+    "@type": "Athlete",
+    "name": "BOULAHRIR Mourad",
+    "familyName": "BOULAHRIR",
+    "givenName": "Mourad",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2646"
+    },
+    "birthDate": "2002-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

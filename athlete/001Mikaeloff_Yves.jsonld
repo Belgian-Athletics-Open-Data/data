@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mikaeloff_Yves.jsonld",
+    "@type": "Athlete",
+    "name": "Mikaeloff Yves*",
+    "familyName": "Mikaeloff",
+    "givenName": "Yves*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4516"
+    },
+    "birthDate": "1939-09-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

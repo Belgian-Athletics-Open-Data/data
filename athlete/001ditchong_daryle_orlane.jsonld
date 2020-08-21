@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001ditchong_daryle_orlane.jsonld",
+    "@type": "Athlete",
+    "name": "ditchong daryle orlane",
+    "familyName": "ditchong",
+    "givenName": "daryle orlane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3115"
+    },
+    "birthDate": "2003-08-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

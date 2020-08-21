@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fiedler_Kerstin.jsonld",
+    "@type": "Athlete",
+    "name": "Fiedler Kerstin*",
+    "familyName": "Fiedler",
+    "givenName": "Kerstin*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2893"
+    },
+    "birthDate": "1973-03-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

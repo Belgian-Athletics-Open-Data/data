@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sadin_Gwenaelle.jsonld",
+    "@type": "Athlete",
+    "name": "Sadin Gwenaelle",
+    "familyName": "Sadin",
+    "givenName": "Gwenaelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3433"
+    },
+    "birthDate": "1977-07-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

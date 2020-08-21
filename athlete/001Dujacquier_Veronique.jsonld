@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dujacquier_Veronique.jsonld",
+    "@type": "Athlete",
+    "name": "Dujacquier Veronique",
+    "familyName": "Dujacquier",
+    "givenName": "Veronique",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3428"
+    },
+    "birthDate": "1971-03-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

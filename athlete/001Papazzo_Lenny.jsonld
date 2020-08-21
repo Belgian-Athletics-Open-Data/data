@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Papazzo_Lenny.jsonld",
+    "@type": "Athlete",
+    "name": "Papazzo Lenny",
+    "familyName": "Papazzo",
+    "givenName": "Lenny",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6465"
+    },
+    "birthDate": "2007-04-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

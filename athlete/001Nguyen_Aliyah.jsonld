@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nguyen_Aliyah.jsonld",
+    "@type": "Athlete",
+    "name": "Nguyen Aliyah",
+    "familyName": "Nguyen",
+    "givenName": "Aliyah",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0824"
+    },
+    "birthDate": "2011-09-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rijckaert_Fabian.jsonld",
+    "@type": "Athlete",
+    "name": "Rijckaert Fabian",
+    "familyName": "Rijckaert",
+    "givenName": "Fabian",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4719"
+    },
+    "birthDate": "1970-10-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

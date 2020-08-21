@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DE_RIPAINSEL_Youri.jsonld",
+    "@type": "Athlete",
+    "name": "DE RIPAINSEL Youri",
+    "familyName": "DE",
+    "givenName": "RIPAINSEL Youri",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3641"
+    },
+    "birthDate": "2008-02-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

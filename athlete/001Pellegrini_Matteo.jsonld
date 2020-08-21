@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pellegrini_Matteo.jsonld",
+    "@type": "Athlete",
+    "name": "Pellegrini Matteo",
+    "familyName": "Pellegrini",
+    "givenName": "Matteo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5888"
+    },
+    "birthDate": "2007-12-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

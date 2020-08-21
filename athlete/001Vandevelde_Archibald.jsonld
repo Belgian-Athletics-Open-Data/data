@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vandevelde_Archibald.jsonld",
+    "@type": "Athlete",
+    "name": "Vandevelde Archibald",
+    "familyName": "Vandevelde",
+    "givenName": "Archibald",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2812"
+    },
+    "birthDate": "2008-09-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

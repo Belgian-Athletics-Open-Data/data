@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rizzotto_Anthony.jsonld",
+    "@type": "Athlete",
+    "name": "Rizzotto Anthony",
+    "familyName": "Rizzotto",
+    "givenName": "Anthony",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3846"
+    },
+    "birthDate": "2008-06-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DUBOURG_Orlane.jsonld",
+    "@type": "Athlete",
+    "name": "DUBOURG Orlane",
+    "familyName": "DUBOURG",
+    "givenName": "Orlane",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0794"
+    },
+    "birthDate": "2010-12-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

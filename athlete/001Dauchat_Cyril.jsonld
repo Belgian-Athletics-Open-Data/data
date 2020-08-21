@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dauchat_Cyril.jsonld",
+    "@type": "Athlete",
+    "name": "Dauchat Cyril",
+    "familyName": "Dauchat",
+    "givenName": "Cyril",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6888"
+    },
+    "birthDate": "2006-01-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Goffinet_Aurelien.jsonld",
+    "@type": "Athlete",
+    "name": "Goffinet Aurelien",
+    "familyName": "Goffinet",
+    "givenName": "Aurelien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0521"
+    },
+    "birthDate": "2005-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

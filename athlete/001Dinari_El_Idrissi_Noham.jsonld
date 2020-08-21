@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dinari_El_Idrissi_Noham.jsonld",
+    "@type": "Athlete",
+    "name": "Dinari El Idrissi Noham",
+    "familyName": "Dinari",
+    "givenName": "El Idrissi Noham",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2653"
+    },
+    "birthDate": "2009-11-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

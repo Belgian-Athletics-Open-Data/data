@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hodson-Brain_Roisin.jsonld",
+    "@type": "Athlete",
+    "name": "Hodson-Brain Roisin",
+    "familyName": "Hodson-Brain",
+    "givenName": "Roisin",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0751"
+    },
+    "birthDate": "2005-01-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

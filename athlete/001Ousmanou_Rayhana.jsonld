@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ousmanou_Rayhana.jsonld",
+    "@type": "Athlete",
+    "name": "Ousmanou Rayhana",
+    "familyName": "Ousmanou",
+    "givenName": "Rayhana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7538"
+    },
+    "birthDate": "2007-11-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

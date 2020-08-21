@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SANTOS_ALFAGEME_Paula.jsonld",
+    "@type": "Athlete",
+    "name": "SANTOS ALFAGEME Paula*",
+    "familyName": "SANTOS",
+    "givenName": "ALFAGEME Paula*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1471"
+    },
+    "birthDate": "1998-08-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

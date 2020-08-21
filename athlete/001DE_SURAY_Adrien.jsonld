@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DE_SURAY_Adrien.jsonld",
+    "@type": "Athlete",
+    "name": "DE SURAY Adrien",
+    "familyName": "DE",
+    "givenName": "SURAY Adrien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1922"
+    },
+    "birthDate": "1998-11-04",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLEU.jsonld"
+        }
+    ]
+}

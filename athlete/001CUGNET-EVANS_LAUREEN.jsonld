@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CUGNET-EVANS_LAUREEN.jsonld",
+    "@type": "Athlete",
+    "name": "CUGNET-EVANS LAUREEN*",
+    "familyName": "CUGNET-EVANS",
+    "givenName": "LAUREEN*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0243"
+    },
+    "birthDate": "2000-04-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001GODFRIAUX_REMY.jsonld",
+    "@type": "Athlete",
+    "name": "GODFRIAUX REMY",
+    "familyName": "GODFRIAUX",
+    "givenName": "REMY",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1835"
+    },
+    "birthDate": "1992-03-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

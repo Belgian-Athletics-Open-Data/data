@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vander_Haegen_Loic.jsonld",
+    "@type": "Athlete",
+    "name": "Vander Haegen Loic",
+    "familyName": "Vander",
+    "givenName": "Haegen Loic",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0336"
+    },
+    "birthDate": "2004-04-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

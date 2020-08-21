@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jidovtseff_Boris.jsonld",
+    "@type": "Athlete",
+    "name": "Jidovtseff Boris",
+    "familyName": "Jidovtseff",
+    "givenName": "Boris",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4592"
+    },
+    "birthDate": "1977-11-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

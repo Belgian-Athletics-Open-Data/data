@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ouabi_Abdelhak.jsonld",
+    "@type": "Athlete",
+    "name": "Ouabi Abdelhak*",
+    "familyName": "Ouabi",
+    "givenName": "Abdelhak*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0393"
+    },
+    "birthDate": "2000-12-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

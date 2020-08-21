@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nutte_Jean-Baptiste.jsonld",
+    "@type": "Athlete",
+    "name": "Nutte Jean-Baptiste",
+    "familyName": "Nutte",
+    "givenName": "Jean-Baptiste",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1552"
+    },
+    "birthDate": "1998-11-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOCQUET_Sylvain.jsonld",
+    "@type": "Athlete",
+    "name": "BOCQUET Sylvain*",
+    "familyName": "BOCQUET",
+    "givenName": "Sylvain*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4758"
+    },
+    "birthDate": "1982-02-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

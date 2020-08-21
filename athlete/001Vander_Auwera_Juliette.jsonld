@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vander_Auwera_Juliette.jsonld",
+    "@type": "Athlete",
+    "name": "Vander Auwera Juliette",
+    "familyName": "Vander",
+    "givenName": "Auwera Juliette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0318"
+    },
+    "birthDate": "2010-02-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

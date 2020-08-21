@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Daigmont_Ophelie.jsonld",
+    "@type": "Athlete",
+    "name": "Daigmont Ophelie",
+    "familyName": "Daigmont",
+    "givenName": "Ophelie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0120"
+    },
+    "birthDate": "2000-09-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

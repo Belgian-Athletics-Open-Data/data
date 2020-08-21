@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Oussey_Kemaal.jsonld",
+    "@type": "Athlete",
+    "name": "Oussey Kemaal",
+    "familyName": "Oussey",
+    "givenName": "Kemaal",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0056"
+    },
+    "birthDate": "2005-05-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USBW.jsonld"
+        }
+    ]
+}

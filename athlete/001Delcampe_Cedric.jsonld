@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delcampe_Cedric.jsonld",
+    "@type": "Athlete",
+    "name": "Delcampe Cedric",
+    "familyName": "Delcampe",
+    "givenName": "Cedric",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5121"
+    },
+    "birthDate": "1981-06-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

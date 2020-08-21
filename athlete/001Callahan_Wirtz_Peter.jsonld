@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Callahan_Wirtz_Peter.jsonld",
+    "@type": "Athlete",
+    "name": "Callahan Wirtz Peter",
+    "familyName": "Callahan",
+    "givenName": "Wirtz Peter",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1703"
+    },
+    "birthDate": "1991-06-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001luzzardi_tizziana.jsonld",
+    "@type": "Athlete",
+    "name": "luzzardi tizziana",
+    "familyName": "luzzardi",
+    "givenName": "tizziana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0721"
+    },
+    "birthDate": "2004-01-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

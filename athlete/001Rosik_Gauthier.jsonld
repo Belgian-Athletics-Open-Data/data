@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rosik_Gauthier.jsonld",
+    "@type": "Athlete",
+    "name": "Rosik Gauthier",
+    "familyName": "Rosik",
+    "givenName": "Gauthier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0016"
+    },
+    "birthDate": "2001-08-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

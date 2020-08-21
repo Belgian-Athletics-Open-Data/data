@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001RAUDNASK_EVA_MARIA.jsonld",
+    "@type": "Athlete",
+    "name": "RAUDNASK EVA MARIA*",
+    "familyName": "RAUDNASK",
+    "givenName": "EVA MARIA*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0709"
+    },
+    "birthDate": "2005-08-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

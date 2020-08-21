@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kabamba_Alexandra.jsonld",
+    "@type": "Athlete",
+    "name": "Kabamba Alexandra",
+    "familyName": "Kabamba",
+    "givenName": "Alexandra",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0927"
+    },
+    "birthDate": "2004-02-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LACE.jsonld"
+        }
+    ]
+}

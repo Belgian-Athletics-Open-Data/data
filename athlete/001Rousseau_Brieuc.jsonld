@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Rousseau_Brieuc.jsonld",
+    "@type": "Athlete",
+    "name": "Rousseau Brieuc",
+    "familyName": "Rousseau",
+    "givenName": "Brieuc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3275"
+    },
+    "birthDate": "2008-06-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

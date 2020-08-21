@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Vrye_Bella-June.jsonld",
+    "@type": "Athlete",
+    "name": "De Vrye Bella-June",
+    "familyName": "De",
+    "givenName": "Vrye Bella-June",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0655"
+    },
+    "birthDate": "2010-03-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Jeanne_Charlotte.jsonld",
+    "@type": "Athlete",
+    "name": "Jeanne Charlotte*",
+    "familyName": "Jeanne",
+    "givenName": "Charlotte*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1277"
+    },
+    "birthDate": "1995-04-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

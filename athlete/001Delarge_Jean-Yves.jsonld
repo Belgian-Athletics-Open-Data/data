@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Delarge_Jean-Yves.jsonld",
+    "@type": "Athlete",
+    "name": "Delarge Jean-Yves",
+    "familyName": "Delarge",
+    "givenName": "Jean-Yves",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3996"
+    },
+    "birthDate": "1971-09-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

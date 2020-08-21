@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kela_Fay_Van_Angela.jsonld",
+    "@type": "Athlete",
+    "name": "Kela Fay Van Angela",
+    "familyName": "Kela",
+    "givenName": "Fay Van Angela",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0865"
+    },
+    "birthDate": "2004-08-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

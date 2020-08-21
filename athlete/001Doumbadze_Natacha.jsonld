@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Doumbadze_Natacha.jsonld",
+    "@type": "Athlete",
+    "name": "Doumbadze Natacha",
+    "familyName": "Doumbadze",
+    "givenName": "Natacha",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3108"
+    },
+    "birthDate": "1971-01-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

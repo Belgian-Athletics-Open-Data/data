@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chauveheid_Theotime.jsonld",
+    "@type": "Athlete",
+    "name": "Chauveheid Theotime",
+    "familyName": "Chauveheid",
+    "givenName": "Theotime",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2783"
+    },
+    "birthDate": "2009-01-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Oldenhove_Brieuc.jsonld",
+    "@type": "Athlete",
+    "name": "Oldenhove Brieuc",
+    "familyName": "Oldenhove",
+    "givenName": "Brieuc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6437"
+    },
+    "birthDate": "2007-12-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

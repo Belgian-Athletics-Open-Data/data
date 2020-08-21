@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gengoux_Jacqueline.jsonld",
+    "@type": "Athlete",
+    "name": "Gengoux Jacqueline",
+    "familyName": "Gengoux",
+    "givenName": "Jacqueline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3004"
+    },
+    "birthDate": "1960-06-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kevers_Leclercq_Jean_Fran.jsonld",
+    "@type": "Athlete",
+    "name": "Kevers Leclercq Jean Fran",
+    "familyName": "Kevers",
+    "givenName": "Leclercq Jean Fran",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4079"
+    },
+    "birthDate": "1946-10-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001ROUSSELLE_Esther.jsonld",
+    "@type": "Athlete",
+    "name": "ROUSSELLE Esther",
+    "familyName": "ROUSSELLE",
+    "givenName": "Esther",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0316"
+    },
+    "birthDate": "2011-05-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

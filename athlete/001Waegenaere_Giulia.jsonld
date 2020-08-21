@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Waegenaere_Giulia.jsonld",
+    "@type": "Athlete",
+    "name": "Waegenaere Giulia",
+    "familyName": "Waegenaere",
+    "givenName": "Giulia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7592"
+    },
+    "birthDate": "2006-09-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

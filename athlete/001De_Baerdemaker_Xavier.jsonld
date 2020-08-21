@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Baerdemaker_Xavier.jsonld",
+    "@type": "Athlete",
+    "name": "De Baerdemaker Xavier",
+    "familyName": "De",
+    "givenName": "Baerdemaker Xavier",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4243"
+    },
+    "birthDate": "1981-01-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SMAC.jsonld"
+        }
+    ]
+}

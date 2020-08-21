@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wittevrongel_Emeline.jsonld",
+    "@type": "Athlete",
+    "name": "Wittevrongel Emeline*",
+    "familyName": "Wittevrongel",
+    "givenName": "Emeline*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0281"
+    },
+    "birthDate": "2001-12-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ech_Chykhy_Anas.jsonld",
+    "@type": "Athlete",
+    "name": "Ech Chykhy Anas",
+    "familyName": "Ech",
+    "givenName": "Chykhy Anas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2998"
+    },
+    "birthDate": "2008-04-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

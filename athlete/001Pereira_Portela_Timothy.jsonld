@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pereira_Portela_Timothy.jsonld",
+    "@type": "Athlete",
+    "name": "Pereira Portela Timothy",
+    "familyName": "Pereira",
+    "givenName": "Portela Timothy",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0225"
+    },
+    "birthDate": "2001-08-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

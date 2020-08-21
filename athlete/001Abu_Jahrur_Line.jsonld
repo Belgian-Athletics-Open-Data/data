@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Abu_Jahrur_Line.jsonld",
+    "@type": "Athlete",
+    "name": "Abu Jahrur Line",
+    "familyName": "Abu",
+    "givenName": "Jahrur Line",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6992"
+    },
+    "birthDate": "2006-03-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

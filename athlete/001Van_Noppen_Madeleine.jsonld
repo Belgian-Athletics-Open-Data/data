@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Noppen_Madeleine.jsonld",
+    "@type": "Athlete",
+    "name": "Van Noppen Madeleine",
+    "familyName": "Van",
+    "givenName": "Noppen Madeleine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0162"
+    },
+    "birthDate": "2001-12-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

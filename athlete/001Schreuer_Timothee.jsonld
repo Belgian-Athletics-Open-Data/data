@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Schreuer_Timothee.jsonld",
+    "@type": "Athlete",
+    "name": "Schreuer Timothee",
+    "familyName": "Schreuer",
+    "givenName": "Timothee",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0167"
+    },
+    "birthDate": "2005-03-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

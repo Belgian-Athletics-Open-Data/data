@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_den_Bosch_Myriam.jsonld",
+    "@type": "Athlete",
+    "name": "Van den Bosch Myriam",
+    "familyName": "Van",
+    "givenName": "den Bosch Myriam",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3081"
+    },
+    "birthDate": "1962-01-02",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

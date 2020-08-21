@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001de_CALLATAY_Santiago.jsonld",
+    "@type": "Athlete",
+    "name": "de CALLATAY Santiago",
+    "familyName": "de",
+    "givenName": "CALLATAY Santiago",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3427"
+    },
+    "birthDate": "2009-04-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

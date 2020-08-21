@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Geronnez-Lecomte_Madeline.jsonld",
+    "@type": "Athlete",
+    "name": "Geronnez-Lecomte Madeline",
+    "familyName": "Geronnez-Lecomte",
+    "givenName": "Madeline",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3095"
+    },
+    "birthDate": "2002-11-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

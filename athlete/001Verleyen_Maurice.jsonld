@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Verleyen_Maurice.jsonld",
+    "@type": "Athlete",
+    "name": "Verleyen Maurice",
+    "familyName": "Verleyen",
+    "givenName": "Maurice",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6381"
+    },
+    "birthDate": "2007-08-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

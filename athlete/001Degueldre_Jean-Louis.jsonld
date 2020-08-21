@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Degueldre_Jean-Louis.jsonld",
+    "@type": "Athlete",
+    "name": "Degueldre Jean-Louis",
+    "familyName": "Degueldre",
+    "givenName": "Jean-Louis",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4465"
+    },
+    "birthDate": "1963-11-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HF.jsonld"
+        }
+    ]
+}

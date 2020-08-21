@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Portugaels_Jean-Sebastien.jsonld",
+    "@type": "Athlete",
+    "name": "Portugaels Jean-Sebastien",
+    "familyName": "Portugaels",
+    "givenName": "Jean-Sebastien",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6272"
+    },
+    "birthDate": "2006-11-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

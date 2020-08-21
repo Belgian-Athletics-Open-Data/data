@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Verhelst_Jean-Michel.jsonld",
+    "@type": "Athlete",
+    "name": "Verhelst Jean-Michel",
+    "familyName": "Verhelst",
+    "givenName": "Jean-Michel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4897"
+    },
+    "birthDate": "1982-10-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wilmotte_Nancy.jsonld",
+    "@type": "Athlete",
+    "name": "Wilmotte Nancy",
+    "familyName": "Wilmotte",
+    "givenName": "Nancy",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2940"
+    },
+    "birthDate": "1972-06-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

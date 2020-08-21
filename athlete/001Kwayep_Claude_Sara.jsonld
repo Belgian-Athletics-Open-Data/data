@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kwayep_Claude_Sara.jsonld",
+    "@type": "Athlete",
+    "name": "Kwayep Claude Sara*",
+    "familyName": "Kwayep",
+    "givenName": "Claude Sara*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3178"
+    },
+    "birthDate": "2002-03-13",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

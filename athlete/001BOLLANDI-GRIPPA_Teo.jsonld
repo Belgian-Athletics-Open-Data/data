@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001BOLLANDI-GRIPPA_Teo.jsonld",
+    "@type": "Athlete",
+    "name": "BOLLANDI-GRIPPA Teo",
+    "familyName": "BOLLANDI-GRIPPA",
+    "givenName": "Teo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6620"
+    },
+    "birthDate": "2006-06-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

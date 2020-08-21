@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bellens_Jean-Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Bellens Jean-Marie",
+    "familyName": "Bellens",
+    "givenName": "Jean-Marie",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4420"
+    },
+    "birthDate": "1954-02-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

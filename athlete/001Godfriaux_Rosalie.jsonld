@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Godfriaux_Rosalie.jsonld",
+    "@type": "Athlete",
+    "name": "Godfriaux Rosalie",
+    "familyName": "Godfriaux",
+    "givenName": "Rosalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7261"
+    },
+    "birthDate": "2007-09-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

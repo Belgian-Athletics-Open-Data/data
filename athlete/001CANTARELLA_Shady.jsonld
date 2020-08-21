@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CANTARELLA_Shady.jsonld",
+    "@type": "Athlete",
+    "name": "CANTARELLA Shady",
+    "familyName": "CANTARELLA",
+    "givenName": "Shady",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1649"
+    },
+    "birthDate": "1992-03-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

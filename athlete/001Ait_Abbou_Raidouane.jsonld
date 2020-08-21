@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ait_Abbou_Raidouane.jsonld",
+    "@type": "Athlete",
+    "name": "Ait Abbou Raidouane",
+    "familyName": "Ait",
+    "givenName": "Abbou Raidouane",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3397"
+    },
+    "birthDate": "2008-02-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

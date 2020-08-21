@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Meerbeeck_Rosalie.jsonld",
+    "@type": "Athlete",
+    "name": "Van Meerbeeck Rosalie",
+    "familyName": "Van",
+    "givenName": "Meerbeeck Rosalie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0645"
+    },
+    "birthDate": "2011-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

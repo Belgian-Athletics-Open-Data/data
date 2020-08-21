@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vansteenacker_Dylan.jsonld",
+    "@type": "Athlete",
+    "name": "Vansteenacker Dylan",
+    "familyName": "Vansteenacker",
+    "givenName": "Dylan",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1635"
+    },
+    "birthDate": "1995-12-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RSCA.jsonld"
+        }
+    ]
+}

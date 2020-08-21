@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lalloyer_Aaron.jsonld",
+    "@type": "Athlete",
+    "name": "Lalloyer Aaron",
+    "familyName": "Lalloyer",
+    "givenName": "Aaron",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2740"
+    },
+    "birthDate": "2009-08-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

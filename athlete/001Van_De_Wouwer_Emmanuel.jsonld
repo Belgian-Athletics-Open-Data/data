@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_De_Wouwer_Emmanuel.jsonld",
+    "@type": "Athlete",
+    "name": "Van De Wouwer Emmanuel",
+    "familyName": "Van",
+    "givenName": "De Wouwer Emmanuel",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3875"
+    },
+    "birthDate": "1973-09-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Larcher_Aymeric.jsonld",
+    "@type": "Athlete",
+    "name": "Larcher Aymeric*",
+    "familyName": "Larcher",
+    "givenName": "Aymeric*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1587"
+    },
+    "birthDate": "1998-02-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

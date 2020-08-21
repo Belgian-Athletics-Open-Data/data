@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Manuel_Duarte_Ivan.jsonld",
+    "@type": "Athlete",
+    "name": "Manuel Duarte Ivan*",
+    "familyName": "Manuel",
+    "givenName": "Duarte Ivan*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2608"
+    },
+    "birthDate": "2002-02-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

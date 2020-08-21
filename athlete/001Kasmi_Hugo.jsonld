@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kasmi_Hugo.jsonld",
+    "@type": "Athlete",
+    "name": "Kasmi Hugo*",
+    "familyName": "Kasmi",
+    "givenName": "Hugo*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0644"
+    },
+    "birthDate": "2004-10-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

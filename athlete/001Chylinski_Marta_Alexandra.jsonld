@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chylinski_Marta_Alexandra.jsonld",
+    "@type": "Athlete",
+    "name": "Chylinski Marta Alexandra",
+    "familyName": "Chylinski",
+    "givenName": "Marta Alexandra",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1248"
+    },
+    "birthDate": "1986-10-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fransolet_Kathleen.jsonld",
+    "@type": "Athlete",
+    "name": "Fransolet Kathleen",
+    "familyName": "Fransolet",
+    "givenName": "Kathleen",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1483"
+    },
+    "birthDate": "1985-01-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

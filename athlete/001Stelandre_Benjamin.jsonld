@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Stelandre_Benjamin.jsonld",
+    "@type": "Athlete",
+    "name": "Stelandre Benjamin*",
+    "familyName": "Stelandre",
+    "givenName": "Benjamin*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2586"
+    },
+    "birthDate": "2003-02-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

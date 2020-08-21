@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Triantafillidis_Mateo.jsonld",
+    "@type": "Athlete",
+    "name": "Triantafillidis Mateo",
+    "familyName": "Triantafillidis",
+    "givenName": "Mateo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0107"
+    },
+    "birthDate": "2001-08-06",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

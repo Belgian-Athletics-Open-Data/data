@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hasnaoui_Saloua.jsonld",
+    "@type": "Athlete",
+    "name": "Hasnaoui Saloua",
+    "familyName": "Hasnaoui",
+    "givenName": "Saloua",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0107"
+    },
+    "birthDate": "2004-04-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sevrin_Anne-Lise.jsonld",
+    "@type": "Athlete",
+    "name": "Sevrin Anne-Lise",
+    "familyName": "Sevrin",
+    "givenName": "Anne-Lise",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0008"
+    },
+    "birthDate": "2004-12-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

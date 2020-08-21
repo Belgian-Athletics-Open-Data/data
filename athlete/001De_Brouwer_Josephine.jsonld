@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Brouwer_Josephine.jsonld",
+    "@type": "Athlete",
+    "name": "De Brouwer Josephine",
+    "familyName": "De",
+    "givenName": "Brouwer Josephine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0581"
+    },
+    "birthDate": "2005-09-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

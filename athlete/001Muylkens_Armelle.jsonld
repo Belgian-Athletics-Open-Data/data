@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Muylkens_Armelle.jsonld",
+    "@type": "Athlete",
+    "name": "Muylkens Armelle",
+    "familyName": "Muylkens",
+    "givenName": "Armelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0017"
+    },
+    "birthDate": "2001-11-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

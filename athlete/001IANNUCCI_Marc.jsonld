@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001IANNUCCI_Marc.jsonld",
+    "@type": "Athlete",
+    "name": "IANNUCCI Marc",
+    "familyName": "IANNUCCI",
+    "givenName": "Marc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1655"
+    },
+    "birthDate": "1990-03-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

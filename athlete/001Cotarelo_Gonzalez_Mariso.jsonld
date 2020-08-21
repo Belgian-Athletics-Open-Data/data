@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cotarelo_Gonzalez_Mariso.jsonld",
+    "@type": "Athlete",
+    "name": "Cotarelo Gonzalez Mariso*",
+    "familyName": "Cotarelo",
+    "givenName": "Gonzalez Mariso*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3446"
+    },
+    "birthDate": "1970-02-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCAS.jsonld"
+        }
+    ]
+}

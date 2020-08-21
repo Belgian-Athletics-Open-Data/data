@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanderbecken_Nemea.jsonld",
+    "@type": "Athlete",
+    "name": "Vanderbecken Nemea",
+    "familyName": "Vanderbecken",
+    "givenName": "Nemea",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7904"
+    },
+    "birthDate": "2007-06-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

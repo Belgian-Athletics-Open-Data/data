@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Morency_Poilvache_Alizee.jsonld",
+    "@type": "Athlete",
+    "name": "Morency Poilvache Alizee",
+    "familyName": "Morency",
+    "givenName": "Poilvache Alizee",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1385"
+    },
+    "birthDate": "1998-07-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

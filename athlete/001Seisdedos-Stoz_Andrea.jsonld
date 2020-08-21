@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Seisdedos-Stoz_Andrea.jsonld",
+    "@type": "Athlete",
+    "name": "Seisdedos-Stoz Andrea",
+    "familyName": "Seisdedos-Stoz",
+    "givenName": "Andrea",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3002"
+    },
+    "birthDate": "2003-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

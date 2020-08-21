@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wardenbach_Ainhoa.jsonld",
+    "@type": "Athlete",
+    "name": "Wardenbach Ainhoa",
+    "familyName": "Wardenbach",
+    "givenName": "Ainhoa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3340"
+    },
+    "birthDate": "2009-11-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

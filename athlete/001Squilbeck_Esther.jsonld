@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Squilbeck_Esther.jsonld",
+    "@type": "Athlete",
+    "name": "Squilbeck Esther",
+    "familyName": "Squilbeck",
+    "givenName": "Esther",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0850"
+    },
+    "birthDate": "2005-01-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

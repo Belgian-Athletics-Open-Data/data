@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Detrembleur_Mathys.jsonld",
+    "@type": "Athlete",
+    "name": "Detrembleur Mathys",
+    "familyName": "Detrembleur",
+    "givenName": "Mathys",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3189"
+    },
+    "birthDate": "2008-01-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HERV.jsonld"
+        }
+    ]
+}

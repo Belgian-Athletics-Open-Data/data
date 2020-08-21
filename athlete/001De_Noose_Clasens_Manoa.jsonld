@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Noose_Clasens_Manoa.jsonld",
+    "@type": "Athlete",
+    "name": "De Noose Clasens Manoa",
+    "familyName": "De",
+    "givenName": "Noose Clasens Manoa",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3816"
+    },
+    "birthDate": "2008-07-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}

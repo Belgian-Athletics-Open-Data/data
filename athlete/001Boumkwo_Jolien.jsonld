@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Boumkwo_Jolien.jsonld",
+    "@type": "Athlete",
+    "name": "Boumkwo Jolien",
+    "familyName": "Boumkwo",
+    "givenName": "Jolien",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1444"
+    },
+    "birthDate": "1993-08-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

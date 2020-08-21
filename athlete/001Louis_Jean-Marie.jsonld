@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Louis_Jean-Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Louis Jean-Marie",
+    "familyName": "Louis",
+    "givenName": "Jean-Marie",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1577"
+    },
+    "birthDate": "1986-06-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

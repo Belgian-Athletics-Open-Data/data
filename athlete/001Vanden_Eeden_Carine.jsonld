@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanden_Eeden_Carine.jsonld",
+    "@type": "Athlete",
+    "name": "Vanden Eeden Carine",
+    "familyName": "Vanden",
+    "givenName": "Eeden Carine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3052"
+    },
+    "birthDate": "1978-11-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CAF.jsonld"
+        }
+    ]
+}

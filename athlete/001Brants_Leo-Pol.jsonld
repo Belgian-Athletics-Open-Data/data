@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Brants_Leo-Pol.jsonld",
+    "@type": "Athlete",
+    "name": "Brants Leo-Pol",
+    "familyName": "Brants",
+    "givenName": "Leo-Pol",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0351"
+    },
+    "birthDate": "2000-05-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FCHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Feumetio_Marco_Ronald.jsonld",
+    "@type": "Athlete",
+    "name": "Feumetio Marco Ronald*",
+    "familyName": "Feumetio",
+    "givenName": "Marco Ronald*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2690"
+    },
+    "birthDate": "2002-09-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

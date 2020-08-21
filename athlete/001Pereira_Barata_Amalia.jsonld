@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pereira_Barata_Amalia.jsonld",
+    "@type": "Athlete",
+    "name": "Pereira Barata Amalia",
+    "familyName": "Pereira",
+    "givenName": "Barata Amalia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0469"
+    },
+    "birthDate": "2004-05-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

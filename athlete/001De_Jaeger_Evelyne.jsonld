@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Jaeger_Evelyne.jsonld",
+    "@type": "Athlete",
+    "name": "De Jaeger Evelyne",
+    "familyName": "De",
+    "givenName": "Jaeger Evelyne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2715"
+    },
+    "birthDate": "1979-06-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

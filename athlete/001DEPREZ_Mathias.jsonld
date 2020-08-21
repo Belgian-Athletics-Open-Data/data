@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DEPREZ_Mathias.jsonld",
+    "@type": "Athlete",
+    "name": "DEPREZ Mathias",
+    "familyName": "DEPREZ",
+    "givenName": "Mathias",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4053"
+    },
+    "birthDate": "1972-10-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

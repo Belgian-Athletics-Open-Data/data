@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bechoux_Cindy.jsonld",
+    "@type": "Athlete",
+    "name": "Bechoux Cindy",
+    "familyName": "Bechoux",
+    "givenName": "Cindy",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0156"
+    },
+    "birthDate": "2001-01-12",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

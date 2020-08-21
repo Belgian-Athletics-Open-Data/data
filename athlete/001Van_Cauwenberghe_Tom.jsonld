@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Cauwenberghe_Tom.jsonld",
+    "@type": "Athlete",
+    "name": "Van Cauwenberghe Tom",
+    "familyName": "Van",
+    "givenName": "Cauwenberghe Tom",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0311"
+    },
+    "birthDate": "2001-03-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

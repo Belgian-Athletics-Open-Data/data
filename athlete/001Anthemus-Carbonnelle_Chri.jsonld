@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Anthemus-Carbonnelle_Chri.jsonld",
+    "@type": "Athlete",
+    "name": "Anthemus-Carbonnelle Chri",
+    "familyName": "Anthemus-Carbonnelle",
+    "givenName": "Chri",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3001"
+    },
+    "birthDate": "1959-04-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

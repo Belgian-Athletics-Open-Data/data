@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hasenclever_Gilles.jsonld",
+    "@type": "Athlete",
+    "name": "Hasenclever Gilles*",
+    "familyName": "Hasenclever",
+    "givenName": "Gilles*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0411"
+    },
+    "birthDate": "2004-10-21",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

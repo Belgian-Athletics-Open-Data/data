@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Tshiala_de_Wouters_d'Opli.jsonld",
+    "@type": "Athlete",
+    "name": "Tshiala de Wouters d'Opli",
+    "familyName": "Tshiala",
+    "givenName": "de Wouters d'Opli",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7777"
+    },
+    "birthDate": "2007-10-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAMP.jsonld"
+        }
+    ]
+}

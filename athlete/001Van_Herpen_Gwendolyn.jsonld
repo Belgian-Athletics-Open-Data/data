@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Herpen_Gwendolyn.jsonld",
+    "@type": "Athlete",
+    "name": "Van Herpen Gwendolyn*",
+    "familyName": "Van",
+    "givenName": "Herpen Gwendolyn*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0108"
+    },
+    "birthDate": "2004-01-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

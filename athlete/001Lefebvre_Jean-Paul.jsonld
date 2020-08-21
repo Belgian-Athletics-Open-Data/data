@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefebvre_Jean-Paul.jsonld",
+    "@type": "Athlete",
+    "name": "Lefebvre Jean-Paul",
+    "familyName": "Lefebvre",
+    "givenName": "Jean-Paul",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4657"
+    },
+    "birthDate": "1956-12-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001ALIVODOJ_Devis.jsonld",
+    "@type": "Athlete",
+    "name": "ALIVODOJ Devis*",
+    "familyName": "ALIVODOJ",
+    "givenName": "Devis*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0407"
+    },
+    "birthDate": "2005-10-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mac_Donald_Craig.jsonld",
+    "@type": "Athlete",
+    "name": "Mac Donald Craig*",
+    "familyName": "Mac",
+    "givenName": "Donald Craig*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4529"
+    },
+    "birthDate": "1964-10-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

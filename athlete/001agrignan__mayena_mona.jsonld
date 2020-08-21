@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001agrignan__mayena_mona.jsonld",
+    "@type": "Athlete",
+    "name": "agrignan  mayena mona",
+    "familyName": "agrignan",
+    "givenName": " mayena mona",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0676"
+    },
+    "birthDate": "2010-04-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

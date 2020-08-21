@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kevers-Leclercq_Jean.jsonld",
+    "@type": "Athlete",
+    "name": "Kevers-Leclercq Jean",
+    "familyName": "Kevers-Leclercq",
+    "givenName": "Jean",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5041"
+    },
+    "birthDate": "1974-04-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

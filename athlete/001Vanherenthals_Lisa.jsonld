@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Vanherenthals_Lisa.jsonld",
+    "@type": "Athlete",
+    "name": "Vanherenthals Lisa",
+    "familyName": "Vanherenthals",
+    "givenName": "Lisa",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2741"
+    },
+    "birthDate": "2003-07-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

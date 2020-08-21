@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Leroy_Jean-Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Leroy Jean-Pierre",
+    "familyName": "Leroy",
+    "givenName": "Jean-Pierre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3895"
+    },
+    "birthDate": "1971-10-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACCO.jsonld"
+        }
+    ]
+}

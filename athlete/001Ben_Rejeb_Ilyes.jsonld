@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ben_Rejeb_Ilyes.jsonld",
+    "@type": "Athlete",
+    "name": "Ben Rejeb Ilyes",
+    "familyName": "Ben",
+    "givenName": "Rejeb Ilyes",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3091"
+    },
+    "birthDate": "2008-01-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLE.jsonld"
+        }
+    ]
+}

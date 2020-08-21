@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Colpin_Van_Swalm_Juliette.jsonld",
+    "@type": "Athlete",
+    "name": "Colpin Van Swalm Juliette",
+    "familyName": "Colpin",
+    "givenName": "Van Swalm Juliette",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0515"
+    },
+    "birthDate": "2004-06-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

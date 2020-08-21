@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nevraumont_Katya.jsonld",
+    "@type": "Athlete",
+    "name": "Nevraumont Katya",
+    "familyName": "Nevraumont",
+    "givenName": "Katya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2764"
+    },
+    "birthDate": "1976-03-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

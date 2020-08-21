@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_kaderi_Ahmed.jsonld",
+    "@type": "Athlete",
+    "name": "El kaderi Ahmed",
+    "familyName": "El",
+    "givenName": "kaderi Ahmed",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4944"
+    },
+    "birthDate": "1976-11-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

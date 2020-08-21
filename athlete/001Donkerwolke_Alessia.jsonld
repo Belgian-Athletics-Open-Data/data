@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Donkerwolke_Alessia.jsonld",
+    "@type": "Athlete",
+    "name": "Donkerwolke Alessia",
+    "familyName": "Donkerwolke",
+    "givenName": "Alessia",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4082"
+    },
+    "birthDate": "2008-04-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

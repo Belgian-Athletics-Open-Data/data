@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Cocqueau_Joelle.jsonld",
+    "@type": "Athlete",
+    "name": "De Cocqueau Joelle",
+    "familyName": "De",
+    "givenName": "Cocqueau Joelle",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3279"
+    },
+    "birthDate": "1982-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OCAN.jsonld"
+        }
+    ]
+}

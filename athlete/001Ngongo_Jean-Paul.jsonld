@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Ngongo_Jean-Paul.jsonld",
+    "@type": "Athlete",
+    "name": "Ngongo Jean-Paul",
+    "familyName": "Ngongo",
+    "givenName": "Jean-Paul",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1981"
+    },
+    "birthDate": "1993-08-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

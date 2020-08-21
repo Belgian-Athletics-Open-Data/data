@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Zh_Eyette_Camron.jsonld",
+    "@type": "Athlete",
+    "name": "Zh Eyette Camron",
+    "familyName": "Zh",
+    "givenName": "Eyette Camron",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3859"
+    },
+    "birthDate": "2009-06-23",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GOSP.jsonld"
+        }
+    ]
+}

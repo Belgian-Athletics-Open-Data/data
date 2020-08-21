@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Maaroufi_Zakaria.jsonld",
+    "@type": "Athlete",
+    "name": "Maaroufi Zakaria",
+    "familyName": "Maaroufi",
+    "givenName": "Zakaria",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2764"
+    },
+    "birthDate": "2008-09-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

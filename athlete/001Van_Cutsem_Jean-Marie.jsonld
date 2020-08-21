@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Cutsem_Jean-Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Van Cutsem Jean-Marie",
+    "familyName": "Van",
+    "givenName": "Cutsem Jean-Marie",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "5233"
+    },
+    "birthDate": "1950-02-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

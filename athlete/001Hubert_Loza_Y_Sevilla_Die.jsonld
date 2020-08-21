@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hubert_Loza_Y_Sevilla_Die.jsonld",
+    "@type": "Athlete",
+    "name": "Hubert Loza Y Sevilla Die",
+    "familyName": "Hubert",
+    "givenName": "Loza Y Sevilla Die",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0338"
+    },
+    "birthDate": "2001-11-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

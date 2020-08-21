@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Chabotier_Nassim.jsonld",
+    "@type": "Athlete",
+    "name": "Chabotier Nassim",
+    "familyName": "Chabotier",
+    "givenName": "Nassim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6447"
+    },
+    "birthDate": "2006-11-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROCA.jsonld"
+        }
+    ]
+}

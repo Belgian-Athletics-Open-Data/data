@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001STEMBERT_CLEMENT.jsonld",
+    "@type": "Athlete",
+    "name": "STEMBERT CLEMENT",
+    "familyName": "STEMBERT",
+    "givenName": "CLEMENT",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2204"
+    },
+    "birthDate": "2003-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

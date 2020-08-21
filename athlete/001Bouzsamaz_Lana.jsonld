@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Bouzsamaz_Lana.jsonld",
+    "@type": "Athlete",
+    "name": "Bouzsamaz Lana",
+    "familyName": "Bouzsamaz",
+    "givenName": "Lana",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7809"
+    },
+    "birthDate": "2007-09-29",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSDY.jsonld"
+        }
+    ]
+}

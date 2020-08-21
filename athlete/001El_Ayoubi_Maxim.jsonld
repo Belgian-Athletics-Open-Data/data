@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001El_Ayoubi_Maxim.jsonld",
+    "@type": "Athlete",
+    "name": "El Ayoubi Maxim",
+    "familyName": "El",
+    "givenName": "Ayoubi Maxim",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2268"
+    },
+    "birthDate": "2003-04-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

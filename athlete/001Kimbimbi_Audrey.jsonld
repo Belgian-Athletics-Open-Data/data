@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kimbimbi_Audrey.jsonld",
+    "@type": "Athlete",
+    "name": "Kimbimbi Audrey",
+    "familyName": "Kimbimbi",
+    "givenName": "Audrey",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3034"
+    },
+    "birthDate": "2003-07-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

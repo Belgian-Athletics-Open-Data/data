@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Van_Der_Streeck_Luna.jsonld",
+    "@type": "Athlete",
+    "name": "Van Der Streeck Luna",
+    "familyName": "Van",
+    "givenName": "Der Streeck Luna",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0572"
+    },
+    "birthDate": "2005-07-20",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Wilmotte_Leontine.jsonld",
+    "@type": "Athlete",
+    "name": "Wilmotte Leontine",
+    "familyName": "Wilmotte",
+    "givenName": "Leontine",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0879"
+    },
+    "birthDate": "2005-03-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

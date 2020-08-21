@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dussart_Olivier_Jean-Luc.jsonld",
+    "@type": "Athlete",
+    "name": "Dussart Olivier Jean-Luc",
+    "familyName": "Dussart",
+    "givenName": "Olivier Jean-Luc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4826"
+    },
+    "birthDate": "1982-03-25",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Talpaert_Timothee.jsonld",
+    "@type": "Athlete",
+    "name": "Talpaert Timothee*",
+    "familyName": "Talpaert",
+    "givenName": "Timothee*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0518"
+    },
+    "birthDate": "2005-11-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

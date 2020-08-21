@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mbaya_Tchatchou_Hilary.jsonld",
+    "@type": "Athlete",
+    "name": "Mbaya Tchatchou Hilary",
+    "familyName": "Mbaya",
+    "givenName": "Tchatchou Hilary",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0209"
+    },
+    "birthDate": "2005-06-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATH.jsonld"
+        }
+    ]
+}

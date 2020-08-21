@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001SIESS_Hadrien.jsonld",
+    "@type": "Athlete",
+    "name": "SIESS Hadrien*",
+    "familyName": "SIESS",
+    "givenName": "Hadrien*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6259"
+    },
+    "birthDate": "2006-04-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mattiussi_Theodore.jsonld",
+    "@type": "Athlete",
+    "name": "Mattiussi Theodore*",
+    "familyName": "Mattiussi",
+    "givenName": "Theodore*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6383"
+    },
+    "birthDate": "2006-03-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

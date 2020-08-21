@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001De_Wergifosse_Alexandre.jsonld",
+    "@type": "Athlete",
+    "name": "De Wergifosse Alexandre",
+    "familyName": "De",
+    "givenName": "Wergifosse Alexandre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6291"
+    },
+    "birthDate": "2007-10-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPA.jsonld"
+        }
+    ]
+}

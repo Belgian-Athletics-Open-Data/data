@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001R�tze-Mulot_Yuna.jsonld",
+    "@type": "Athlete",
+    "name": "R�tze-Mulot Yuna*",
+    "familyName": "R�tze-Mulot",
+    "givenName": "Yuna*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7923"
+    },
+    "birthDate": "2007-11-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

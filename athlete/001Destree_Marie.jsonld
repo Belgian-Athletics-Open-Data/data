@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Destree_Marie.jsonld",
+    "@type": "Athlete",
+    "name": "Destree Marie",
+    "familyName": "Destree",
+    "givenName": "Marie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2730"
+    },
+    "birthDate": "1983-01-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACCO.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Godefroid_Charlize.jsonld",
+    "@type": "Athlete",
+    "name": "Godefroid Charlize",
+    "familyName": "Godefroid",
+    "givenName": "Charlize",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0559"
+    },
+    "birthDate": "2010-03-15",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

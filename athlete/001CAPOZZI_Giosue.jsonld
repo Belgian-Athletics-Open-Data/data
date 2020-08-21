@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001CAPOZZI_Giosue.jsonld",
+    "@type": "Athlete",
+    "name": "CAPOZZI Giosue",
+    "familyName": "CAPOZZI",
+    "givenName": "Giosue",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2159"
+    },
+    "birthDate": "2003-06-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/IAAC.jsonld"
+        }
+    ]
+}

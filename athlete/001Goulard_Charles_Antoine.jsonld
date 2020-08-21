@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Goulard_Charles_Antoine.jsonld",
+    "@type": "Athlete",
+    "name": "Goulard Charles Antoine",
+    "familyName": "Goulard",
+    "givenName": "Charles Antoine",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2500"
+    },
+    "birthDate": "2003-05-16",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

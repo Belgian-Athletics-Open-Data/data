@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gevenois_Marie-Rose.jsonld",
+    "@type": "Athlete",
+    "name": "Gevenois Marie-Rose",
+    "familyName": "Gevenois",
+    "givenName": "Marie-Rose",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2833"
+    },
+    "birthDate": "1950-07-14",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

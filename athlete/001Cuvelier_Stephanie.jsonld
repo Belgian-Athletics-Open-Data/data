@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Cuvelier_Stephanie.jsonld",
+    "@type": "Athlete",
+    "name": "Cuvelier Stephanie",
+    "familyName": "Cuvelier",
+    "givenName": "Stephanie",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2732"
+    },
+    "birthDate": "1975-06-18",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACCO.jsonld"
+        }
+    ]
+}

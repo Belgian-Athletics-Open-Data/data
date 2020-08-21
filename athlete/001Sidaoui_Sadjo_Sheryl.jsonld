@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sidaoui_Sadjo_Sheryl.jsonld",
+    "@type": "Athlete",
+    "name": "Sidaoui Sadjo Sheryl",
+    "familyName": "Sidaoui",
+    "givenName": "Sadjo Sheryl",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3516"
+    },
+    "birthDate": "2009-08-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SER.jsonld"
+        }
+    ]
+}

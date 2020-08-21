@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lefebvre_Marie-Jeanne.jsonld",
+    "@type": "Athlete",
+    "name": "Lefebvre Marie-Jeanne",
+    "familyName": "Lefebvre",
+    "givenName": "Marie-Jeanne",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1474"
+    },
+    "birthDate": "1986-05-28",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

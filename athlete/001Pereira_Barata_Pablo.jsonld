@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Pereira_Barata_Pablo.jsonld",
+    "@type": "Athlete",
+    "name": "Pereira Barata Pablo",
+    "familyName": "Pereira",
+    "givenName": "Barata Pablo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6624"
+    },
+    "birthDate": "2007-03-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MALM.jsonld"
+        }
+    ]
+}

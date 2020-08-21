@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001WEBER_Cynthia.jsonld",
+    "@type": "Athlete",
+    "name": "WEBER Cynthia*",
+    "familyName": "WEBER",
+    "givenName": "Cynthia*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3284"
+    },
+    "birthDate": "1982-04-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

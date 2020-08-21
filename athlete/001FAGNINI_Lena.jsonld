@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001FAGNINI_Lena.jsonld",
+    "@type": "Athlete",
+    "name": "FAGNINI Lena*",
+    "familyName": "FAGNINI",
+    "givenName": "Lena*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "7404"
+    },
+    "birthDate": "2006-08-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CSF.jsonld"
+        }
+    ]
+}

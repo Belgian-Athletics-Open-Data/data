@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Nkungi_Nsakala_Courtoy_Ru.jsonld",
+    "@type": "Athlete",
+    "name": "Nkungi Nsakala Courtoy Ru",
+    "familyName": "Nkungi",
+    "givenName": "Nsakala Courtoy Ru",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3186"
+    },
+    "birthDate": "2011-10-09",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001NGABOSAKA-NGOKE_EMMANUEL.jsonld",
+    "@type": "Athlete",
+    "name": "NGABOSAKA-NGOKE EMMANUEL",
+    "familyName": "NGABOSAKA-NGOKE",
+    "givenName": "EMMANUEL",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6320"
+    },
+    "birthDate": "2007-07-22",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCB.jsonld"
+        }
+    ]
+}

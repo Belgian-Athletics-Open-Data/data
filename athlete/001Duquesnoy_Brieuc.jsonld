@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Duquesnoy_Brieuc.jsonld",
+    "@type": "Athlete",
+    "name": "Duquesnoy Brieuc",
+    "familyName": "Duquesnoy",
+    "givenName": "Brieuc",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3675"
+    },
+    "birthDate": "1995-11-19",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/USTA.jsonld"
+        }
+    ]
+}

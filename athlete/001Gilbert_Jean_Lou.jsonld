@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Gilbert_Jean_Lou.jsonld",
+    "@type": "Athlete",
+    "name": "Gilbert Jean Lou",
+    "familyName": "Gilbert",
+    "givenName": "Jean Lou",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3351"
+    },
+    "birthDate": "2008-11-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MOHA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Amjderrig_Ismail.jsonld",
+    "@type": "Athlete",
+    "name": "Amjderrig Ismail",
+    "familyName": "Amjderrig",
+    "givenName": "Ismail",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6340"
+    },
+    "birthDate": "2007-11-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

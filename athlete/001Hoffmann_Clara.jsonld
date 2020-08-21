@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Hoffmann_Clara.jsonld",
+    "@type": "Athlete",
+    "name": "Hoffmann Clara*",
+    "familyName": "Hoffmann",
+    "givenName": "Clara*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0660"
+    },
+    "birthDate": "2010-11-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

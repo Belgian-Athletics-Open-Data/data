@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Oubouskour_Oumaima.jsonld",
+    "@type": "Athlete",
+    "name": "Oubouskour Oumaima",
+    "familyName": "Oubouskour",
+    "givenName": "Oumaima",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1202"
+    },
+    "birthDate": "1999-02-08",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CRAC.jsonld"
+        }
+    ]
+}

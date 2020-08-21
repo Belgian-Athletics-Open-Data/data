@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dussart_Jean-Pierre.jsonld",
+    "@type": "Athlete",
+    "name": "Dussart Jean-Pierre",
+    "familyName": "Dussart",
+    "givenName": "Jean-Pierre",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4635"
+    },
+    "birthDate": "1949-12-30",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/UAC.jsonld"
+        }
+    ]
+}

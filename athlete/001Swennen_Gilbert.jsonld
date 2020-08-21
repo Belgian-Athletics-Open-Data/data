@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Swennen_Gilbert.jsonld",
+    "@type": "Athlete",
+    "name": "Swennen Gilbert",
+    "familyName": "Swennen",
+    "givenName": "Gilbert",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4541"
+    },
+    "birthDate": "1950-01-07",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HUY.jsonld"
+        }
+    ]
+}

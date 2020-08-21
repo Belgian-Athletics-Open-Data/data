@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001DIALLO_BINNETOU_LALY.jsonld",
+    "@type": "Athlete",
+    "name": "DIALLO BINNETOU LALY",
+    "familyName": "DIALLO",
+    "givenName": "BINNETOU LALY",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1348"
+    },
+    "birthDate": "1998-07-27",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WS.jsonld"
+        }
+    ]
+}

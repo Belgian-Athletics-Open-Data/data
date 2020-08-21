@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Sward_Unger_Flora_Lise.jsonld",
+    "@type": "Athlete",
+    "name": "Sward Unger Flora Lise*",
+    "familyName": "Sward",
+    "givenName": "Unger Flora Lise*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3832"
+    },
+    "birthDate": "2009-03-24",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Djemmal_Mehdi.jsonld",
+    "@type": "Athlete",
+    "name": "Djemmal Mehdi",
+    "familyName": "Djemmal",
+    "givenName": "Mehdi",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0502"
+    },
+    "birthDate": "2004-09-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JSMC.jsonld"
+        }
+    ]
+}

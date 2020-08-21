@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Carpentier_Leyton.jsonld",
+    "@type": "Athlete",
+    "name": "Carpentier Leyton",
+    "familyName": "Carpentier",
+    "givenName": "Leyton",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2589"
+    },
+    "birthDate": "2002-09-11",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARCH.jsonld"
+        }
+    ]
+}

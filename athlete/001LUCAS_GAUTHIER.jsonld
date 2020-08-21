@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001LUCAS_GAUTHIER.jsonld",
+    "@type": "Athlete",
+    "name": "LUCAS GAUTHIER",
+    "familyName": "LUCAS",
+    "givenName": "GAUTHIER",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3100"
+    },
+    "birthDate": "2009-05-05",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WACO.jsonld"
+        }
+    ]
+}

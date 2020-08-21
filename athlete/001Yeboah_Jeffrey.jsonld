@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Yeboah_Jeffrey.jsonld",
+    "@type": "Athlete",
+    "name": "Yeboah Jeffrey",
+    "familyName": "Yeboah",
+    "givenName": "Jeffrey",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1915"
+    },
+    "birthDate": "1993-03-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Kenfack_Douanla_Astrid.jsonld",
+    "@type": "Athlete",
+    "name": "Kenfack Douanla Astrid",
+    "familyName": "Kenfack",
+    "givenName": "Douanla Astrid",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0872"
+    },
+    "birthDate": "2004-07-26",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RFCL.jsonld"
+        }
+    ]
+}

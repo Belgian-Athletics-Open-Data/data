@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Dabrowska_Thomas.jsonld",
+    "@type": "Athlete",
+    "name": "Dabrowska Thomas",
+    "familyName": "Dabrowska",
+    "givenName": "Thomas",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "2562"
+    },
+    "birthDate": "2002-06-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LHF.jsonld"
+        }
+    ]
+}

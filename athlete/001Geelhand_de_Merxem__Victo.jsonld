@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Geelhand_de_Merxem__Victo.jsonld",
+    "@type": "Athlete",
+    "name": "Geelhand de Merxem  Victo",
+    "familyName": "Geelhand",
+    "givenName": "de Merxem  Victo",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3340"
+    },
+    "birthDate": "2009-05-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIWA.jsonld"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Languenakers_Mathieu.jsonld",
+    "@type": "Athlete",
+    "name": "Languenakers Mathieu",
+    "familyName": "Languenakers",
+    "givenName": "Mathieu",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "6078"
+    },
+    "birthDate": "2007-10-01",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATC.jsonld"
+        }
+    ]
+}

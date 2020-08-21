@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Mc_Donald_Petra_Nadia.jsonld",
+    "@type": "Athlete",
+    "name": "Mc Donald Petra Nadia*",
+    "familyName": "Mc",
+    "givenName": "Donald Petra Nadia*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "3479"
+    },
+    "birthDate": "1984-07-17",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/CABW.jsonld"
+        }
+    ]
+}

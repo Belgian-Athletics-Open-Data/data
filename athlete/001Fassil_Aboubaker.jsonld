@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Fassil_Aboubaker.jsonld",
+    "@type": "Athlete",
+    "name": "Fassil Aboubaker*",
+    "familyName": "Fassil",
+    "givenName": "Aboubaker*",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "1705"
+    },
+    "birthDate": "1991-10-03",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

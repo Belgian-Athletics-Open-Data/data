@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Makhoukh_Lilya.jsonld",
+    "@type": "Athlete",
+    "name": "Makhoukh Lilya",
+    "familyName": "Makhoukh",
+    "givenName": "Lilya",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "4021"
+    },
+    "birthDate": "2009-05-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RESC.jsonld"
+        }
+    ]
+}

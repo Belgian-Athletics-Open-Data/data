@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Youssouf_Ndiaye_Raouda.jsonld",
+    "@type": "Athlete",
+    "name": "Youssouf Ndiaye Raouda*",
+    "familyName": "Youssouf",
+    "givenName": "Ndiaye Raouda*",
+    "gender": "Female",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0594"
+    },
+    "birthDate": "2010-05-10",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BBS.jsonld"
+        }
+    ]
+}

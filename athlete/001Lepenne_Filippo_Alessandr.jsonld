@@ -1,0 +1,19 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/athlete/001Lepenne_Filippo_Alessandr.jsonld",
+    "@type": "Athlete",
+    "name": "Lepenne Filippo Alessandr",
+    "familyName": "Lepenne",
+    "givenName": "Filippo Alessandr",
+    "gender": "Male",
+    "nationality": "countrycode:BE",
+    "identifier": {
+        "2019": "0326"
+    },
+    "birthDate": "2001-10-31",
+    "affiliation": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACLO.jsonld"
+        }
+    ]
+}
