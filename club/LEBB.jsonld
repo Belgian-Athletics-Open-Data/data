@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/LEBB.jsonld",
+    "@type": "Club",
+    "identifier": "LEBB",
+    "name": "Lebbeekse Atletiek Club",
+    "alternateName": "LEBB",
+    "url": "https://www.aclebbeke.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "lebb@atletiek.be",
+    "address": [
+        {
+            "name": "atletiekpiste Lebbeke",
+            "streetAddress": "Koning Albert I-straat 124",
+            "addressLocality": "Lebbeke",
+            "postalCode": "9280",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

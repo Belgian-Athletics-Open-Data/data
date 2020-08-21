@@ -1,0 +1,47 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/MACW.jsonld",
+    "@type": "Club",
+    "identifier": "MACW",
+    "name": "MAC WESTHOEK",
+    "alternateName": "MACW",
+    "url": "https://www.macw.be",
+    "image": "",
+    "logo": "",
+    "telephone": "058 31 20 98",
+    "email": "macw@atletiek.be",
+    "address": [
+        {
+            "name": "Sportpark De Lenspolder",
+            "streetAddress": "Dudenhofenlaan",
+            "addressLocality": "Nieuwpoort",
+            "postalCode": "8620",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpark De Pluimen",
+            "streetAddress": "Pluimenstraat",
+            "addressLocality": "Diksmuide",
+            "postalCode": "8600",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpark Hazebeek",
+            "streetAddress": "Hazebeekstraat",
+            "addressLocality": "Oostduinkerke",
+            "postalCode": "8670",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpark Will Tura",
+            "streetAddress": "Noordstraat 144",
+            "addressLocality": "Veurne",
+            "postalCode": "8630",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

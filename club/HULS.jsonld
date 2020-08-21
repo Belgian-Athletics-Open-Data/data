@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/HULS.jsonld",
+    "@type": "Club",
+    "identifier": "HULS",
+    "name": "AC HULSHOUT",
+    "alternateName": "HULS",
+    "url": "https://www.achulshout.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0478/600349",
+    "email": "huls@atletiek.be",
+    "address": [
+        {
+            "name": "Sportpark Joris Verhaegen",
+            "streetAddress": "Industriepark 3",
+            "addressLocality": "Hulshout",
+            "postalCode": "2235",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

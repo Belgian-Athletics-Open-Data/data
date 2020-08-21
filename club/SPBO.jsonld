@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/SPBO.jsonld",
+    "@type": "Club",
+    "identifier": "SPBO",
+    "name": "SPARTA BORNEM",
+    "alternateName": "SPBO",
+    "url": "https://www.spartabornem.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0472 64 26 94",
+    "email": "spbo@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum Breeven",
+            "streetAddress": "Breevendreef",
+            "addressLocality": "Bornem",
+            "postalCode": "2880",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

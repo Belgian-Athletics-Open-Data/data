@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/JMTM.jsonld",
+    "@type": "Club",
+    "identifier": "JMTM",
+    "name": "JOGGING & MARATHON TEAM MOL",
+    "alternateName": "JMTM",
+    "url": "https://www.jmtmol.be",
+    "image": "",
+    "logo": "",
+    "telephone": "014 59 04 10",
+    "email": "jmtm@atletiek.be",
+    "address": [
+        {
+            "name": "Sporthal Den Uyt",
+            "streetAddress": "Rode Kruislaan 20",
+            "addressLocality": "Mol",
+            "postalCode": "2400",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

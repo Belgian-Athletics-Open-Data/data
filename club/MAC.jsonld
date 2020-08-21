@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/MAC.jsonld",
+    "@type": "Club",
+    "identifier": "MAC",
+    "name": "MACHELEN AC",
+    "alternateName": "MAC",
+    "url": "https://www.machelen-ac.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "mac@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste - Bosveldsite",
+            "streetAddress": "Heirbaan 9",
+            "addressLocality": "Machelen (Vl.Br.)",
+            "postalCode": "1830",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

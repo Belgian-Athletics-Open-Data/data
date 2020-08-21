@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/AVLO.jsonld",
+    "@type": "Club",
+    "identifier": "AVLO",
+    "name": "AV LOKEREN",
+    "alternateName": "AVLO",
+    "url": "https://www.avlo.be",
+    "image": "",
+    "logo": "",
+    "telephone": "09/3454827",
+    "email": "avlo@atletiek.be",
+    "address": [
+        {
+            "name": "Oscar van Rumst Stadion",
+            "streetAddress": "Sportlaan",
+            "addressLocality": "Lokeren",
+            "postalCode": "9160",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "piste Ter Elst",
+            "streetAddress": "Elststraat",
+            "addressLocality": "Zele",
+            "postalCode": "9240",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

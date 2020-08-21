@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/KAPE.jsonld",
+    "@type": "Club",
+    "identifier": "KAPE",
+    "name": "AC KAPELLEN",
+    "alternateName": "KAPE",
+    "url": "https://www.ackape.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "kape@atletiek.be",
+    "address": [
+        {
+            "name": "Gemeentepark Kapellen",
+            "streetAddress": "Bergstraat",
+            "addressLocality": "Kapellen (Antw.)",
+            "postalCode": "2950",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportcentrum Stabroek",
+            "streetAddress": "Dorpsstraat",
+            "addressLocality": "Stabroek",
+            "postalCode": "2940",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/DALO.jsonld",
+    "@type": "Club",
+    "identifier": "DALO",
+    "name": "D.ATL.LOMMEL",
+    "alternateName": "DALO",
+    "url": "https://www.dalo.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0495 84 32 37",
+    "email": "dalo@atletiek.be",
+    "address": [
+        {
+            "name": "Gemeentelijk Atletiekterrein",
+            "streetAddress": "Sportveldenstraat",
+            "addressLocality": "Lommel",
+            "postalCode": "3920",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/GRIM.jsonld",
+    "@type": "Club",
+    "identifier": "GRIM",
+    "name": "AC GRIMBERGEN",
+    "alternateName": "GRIM",
+    "url": "https://www.acgrimbergen.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0479 11 49 42",
+    "email": "grim@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Nachtegaallaan",
+            "addressLocality": "Humbeek",
+            "postalCode": "1851",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

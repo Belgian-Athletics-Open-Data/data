@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACP.jsonld",
+    "@type": "Club",
+    "identifier": "ACP",
+    "name": "AC PAJOTTENLAND",
+    "alternateName": "ACP",
+    "url": "https://www.atletiekclubpajottenland.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0477/535840",
+    "email": "acp@atletiek.be",
+    "address": [
+        {
+            "name": "Koornmolen",
+            "streetAddress": "processieweg 15",
+            "addressLocality": "Gooik",
+            "postalCode": "1755",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/SACN.jsonld",
+    "@type": "Club",
+    "identifier": "SACN",
+    "name": "SAC NEERPELT",
+    "alternateName": "SACN",
+    "url": "https://www.sacn.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0473 44 49 81",
+    "email": "sacn@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Dommelhof",
+            "streetAddress": "Toekomstlaan 5",
+            "addressLocality": "Neerpelt",
+            "postalCode": "3910",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACDL.jsonld",
+    "@type": "Club",
+    "identifier": "ACDL",
+    "name": "AC DENDERLAND",
+    "alternateName": "ACDL",
+    "url": "https://www.acdenderland.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0478/552429",
+    "email": "acdl@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum Sint-Gillis",
+            "streetAddress": "Van Langenhovestraat 203 A",
+            "addressLocality": "Sint-Gillis/ Dendermonde",
+            "postalCode": "9200",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

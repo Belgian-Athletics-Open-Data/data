@@ -1,0 +1,40 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/STAX.jsonld",
+    "@type": "Club",
+    "identifier": "STAX",
+    "name": "STANDAARD AJAX",
+    "alternateName": "STAX",
+    "url": "https://www.stax-ac.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0498/619995",
+    "email": "stax@atletiek.be",
+    "address": [
+        {
+            "name": "Blaarmeersen",
+            "streetAddress": "Zuiderlaan 5",
+            "addressLocality": "Gent",
+            "postalCode": "9000",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Westveld",
+            "streetAddress": "Admiraaldreef",
+            "addressLocality": "Sint-Amandsberg",
+            "postalCode": "9040",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Wouter Weylandt stadion",
+            "streetAddress": "Emanuel Hielstraat 106",
+            "addressLocality": "Gentbrugge",
+            "postalCode": "9050",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

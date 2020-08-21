@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBR.jsonld",
+    "@type": "Club",
+    "identifier": "ACBR",
+    "name": "ATLETIEKCL. BREAK",
+    "alternateName": "ACBR",
+    "url": "https://www.acbreak.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0479 / 40 91 13",
+    "email": "acbr@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekterrein De Schinde",
+            "streetAddress": "Oorderseweg 83",
+            "addressLocality": "Ekeren (Antwerpen)",
+            "postalCode": "2180",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Louis De Winterstadion",
+            "streetAddress": "Gemeentepark 17",
+            "addressLocality": "Brasschaat",
+            "postalCode": "2930",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/RIEM.jsonld",
+    "@type": "Club",
+    "identifier": "RIEM",
+    "name": "AS RIEME",
+    "alternateName": "RIEM",
+    "url": "https://www.asrieme.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "riem@atletiek.be",
+    "address": [
+        {
+            "name": "Gemeentelijke Atletiekpiste 'de Hoge Wal'",
+            "streetAddress": "Guldensporenlaa",
+            "addressLocality": "994",
+            "postalCode": "34",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

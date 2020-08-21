@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/KAAG.jsonld",
+    "@type": "Club",
+    "identifier": "KAAG",
+    "name": "KAA GENT",
+    "alternateName": "KAAG",
+    "url": "https://http://kaag.be",
+    "image": "",
+    "logo": "",
+    "telephone": "09/362.21.85",
+    "email": "kaag@atletiek.be",
+    "address": [
+        {
+            "name": "Blaarmeersen",
+            "streetAddress": "Strandlaan 16",
+            "addressLocality": "Gent",
+            "postalCode": "9000",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpark De Pinte",
+            "streetAddress": "Moerkensheide",
+            "addressLocality": "De Pinte",
+            "postalCode": "9840",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

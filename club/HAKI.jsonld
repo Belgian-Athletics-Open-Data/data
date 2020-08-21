@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/HAKI.jsonld",
+    "@type": "Club",
+    "identifier": "HAKI",
+    "name": "Hobokense Atletiek Impuls v.z.w.",
+    "alternateName": "HAKI",
+    "url": "https://www.haki-team.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0486/55.54.04",
+    "email": "haki@atletiek.be",
+    "address": [
+        {
+            "name": "Sportschuur Fort 8 (wintertrainingen)",
+            "streetAddress": "Hoofdfrontweg",
+            "addressLocality": "Hoboken",
+            "postalCode": "2660",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sorghvliedt park (zomertrainingen)",
+            "streetAddress": "Moretusstraat",
+            "addressLocality": "Hoboken",
+            "postalCode": "2660",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

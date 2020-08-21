@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/SGOL.jsonld",
+    "@type": "Club",
+    "identifier": "SGOL",
+    "name": "SGOLA BOECHOUT",
+    "alternateName": "SGOL",
+    "url": "https://www.sgola.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0498/04.27.72",
+    "email": "sgol@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum Sneppenbos",
+            "streetAddress": "Vremdesesteenweg 224",
+            "addressLocality": "Boechout",
+            "postalCode": "2530",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

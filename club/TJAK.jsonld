@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/TJAK.jsonld",
+    "@type": "Club",
+    "identifier": "TJAK",
+    "name": "TIELENSE JOG- EN ATLETIEKCLUB",
+    "alternateName": "TJAK",
+    "url": "https://www.tjak.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0474/44.78.22",
+    "email": "tjak@atletiek.be",
+    "address": [
+        {
+            "name": "Sportvelden Tielenhei",
+            "streetAddress": "Prijstraat 68",
+            "addressLocality": "Tielen",
+            "postalCode": "2460",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

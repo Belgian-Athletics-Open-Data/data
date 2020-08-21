@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/RCT.jsonld",
+    "@type": "Club",
+    "identifier": "RCT",
+    "name": "RC TIENEN",
+    "alternateName": "RCT",
+    "url": "https://www.rctatletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0479 21 92 92",
+    "email": "rct@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcomplex Houtemveld",
+            "streetAddress": "Sporthalstraat 14",
+            "addressLocality": "Tienen",
+            "postalCode": "3300",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

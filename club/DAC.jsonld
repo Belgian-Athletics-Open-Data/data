@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/DAC.jsonld",
+    "@type": "Club",
+    "identifier": "DAC",
+    "name": "DILBEEK AC",
+    "alternateName": "DAC",
+    "url": "https://www.dilbeekAC.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "atletiek@dilbeekac.be",
+    "address": [
+        {
+            "name": "Sportcomplex Roelandsveld",
+            "streetAddress": "Sportlaan 24",
+            "addressLocality": "Dilbeek",
+            "postalCode": "1700",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/VMOL.jsonld",
+    "@type": "Club",
+    "identifier": "VMOL",
+    "name": "VABCO MOL",
+    "alternateName": "VMOL",
+    "url": "https://www.vmol.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0473 24 49 99",
+    "email": "vmol@atletiek.be",
+    "address": [
+        {
+            "name": "sportcentrum den uyt",
+            "streetAddress": "rode kruislaan",
+            "addressLocality": "Mol",
+            "postalCode": "2400",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

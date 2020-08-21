@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/HAC.jsonld",
+    "@type": "Club",
+    "identifier": "HAC",
+    "name": "HOUTLAND ATLETIEKCLUB",
+    "alternateName": "HAC",
+    "url": "https://www.houtlandatletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0497/79.95.54",
+    "email": "hac@atletiek.be",
+    "address": [
+        {
+            "name": "Sportstadion Benny Vansteelant",
+            "streetAddress": "Industrielaan 2",
+            "addressLocality": "Torhout",
+            "postalCode": "8820",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

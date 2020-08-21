@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/RAM.jsonld",
+    "@type": "Club",
+    "identifier": "RAM",
+    "name": "REGIONALE ATLETIEKVER. MECHELEN",
+    "alternateName": "RAM",
+    "url": "https://www.ram-atletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0479/28.51.41",
+    "email": "ram@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum De Schalk",
+            "streetAddress": "Stadionlaan",
+            "addressLocality": "Willebroek",
+            "postalCode": "2830",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpark De Nekker",
+            "streetAddress": "Nekkerspoel Borcht",
+            "addressLocality": "Mechelen",
+            "postalCode": "2800",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

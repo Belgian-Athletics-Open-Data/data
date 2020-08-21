@@ -1,0 +1,40 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ROBA.jsonld",
+    "@type": "Club",
+    "identifier": "ROBA",
+    "name": "REGIO OOST-BRABANT ATL",
+    "alternateName": "ROBA",
+    "url": "https://www.roba-atletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "roba@atletiek.be",
+    "address": [
+        {
+            "name": "atletiekpiste burgemeester cloetensstadion",
+            "streetAddress": "Dijkstraat 1",
+            "addressLocality": "Wespelaar",
+            "postalCode": "3150",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "De Tumkens",
+            "streetAddress": "Pastoor Pitetlaan 30",
+            "addressLocality": "Betekom",
+            "postalCode": "3130",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Warandestadion",
+            "streetAddress": "Omer Vanoudenhovenlaan",
+            "addressLocality": "Diest",
+            "postalCode": "3290",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

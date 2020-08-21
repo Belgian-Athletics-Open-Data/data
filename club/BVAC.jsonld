@@ -1,0 +1,47 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BVAC.jsonld",
+    "@type": "Club",
+    "identifier": "BVAC",
+    "name": "K. BEERSCHOT VAC",
+    "alternateName": "BVAC",
+    "url": "https://www.beerschot-atletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "bvac@atletiek.be",
+    "address": [
+        {
+            "name": "Het Rooi",
+            "streetAddress": "Berchemstadionstraat",
+            "addressLocality": "Berchem (Antwerpen)",
+            "postalCode": "2600",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Ruggeveld",
+            "streetAddress": "Ruggeveldlaan",
+            "addressLocality": "Deurne (Antwerpen)",
+            "postalCode": "2100",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpark Willem Eekelers",
+            "streetAddress": "Sint-Bernardsesteenweg 101",
+            "addressLocality": "Antwerpen",
+            "postalCode": "2020",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "UIA",
+            "streetAddress": "Edegemsesteenweg",
+            "addressLocality": "Wilrijk (Antwerpen)",
+            "postalCode": "2610",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

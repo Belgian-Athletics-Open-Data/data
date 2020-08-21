@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BERT.jsonld",
+    "@type": "Club",
+    "identifier": "BERT",
+    "name": "BERTEM AC",
+    "alternateName": "BERT",
+    "url": "https://www.bertematletiekclub.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0485/48 16 16",
+    "email": "bert@atletiek.be",
+    "address": [
+        {
+            "name": "atletiekpark",
+            "streetAddress": "hoek Blokkenstraat/Nijvelsebaan",
+            "addressLocality": "Korbeek-Dijle",
+            "postalCode": "3060",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

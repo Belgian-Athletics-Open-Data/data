@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/MACD.jsonld",
+    "@type": "Club",
+    "identifier": "MACD",
+    "name": "MAASLANDSE ATLETIEKCLUB DILSEN",
+    "alternateName": "MACD",
+    "url": "https://users.skynet.be/macd",
+    "image": "",
+    "logo": "",
+    "telephone": "0497/882686",
+    "email": "macd@atletiek.be",
+    "address": [
+        {
+            "name": "atletiekpiste MACD",
+            "streetAddress": "Langstraat 24",
+            "addressLocality": "Dilsen-Stokkem",
+            "postalCode": "3650",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Domein Pietersheim Lanaken",
+            "streetAddress": "Sportstraat",
+            "addressLocality": "Lanaken",
+            "postalCode": "3620",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

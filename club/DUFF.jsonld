@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/DUFF.jsonld",
+    "@type": "Club",
+    "identifier": "DUFF",
+    "name": "DUFFEL AC",
+    "alternateName": "DUFF",
+    "url": "https://www.duff.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0497-608636",
+    "email": "duff@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum",
+            "streetAddress": "Rooienberg",
+            "addressLocality": "Duffel",
+            "postalCode": "2570",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

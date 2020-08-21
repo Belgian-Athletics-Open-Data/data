@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/AVR.jsonld",
+    "@type": "Club",
+    "identifier": "AVR",
+    "name": "KAV ROESELARE",
+    "alternateName": "AVR",
+    "url": "https://www.kavr.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0478/67.70.82",
+    "email": "avr@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Dom. Savio",
+            "streetAddress": "Koolskampstraat 24",
+            "addressLocality": "Gits",
+            "postalCode": "8830",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stedelijk Sportstadion",
+            "streetAddress": "Spanjestraat 181",
+            "addressLocality": "Roeselare",
+            "postalCode": "8800",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

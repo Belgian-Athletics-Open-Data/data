@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/OEH.jsonld",
+    "@type": "Club",
+    "identifier": "OEH",
+    "name": "Kon. Atl. Ol. Essenbeek Halle v.z.w.",
+    "alternateName": "OEH",
+    "url": "https://www.oeh.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0475 55 73 82",
+    "email": "oeh@atletiek.be",
+    "address": [
+        {
+            "name": "Provinciedomein Huizingen",
+            "streetAddress": "Alsembergse Steenweg (zij-ingang Provinciedomein)",
+            "addressLocality": "Huizingen",
+            "postalCode": "1654",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

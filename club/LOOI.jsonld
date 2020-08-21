@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/LOOI.jsonld",
+    "@type": "Club",
+    "identifier": "LOOI",
+    "name": "LOOISE AV",
+    "alternateName": "LOOI",
+    "url": "https://www.looise-av.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0477/54.54.88",
+    "email": "looi@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Sportlaan z/n",
+            "addressLocality": "Tessenderlo",
+            "postalCode": "3980",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

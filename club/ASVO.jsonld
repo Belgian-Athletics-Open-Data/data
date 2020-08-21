@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ASVO.jsonld",
+    "@type": "Club",
+    "identifier": "ASVO",
+    "name": "KASV OUDENAARDE",
+    "alternateName": "ASVO",
+    "url": "https://www.kasvo.be",
+    "image": "",
+    "logo": "",
+    "telephone": "055/215935",
+    "email": "asvo@atletiek.be",
+    "address": [
+        {
+            "name": "Thienpontstadion",
+            "streetAddress": "Prins Leopoldstraat",
+            "addressLocality": "Oudenaarde",
+            "postalCode": "9700",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

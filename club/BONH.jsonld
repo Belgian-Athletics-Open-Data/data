@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BONH.jsonld",
+    "@type": "Club",
+    "identifier": "BONH",
+    "name": "BONHEIDEN AK",
+    "alternateName": "BONH",
+    "url": "https://www.bonh.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0479/769521",
+    "email": "bonh@atletiek.be",
+    "address": [
+        {
+            "name": "Domein Berentrode",
+            "streetAddress": "Waversesteenweg",
+            "addressLocality": "Bonheiden",
+            "postalCode": "2820",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

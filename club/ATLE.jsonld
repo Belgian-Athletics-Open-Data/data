@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ATLE.jsonld",
+    "@type": "Club",
+    "identifier": "ATLE",
+    "name": "ATLEMO",
+    "alternateName": "ATLE",
+    "url": "",
+    "image": "",
+    "logo": "",
+    "telephone": "02 411 74 95",
+    "email": "atle@atletiek.be",
+    "address": [
+        {
+            "name": "atletiekpiste",
+            "streetAddress": "Mahatma gandhilaan 5",
+            "addressLocality": "Sint-Jans-Molenbeek",
+            "postalCode": "1080",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

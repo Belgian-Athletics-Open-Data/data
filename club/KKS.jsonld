@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/KKS.jsonld",
+    "@type": "Club",
+    "identifier": "KKS",
+    "name": "K.KORTRIJK SP.",
+    "alternateName": "KKS",
+    "url": "https://www.kortrijksport.com",
+    "image": "",
+    "logo": "",
+    "telephone": "0486 69 85 66",
+    "email": "kks@atletiek.be",
+    "address": [
+        {
+            "name": "Sted. Sportcentrum Wembley",
+            "streetAddress": "Moorseelsestraat 144",
+            "addressLocality": "Kortrijk",
+            "postalCode": "8500",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

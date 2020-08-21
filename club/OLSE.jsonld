@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/OLSE.jsonld",
+    "@type": "Club",
+    "identifier": "OLSE",
+    "name": "OLSE MERKSEM",
+    "alternateName": "OLSE",
+    "url": "https://www.olseac.be",
+    "image": "",
+    "logo": "",
+    "telephone": "03 605 01 90",
+    "email": "olse@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste sportcentrum De Rode Loop",
+            "streetAddress": "De Rode Loopstraat 2",
+            "addressLocality": "Merksem (Antwerpen)",
+            "postalCode": "2170",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

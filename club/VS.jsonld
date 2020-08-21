@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/VS.jsonld",
+    "@type": "Club",
+    "identifier": "VS",
+    "name": "VLIERZELE SPORTIEF",
+    "alternateName": "VS",
+    "url": "https://www.vlierzelesportief.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "vs@atletiek.be",
+    "address": [
+        {
+            "name": "Putbosstadion",
+            "streetAddress": "Grote Steenweg",
+            "addressLocality": "Oordegem",
+            "postalCode": "9340",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

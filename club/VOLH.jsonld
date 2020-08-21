@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/VOLH.jsonld",
+    "@type": "Club",
+    "identifier": "VOLH",
+    "name": "ATLETIEK VOLHARDING",
+    "alternateName": "VOLH",
+    "url": "https://www.volh.be",
+    "image": "",
+    "logo": "",
+    "telephone": "03 755 15 73",
+    "email": "volh@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Beveren",
+            "streetAddress": "Klapperstraat 103",
+            "addressLocality": "Beveren",
+            "postalCode": "9120",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Atletiekpiste Stekene",
+            "streetAddress": "Nieuwstraat 60D",
+            "addressLocality": "Stekene",
+            "postalCode": "9190",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

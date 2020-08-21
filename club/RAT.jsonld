@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/RAT.jsonld",
+    "@type": "Club",
+    "identifier": "RAT",
+    "name": "RONSE ATLETIEK TEAM",
+    "alternateName": "RAT",
+    "url": "https://www.rat.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0478 53 79 73",
+    "email": "rat@atletiek.be",
+    "address": [
+        {
+            "name": "Sporthal 't Rosco",
+            "streetAddress": "Leuzesesteenweg 241",
+            "addressLocality": "Ronse",
+            "postalCode": "9600",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

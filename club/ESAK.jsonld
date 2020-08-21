@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ESAK.jsonld",
+    "@type": "Club",
+    "identifier": "ESAK",
+    "name": "ESSENSE ATL.CL.",
+    "alternateName": "ESAK",
+    "url": "https://www.esak.be",
+    "image": "",
+    "logo": "",
+    "telephone": "+32 478 72 12 02",
+    "email": "esak@atletiek.be",
+    "address": [
+        {
+            "name": "Sportpark Hemelrijk",
+            "streetAddress": "Moerkantsebaan 52",
+            "addressLocality": "Essen",
+            "postalCode": "2910",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

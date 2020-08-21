@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/AZW.jsonld",
+    "@type": "Club",
+    "identifier": "AZW",
+    "name": "ATL. ZUID-WEST",
+    "alternateName": "AZW",
+    "url": "https://www.azw.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0477/79.36.92",
+    "email": "azw@atletiek.be",
+    "address": [
+        {
+            "name": "Nieuwe atletiekpiste Expo Waregem",
+            "streetAddress": "Zuiderlaan 20",
+            "addressLocality": "Waregem",
+            "postalCode": "8790",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportpunt 3",
+            "streetAddress": "Bekaertstraat 4B",
+            "addressLocality": "Zwevegem",
+            "postalCode": "8550",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

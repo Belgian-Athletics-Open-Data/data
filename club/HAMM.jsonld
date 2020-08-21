@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/HAMM.jsonld",
+    "@type": "Club",
+    "identifier": "HAMM",
+    "name": "AC HAMME",
+    "alternateName": "HAMM",
+    "url": "https://www.achamme.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0478/095786",
+    "email": "hamm@atletiek.be",
+    "address": [
+        {
+            "name": "Prinses Josephine Charlotte stadion",
+            "streetAddress": "Kaaiplein 30A",
+            "addressLocality": "Hamme (O.-Vl.)",
+            "postalCode": "9220",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

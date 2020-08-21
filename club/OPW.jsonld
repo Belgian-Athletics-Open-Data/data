@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/OPW.jsonld",
+    "@type": "Club",
+    "identifier": "OPW",
+    "name": "AC OPWIJK",
+    "alternateName": "OPW",
+    "url": "https://www.acopwijk.com",
+    "image": "",
+    "logo": "",
+    "telephone": "052/359675",
+    "email": "opw@atletiek.be",
+    "address": [
+        {
+            "name": "Piste sporthal Opwijk",
+            "streetAddress": "heiveld",
+            "addressLocality": "Opwijk",
+            "postalCode": "1745",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

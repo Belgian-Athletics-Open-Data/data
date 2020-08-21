@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/PEGA.jsonld",
+    "@type": "Club",
+    "identifier": "PEGA",
+    "name": "AC PEGASUS LONDERZEEL",
+    "alternateName": "PEGA",
+    "url": "https://www.acpegasus.be",
+    "image": "",
+    "logo": "",
+    "telephone": "052 30 38 77",
+    "email": "pega@atletiek.be",
+    "address": [
+        {
+            "name": "Buitensportcentrum Schaselberg",
+            "streetAddress": "Blauwenhoek 76",
+            "addressLocality": "Londerzeel",
+            "postalCode": "1840",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

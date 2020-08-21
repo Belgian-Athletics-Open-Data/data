@@ -1,0 +1,61 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/FLAC.jsonld",
+    "@type": "Club",
+    "identifier": "FLAC",
+    "name": "FLANDERS ATL.CLUB",
+    "alternateName": "FLAC",
+    "url": "https://www.flac.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0479 643350",
+    "email": "flac@atletiek.be",
+    "address": [
+        {
+            "name": "De Pionier Wervik",
+            "streetAddress": "Virovioslaan 17",
+            "addressLocality": "Wervik",
+            "postalCode": "8940",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "De Valkaart Oostkamp",
+            "streetAddress": "A Rodenbachstraat 42",
+            "addressLocality": "Oostkamp",
+            "postalCode": "8020",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Jeugdstadion Ieper",
+            "streetAddress": "Leopold III laan 16",
+            "addressLocality": "Ieper",
+            "postalCode": "8900",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stedelijk sportstadion Izegem",
+            "streetAddress": "St Jorisstraat 62",
+            "addressLocality": "Izegem",
+            "postalCode": "8870",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stedelijk sportstadion Roeselare",
+            "streetAddress": "Spanjestraat 181",
+            "addressLocality": "Roeselare",
+            "postalCode": "8800",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stedelijke sportzone Poperinge",
+            "streetAddress": "Reningelstseweg",
+            "addressLocality": "Poperinge",
+            "postalCode": "8970",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

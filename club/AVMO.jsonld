@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/AVMO.jsonld",
+    "@type": "Club",
+    "identifier": "AVMO",
+    "name": "AV MOLENLAND",
+    "alternateName": "AVMO",
+    "url": "https://www.avmo.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0496 41 82 37",
+    "email": "avmo@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Sportlaan 1",
+            "addressLocality": "Tielt",
+            "postalCode": "8700",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

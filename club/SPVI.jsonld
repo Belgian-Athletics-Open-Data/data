@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/SPVI.jsonld",
+    "@type": "Club",
+    "identifier": "SPVI",
+    "name": "SPARTA VILVOORDE",
+    "alternateName": "SPVI",
+    "url": "https://www.sparta-vilvoorde.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0473/25.08.94",
+    "email": "spvi@atletiek.be",
+    "address": [
+        {
+            "name": "Stadion 3 Fonteinen",
+            "streetAddress": "Brusselsesteenweg 71",
+            "addressLocality": "Vilvoorde",
+            "postalCode": "1800",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

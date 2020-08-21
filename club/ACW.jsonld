@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACW.jsonld",
+    "@type": "Club",
+    "identifier": "ACW",
+    "name": "AC WAASLAND",
+    "alternateName": "ACW",
+    "url": "https://www.acwaasland.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0494/94.90.51",
+    "email": "acw@atletiek.be",
+    "address": [
+        {
+            "name": "Gerard Bontinckstadion",
+            "streetAddress": "Lange Rekstraat",
+            "addressLocality": "Sint-Niklaas",
+            "postalCode": "9100",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

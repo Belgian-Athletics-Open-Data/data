@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/VAC.jsonld",
+    "@type": "Club",
+    "identifier": "VAC",
+    "name": "KONINKL.AC VILVOORDE",
+    "alternateName": "VAC",
+    "url": "https://www.kvac.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0498/456423",
+    "email": "vac@atletiek.be",
+    "address": [
+        {
+            "name": "Domein Drie Fonteinen piste",
+            "streetAddress": "Brusselsesteenweg 73",
+            "addressLocality": "Vilvoorde",
+            "postalCode": "1800",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

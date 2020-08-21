@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/HALE.jsonld",
+    "@type": "Club",
+    "identifier": "HALE",
+    "name": "HALESTRA AC VZW",
+    "alternateName": "HALE",
+    "url": "https://achalestra.be",
+    "image": "",
+    "logo": "",
+    "telephone": "09 374 61 19",
+    "email": "hale@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Aalter",
+            "streetAddress": "Lindestraat 17",
+            "addressLocality": "Aalter",
+            "postalCode": "9880",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

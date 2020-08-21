@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/LOND.jsonld",
+    "@type": "Club",
+    "identifier": "LOND",
+    "name": "OLYMPIA LONDERZEEL",
+    "alternateName": "LOND",
+    "url": "https://www.olympialonderzeel.be",
+    "image": "",
+    "logo": "",
+    "telephone": "052/ 303707",
+    "email": "lond@atletiek.be",
+    "address": [
+        {
+            "name": "Buitensportcentrum Schaselberg",
+            "streetAddress": "Blauwenhoek 76",
+            "addressLocality": "Londerzeel",
+            "postalCode": "1840",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACKO.jsonld",
+    "@type": "Club",
+    "identifier": "ACKO",
+    "name": "ATLETIEKCLUB KORTENBERG",
+    "alternateName": "ACKO",
+    "url": "https://www.acko.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0475/43.51.94",
+    "email": "acko@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Wijngaardstraat",
+            "addressLocality": "Kortenberg",
+            "postalCode": "3070",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

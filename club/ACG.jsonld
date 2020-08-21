@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACG.jsonld",
+    "@type": "Club",
+    "identifier": "ACG",
+    "name": "AC GERAARDSBERGEN",
+    "alternateName": "ACG",
+    "url": "https://www.acgeraardsbergen.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0496951188",
+    "email": "acg@atletiek.be",
+    "address": [
+        {
+            "name": "Adriaansstadion",
+            "streetAddress": "Zonnebloemstraat 5",
+            "addressLocality": "Geraardsbergen",
+            "postalCode": "9500",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

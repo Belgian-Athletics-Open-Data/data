@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/HCO.jsonld",
+    "@type": "Club",
+    "identifier": "HCO",
+    "name": "HC OOSTENDE",
+    "alternateName": "HCO",
+    "url": "https://www.hcoostende.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0490 43 95 80",
+    "email": "hco@atletiek.be",
+    "address": [
+        {
+            "name": "J. Verhellestadion",
+            "streetAddress": "Torhoutsesteenweg 584",
+            "addressLocality": "Oostende",
+            "postalCode": "8400",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stadion Bogaert",
+            "streetAddress": "Krauwerstraat",
+            "addressLocality": "Jabbeke",
+            "postalCode": "8490",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

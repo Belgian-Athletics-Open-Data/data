@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BAV.jsonld",
+    "@type": "Club",
+    "identifier": "BAV",
+    "name": "BRUSSELSE AV",
+    "alternateName": "BAV",
+    "url": "https://www.brusselseav.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0497/18.64.71",
+    "email": "bav@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Heurkstraat",
+            "addressLocality": "Overijse",
+            "postalCode": "3090",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Olympische Dreef",
+            "addressLocality": "Anderlecht",
+            "postalCode": "1070",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

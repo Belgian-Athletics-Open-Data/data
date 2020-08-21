@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BREE.jsonld",
+    "@type": "Club",
+    "identifier": "BREE",
+    "name": "BREE AC",
+    "alternateName": "BREE",
+    "url": "https://www.acbree.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0491 63 24 58",
+    "email": "bree@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Duinenstadion Hechtel",
+            "streetAddress": "Lupinestraat",
+            "addressLocality": "Hechtel - Eksel",
+            "postalCode": "3940",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stedelijk atletiekterrein",
+            "streetAddress": "Sportlaan 6",
+            "addressLocality": "Bree",
+            "postalCode": "3960",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

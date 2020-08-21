@@ -1,0 +1,40 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ADD.jsonld",
+    "@type": "Club",
+    "identifier": "ADD",
+    "name": "AC DE DEMER",
+    "alternateName": "ADD",
+    "url": "https://www.addemer.com",
+    "image": "",
+    "logo": "",
+    "telephone": "0478/757189",
+    "email": "add@atletiek.be",
+    "address": [
+        {
+            "name": "Gemeentelijk Sportcentrum",
+            "streetAddress": "Oud Mersenhovenstraat 2",
+            "addressLocality": "Kortessem",
+            "postalCode": "3720",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Gemeentelijk Sportterrein - Demerstrand",
+            "streetAddress": "Stationsstraat 30",
+            "addressLocality": "Diepenbeek",
+            "postalCode": "3590",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportstadion De Motten",
+            "streetAddress": "Kastanjewal",
+            "addressLocality": "Tongeren",
+            "postalCode": "3700",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

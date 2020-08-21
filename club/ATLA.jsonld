@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ATLA.jsonld",
+    "@type": "Club",
+    "identifier": "ATLA",
+    "name": "ATL.CL.LANAKEN",
+    "alternateName": "ATLA",
+    "url": "https://www.atla.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0494/94.18.43",
+    "email": "atla@atletiek.be",
+    "address": [
+        {
+            "name": "Domein Pietersheim",
+            "streetAddress": "Sportstraat",
+            "addressLocality": "Lanaken",
+            "postalCode": "3620",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

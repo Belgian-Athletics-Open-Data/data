@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/LYRA.jsonld",
+    "@type": "Club",
+    "identifier": "LYRA",
+    "name": "AC LYRA",
+    "alternateName": "LYRA",
+    "url": "https://www.aclyra.com",
+    "image": "",
+    "logo": "",
+    "telephone": "0475 20 86 14",
+    "email": "lyra@atletiek.be",
+    "address": [
+        {
+            "name": "Netestadion",
+            "streetAddress": "Aarschotsesteenweg 3",
+            "addressLocality": "Lier",
+            "postalCode": "2500",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

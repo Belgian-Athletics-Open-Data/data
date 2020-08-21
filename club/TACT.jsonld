@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/TACT.jsonld",
+    "@type": "Club",
+    "identifier": "TACT",
+    "name": "TAC ST.TRUIDEN",
+    "alternateName": "TACT",
+    "url": "https://www.atletiekclub-tact.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0477/73.63.48",
+    "email": "tact@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Sportlaan",
+            "addressLocality": "Sint-Truiden",
+            "postalCode": "3800",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/GEEL.jsonld",
+    "@type": "Club",
+    "identifier": "GEEL",
+    "name": "GEELSE AC",
+    "alternateName": "GEEL",
+    "url": "https://www.geelseatletiekclub.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0475 30 11 32",
+    "email": "geel@atletiek.be",
+    "address": [
+        {
+            "name": "Sportterrein De Leunen",
+            "streetAddress": "Zwanenstraat 10",
+            "addressLocality": "Geel",
+            "postalCode": "2440",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

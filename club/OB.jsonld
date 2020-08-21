@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/OB.jsonld",
+    "@type": "Club",
+    "identifier": "OB",
+    "name": "OL. BRUGGE",
+    "alternateName": "OB",
+    "url": "https://www.olympicbrugge.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0475 74 17 58",
+    "email": "ob@atletiek.be",
+    "address": [
+        {
+            "name": "Sport Vlaanderen Brugge Julien Saelens",
+            "streetAddress": "Nijverheidsstraat 112",
+            "addressLocality": "Brugge",
+            "postalCode": "8310",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Stadion Olivier Knokke",
+            "streetAddress": "E. Verheyestraat",
+            "addressLocality": "Knokke",
+            "postalCode": "8300",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

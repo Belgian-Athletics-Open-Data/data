@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/EA.jsonld",
+    "@type": "Club",
+    "identifier": "EA",
+    "name": "EENDR.AALST",
+    "alternateName": "EA",
+    "url": "https://www.eendrachtaalst.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0486/263000",
+    "email": "ea@atletiek.be",
+    "address": [
+        {
+            "name": "Osbroekstadion",
+            "streetAddress": "Parklaan/Frans Blanckaertdreef",
+            "addressLocality": "Aalst",
+            "postalCode": "9300",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ATAC.jsonld",
+    "@type": "Club",
+    "identifier": "ATAC",
+    "name": "Arrondissement Turnhout Atletiekclub",
+    "alternateName": "ATAC",
+    "url": "https://www.atac-atletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0495 642562",
+    "email": "atac@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Turnhout",
+            "streetAddress": "Steenweg op Tielen 1",
+            "addressLocality": "Turnhout",
+            "postalCode": "2300",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportcentrum Diepvenneke",
+            "streetAddress": "Diepvenneke 43",
+            "addressLocality": "Vosselaar",
+            "postalCode": "2350",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

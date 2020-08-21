@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/RCG.jsonld",
+    "@type": "Club",
+    "identifier": "RCG",
+    "name": "RACING GENT",
+    "alternateName": "RCG",
+    "url": "https://krcgentatletiek.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0499/700355",
+    "email": "rcg@atletiek.be",
+    "address": [
+        {
+            "name": "Wouter Weylandt-atletiekstadion",
+            "streetAddress": "Emanuel Hielstraat 106",
+            "addressLocality": "Gentbrugge",
+            "postalCode": "9050",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

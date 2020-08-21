@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BEHO.jsonld",
+    "@type": "Club",
+    "identifier": "BEHO",
+    "name": "BEVERHOUT AC",
+    "alternateName": "BEHO",
+    "url": "https://www.beverhout.be",
+    "image": "",
+    "logo": "",
+    "telephone": "050/788683",
+    "email": "beho@atletiek.be",
+    "address": [
+        {
+            "name": "Sportpark Drogenbrood",
+            "streetAddress": "Wellingstraat 29A",
+            "addressLocality": "Beernem",
+            "postalCode": "8730",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ALVA.jsonld",
+    "@type": "Club",
+    "identifier": "ALVA",
+    "name": "Atletiek Land van Aalst",
+    "alternateName": "ALVA",
+    "url": "https://www.atletieklandvanaalst.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "alva@atletiek.be",
+    "address": [
+        {
+            "name": "Osbroekstadion",
+            "streetAddress": "Frans Blanckaertdreef",
+            "addressLocality": "Aalst",
+            "postalCode": "9300",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

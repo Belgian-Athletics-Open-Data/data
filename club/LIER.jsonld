@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/LIER.jsonld",
+    "@type": "Club",
+    "identifier": "LIER",
+    "name": "AC LIERSE",
+    "alternateName": "LIER",
+    "url": "https://www.aclierse.com",
+    "image": "",
+    "logo": "",
+    "telephone": "0474 65 14 91",
+    "email": "lier@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Moerstraat 55",
+            "addressLocality": "'s Gravenwezel",
+            "postalCode": "2970",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Netestadion",
+            "streetAddress": "Aarschotsesteenweg",
+            "addressLocality": "Lier",
+            "postalCode": "2500",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

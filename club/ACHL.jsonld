@@ -1,0 +1,47 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ACHL.jsonld",
+    "@type": "Club",
+    "identifier": "ACHL",
+    "name": "AC HERENTALS",
+    "alternateName": "ACHL",
+    "url": "https://www.achl.be",
+    "image": "",
+    "logo": "",
+    "telephone": "",
+    "email": "achl@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum Kapelleke",
+            "streetAddress": "Bergensesteenweg 61",
+            "addressLocality": "Herenthout",
+            "postalCode": "2270",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sporta",
+            "streetAddress": "Geneinde 2",
+            "addressLocality": "Tongerlo",
+            "postalCode": "2260",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sport Vlaanderen Herentals",
+            "streetAddress": "Vorselaarsebaan 60",
+            "addressLocality": "Herental",
+            "postalCode": "2200",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Mariagaarde",
+            "streetAddress": "Oude Molenstraat 13",
+            "addressLocality": "Westmalle",
+            "postalCode": "2390",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

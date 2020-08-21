@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/DCLA.jsonld",
+    "@type": "Club",
+    "identifier": "DCLA",
+    "name": "DC LEUVEN ATL",
+    "alternateName": "DCLA",
+    "url": "https://www.dcla.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0497/59.92.06",
+    "email": "dcla@atletiek.be",
+    "address": [
+        {
+            "name": "Sportcentrum De Koekoek",
+            "streetAddress": "Sportlaan",
+            "addressLocality": "Halen",
+            "postalCode": "3545",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "AtletiekArena Gaston Roelants",
+            "streetAddress": "Diestsesteenweg 272",
+            "addressLocality": "Kessel-Lo",
+            "postalCode": "3010",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

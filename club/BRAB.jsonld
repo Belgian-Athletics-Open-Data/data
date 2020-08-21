@@ -1,0 +1,33 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/BRAB.jsonld",
+    "@type": "Club",
+    "identifier": "BRAB",
+    "name": "ANTWERP BRABO",
+    "alternateName": "BRAB",
+    "url": "https://www.ac-brabo.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0495/271236",
+    "email": "brab@atletiek.be",
+    "address": [
+        {
+            "name": "SPORTCENTRUM HET ROOI",
+            "streetAddress": "Berchemstadionstraat 73",
+            "addressLocality": "Berchem (Antwerpen)",
+            "postalCode": "2600",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "SPORTPARK RUGGEVELD",
+            "streetAddress": "Ruggeveldlaan 480",
+            "addressLocality": "Deurne (Antwerpen)",
+            "postalCode": "2100",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

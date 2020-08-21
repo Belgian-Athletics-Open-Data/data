@@ -1,0 +1,68 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/AVT.jsonld",
+    "@type": "Club",
+    "identifier": "AVT",
+    "name": "AV TOEKOMST",
+    "alternateName": "AVT",
+    "url": "https://www.avtoekomst.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0478/137 899",
+    "email": "avt@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste Duinenstadion",
+            "streetAddress": "Lupinestraat",
+            "addressLocality": "Hechtel",
+            "postalCode": "3940",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Atletiekpiste Houthalen",
+            "streetAddress": "Oudstrijderslaan",
+            "addressLocality": "Houthalen",
+            "postalCode": "3530",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Atletiekpiste Maasmechelen",
+            "streetAddress": "Gouv.H. Verwilghenlaan",
+            "addressLocality": "Maasmechelen",
+            "postalCode": "3630",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Atletiekstadion De Veen",
+            "streetAddress": "Veenderweg 48",
+            "addressLocality": "Heusden (Limb.)",
+            "postalCode": "3550",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "De Borg",
+            "streetAddress": "Borglaan",
+            "addressLocality": "Neeroeteren",
+            "postalCode": "3680",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportcentrum De Deuster",
+            "streetAddress": "Deusterstraat",
+            "addressLocality": "Peer",
+            "postalCode": "3990",
+            "addressCountry": "countrycode:BE"
+        },
+        {
+            "name": "Sportcentrum Kiewit",
+            "streetAddress": "Tulpinlaan 40",
+            "addressLocality": "Hasselt",
+            "postalCode": "3500",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/GENK.jsonld",
+    "@type": "Club",
+    "identifier": "GENK",
+    "name": "AC GENK",
+    "alternateName": "GENK",
+    "url": "https://www.atletiekclub-genk.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0476 76 08 85",
+    "email": "genk@atletiek.be",
+    "address": [
+        {
+            "name": "Atletiekpiste",
+            "streetAddress": "Mosselerlaan 110",
+            "addressLocality": "Genk",
+            "postalCode": "3600",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

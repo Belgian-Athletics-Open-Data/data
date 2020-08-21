@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/AVKA.jsonld",
+    "@type": "Club",
+    "identifier": "AVKA",
+    "name": "ATL.VER.KONTICH. AARTSELAAR",
+    "alternateName": "AVKA",
+    "url": "https://www.avka.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0496/96 39 96",
+    "email": "avka@atletiek.be",
+    "address": [
+        {
+            "name": "Piste",
+            "streetAddress": "Kleistraat 204",
+            "addressLocality": "Aartselaar",
+            "postalCode": "2630",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/club/ARAC.jsonld",
+    "@type": "Club",
+    "identifier": "ARAC",
+    "name": "ARENDONK AC",
+    "alternateName": "ARAC",
+    "url": "https://www.atletiek-arac.be",
+    "image": "",
+    "logo": "",
+    "telephone": "0499/72.12.15",
+    "email": "arac@atletiek.be",
+    "address": [
+        {
+            "name": "Sportpark Heikant",
+            "streetAddress": "Grotstraat",
+            "addressLocality": "Arendonk",
+            "postalCode": "2370",
+            "addressCountry": "countrycode:BE"
+        }
+    ],
+    "athlete": [],
+    "memberOf": {
+        "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+    }
+}
