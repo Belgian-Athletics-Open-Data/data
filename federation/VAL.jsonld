@@ -16,14 +16,269 @@
         "addressCountry": "countrycode:BE"
     },
     "member": [
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/AA.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ABAV.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ABES.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACA.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ACME.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/WIBO.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ZA.jsonld" },
-        { "@id" : "https://belgian-athletics-open-data.github.io/data/club/ZWAT.jsonld" }      
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ABAV.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ABES.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACBR.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACDL.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACG.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACHL.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACKO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACME.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACP.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ACW.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ADD.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ALVA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ARAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ASVO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATLA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ATLE.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AVKA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AVLO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AVMO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AVR.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AVT.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AVZK.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/AZW.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BAV.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BEHO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BERT.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BONH.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BRAB.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BREE.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/BVAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DALO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DCLA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DEIN.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/DUFF.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/EA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ESAK.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/FLAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GEEL.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GENK.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/GRIM.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HAKI.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HALE.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HAMM.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HCO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/HULS.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/JMTM.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/KAAG.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/KAPE.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/KKS.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LEBB.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LIER.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LOND.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LOOI.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/LYRA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MACD.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/MACW.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OB.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OEH.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OLSE.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/OPW.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/PEGA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RAM.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RAT.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCG.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RCT.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/RIEM.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ROBA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SACN.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SGOL.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPBO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/SPVI.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/STAX.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/TACT.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/TJAK.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/VAC.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/VITA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/VMOL.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/VOLH.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/VS.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/WIBO.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ZA.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/club/ZWAT.jsonld"
+        }
     ]
 }
