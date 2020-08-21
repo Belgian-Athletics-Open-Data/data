@@ -1,0 +1,27 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/federation/BEL.jsonld",
+    "@type": "Federation",
+    "name": "Royal Belgian Athletics Federation",
+    "alternateName": "BEL",
+    "email": "belgian.athletics@skynet.be",
+    "url": "https://www.belgian-athletics.be/",
+    "telephone": "02 474 72 10",
+    "fax": "02 474 72 12",
+    "address": {
+        "@type": "PostalAddress",
+        "name": "Koning Boudewijnstadion",
+        "streetAddress": "Marathonlaan 119 b",
+        "addressLocality": "Brussel",
+        "postalCode": "1020",
+        "addressCountry": "countrycode:BE"
+    },
+    "member": [
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/federation/VAL.jsonld"
+        },
+        {
+            "@id": "https://belgian-athletics-open-data.github.io/data/federation/LFBA.jsonld"
+        }
+    ]
+}
