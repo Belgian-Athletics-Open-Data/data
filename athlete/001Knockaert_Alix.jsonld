@@ -8,7 +8,8 @@
     "gender": "Female",
     "nationality": "countrycode:BE",
     "identifier": {
-        "2019": "0371"
+        "2019": "0371",
+        "2020": "3502"
     },
     "birthDate": "2004-02-20",
     "affiliation": [

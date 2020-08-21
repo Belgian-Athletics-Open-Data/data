@@ -8,7 +8,8 @@
     "gender": "Male",
     "nationality": "countrycode:BE",
     "identifier": {
-        "2019": "1360"
+        "2019": "1360",
+        "2020": "3008"
     },
     "birthDate": "1998-09-29",
     "affiliation": [
