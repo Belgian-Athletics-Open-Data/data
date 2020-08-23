@@ -1,0 +1,14 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/discipline/60m.jsonld",
+    "@type": "Sprint",
+    "name": "60 metres",
+    "alternateName": "60-metre dash",
+    "raceCompetitionType": "race:RaceIndividual",
+    "venueType": "venue:VenueOutdoor",
+    "distance": {
+        "@type": "QuantitativeValue",
+        "value": "60",
+        "unitCode": "MTR"
+    }
+}
