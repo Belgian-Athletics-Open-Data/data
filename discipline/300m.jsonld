@@ -1,0 +1,14 @@
+{
+    "@context": "http://w3c.github.io/opentrack-cg/contexts/opentrack.jsonld",
+    "@id": "https://belgian-athletics-open-data.github.io/data/discipline/300m.jsonld",
+    "@type": "Sprint",
+    "name": "300 metres",
+    "alternateName": "300-metre dash",
+    "raceCompetitionType": "race:RaceIndividual",
+    "venueType": "venue:VenueOutdoor",
+    "distance": {
+        "@type": "QuantitativeValue",
+        "value": "300",
+        "unitCode": "MTR"
+    }
+}
