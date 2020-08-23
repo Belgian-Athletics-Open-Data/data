@@ -7,8 +7,8 @@
     "raceCompetitionType": "race:RaceIndividual",
     "venueType": "venue:VenueOutdoor",
     "distance": {
-      "@type": "QuantitativeValue",
-      "value": "100",
-      "unitCode": "MTR"
+        "@type": "QuantitativeValue",
+        "value": "100",
+        "unitCode": "MTR"
     }
-  }
+}
