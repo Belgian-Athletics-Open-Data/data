@@ -13,7 +13,7 @@
         "streetAddress": "Marathonlaan 119 c",
         "addressLocality": "Brussel",
         "postalCode": "1020",
-        "addressCountry": "countrycode:BE"
+        "addressCountry": "countrycode:BEL"
     },
     "memberOf": "https://belgian-athletics-open-data.github.io/data/federation/BEL.jsonld",
     "member": [
